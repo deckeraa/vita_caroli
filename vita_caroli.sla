@@ -104,17 +104,17 @@
         <Sections>
             <Section Number="0" Name="Section 1" From="0" To="12" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
         </Sections>
+        <Pattern Name="Arrow1Lend (3)" width="14.8" height="8.80000000000291" scaleX="1" scaleY="1" xoffset="0" yoffset="0">
+            <PatternItem XPOS="0.4" YPOS="0.4" OwnPage="-1" ItemID="1486607612" PTYPE="6" WIDTH="14" HEIGHT="8" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.8" PCOLOR="FromSVG#000000" PCOLOR2="FromSVG#000000" PLINEART="1" ANNAME=" path55955" TEXTFLOWMODE="1" path="M4 4 L0 8 L14 4 L0 0 L4 4 Z" copath="M4 4 L0 8 L14 4 L0 0 L4 4 Z" gXpos="0.4" gYpos="0.4" gWidth="14.8" gHeight="8.8" LAYER="0"/>
+        </Pattern>
         <Pattern Name="Arrow1Lend" width="14.8" height="8.80000000000291" scaleX="1" scaleY="1" xoffset="0" yoffset="0">
-            <PatternItem XPOS="0.4" YPOS="0.4" OwnPage="-1" ItemID="1017631584" PTYPE="6" WIDTH="14" HEIGHT="8" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.8" PCOLOR="FromSVG#000000" PCOLOR2="FromSVG#000000" PLINEART="1" ANNAME=" path55955" TEXTFLOWMODE="1" path="M4 4 L0 8 L14 4 L0 0 L4 4 Z" copath="M4 4 L0 8 L14 4 L0 0 L4 4 Z" gXpos="0.4" gYpos="0.4" gWidth="14.8" gHeight="8.8" LAYER="0"/>
+            <PatternItem XPOS="0.4" YPOS="0.4" OwnPage="-1" ItemID="1486610700" PTYPE="6" WIDTH="14" HEIGHT="8" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.8" PCOLOR="FromSVG#000000" PCOLOR2="FromSVG#000000" PLINEART="1" ANNAME=" path55955" TEXTFLOWMODE="1" path="M4 4 L0 8 L14 4 L0 0 L4 4 Z" copath="M4 4 L0 8 L14 4 L0 0 L4 4 Z" gXpos="0.4" gYpos="0.4" gWidth="14.8" gHeight="8.8" LAYER="0"/>
         </Pattern>
         <Pattern Name="Arrow1Lend (4)" width="14.8" height="8.80000000000291" scaleX="1" scaleY="1" xoffset="0" yoffset="0">
-            <PatternItem XPOS="0.4" YPOS="0.4" OwnPage="-1" ItemID="1017606272" PTYPE="6" WIDTH="14" HEIGHT="8" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.8" PCOLOR="FromSVG#000000" PCOLOR2="FromSVG#000000" PLINEART="1" ANNAME=" path55955" TEXTFLOWMODE="1" path="M4 4 L0 8 L14 4 L0 0 L4 4 Z" copath="M4 4 L0 8 L14 4 L0 0 L4 4 Z" gXpos="0.4" gYpos="0.4" gWidth="14.8" gHeight="8.8" LAYER="0"/>
-        </Pattern>
-        <Pattern Name="Arrow1Lend (3)" width="14.8" height="8.80000000000291" scaleX="1" scaleY="1" xoffset="0" yoffset="0">
-            <PatternItem XPOS="0.4" YPOS="0.4" OwnPage="-1" ItemID="1017590928" PTYPE="6" WIDTH="14" HEIGHT="8" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.8" PCOLOR="FromSVG#000000" PCOLOR2="FromSVG#000000" PLINEART="1" ANNAME=" path55955" TEXTFLOWMODE="1" path="M4 4 L0 8 L14 4 L0 0 L4 4 Z" copath="M4 4 L0 8 L14 4 L0 0 L4 4 Z" gXpos="0.4" gYpos="0.4" gWidth="14.8" gHeight="8.8" LAYER="0"/>
+            <PatternItem XPOS="0.4" YPOS="0.4" OwnPage="-1" ItemID="1486495004" PTYPE="6" WIDTH="14" HEIGHT="8" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.8" PCOLOR="FromSVG#000000" PCOLOR2="FromSVG#000000" PLINEART="1" ANNAME=" path55955" TEXTFLOWMODE="1" path="M4 4 L0 8 L14 4 L0 0 L4 4 Z" copath="M4 4 L0 8 L14 4 L0 0 L4 4 Z" gXpos="0.4" gYpos="0.4" gWidth="14.8" gHeight="8.8" LAYER="0"/>
         </Pattern>
         <Pattern Name="Arrow1Lend (2)" width="14.8" height="8.80000000000291" scaleX="1" scaleY="1" xoffset="0" yoffset="0">
-            <PatternItem XPOS="0.4" YPOS="0.4" OwnPage="-1" ItemID="1017609392" PTYPE="6" WIDTH="14" HEIGHT="8" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.8" PCOLOR="FromSVG#000000" PCOLOR2="FromSVG#000000" PLINEART="1" ANNAME=" path55955" TEXTFLOWMODE="1" path="M4 4 L0 8 L14 4 L0 0 L4 4 Z" copath="M4 4 L0 8 L14 4 L0 0 L4 4 Z" gXpos="0.4" gYpos="0.4" gWidth="14.8" gHeight="8.8" LAYER="0"/>
+            <PatternItem XPOS="0.4" YPOS="0.4" OwnPage="-1" ItemID="1486570412" PTYPE="6" WIDTH="14" HEIGHT="8" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.8" PCOLOR="FromSVG#000000" PCOLOR2="FromSVG#000000" PLINEART="1" ANNAME=" path55955" TEXTFLOWMODE="1" path="M4 4 L0 8 L14 4 L0 0 L4 4 Z" copath="M4 4 L0 8 L14 4 L0 0 L4 4 Z" gXpos="0.4" gYpos="0.4" gWidth="14.8" gHeight="8.8" LAYER="0"/>
         </Pattern>
         <MASTERPAGE PAGEXPOS="100.001" PAGEYPOS="20.002" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="0" NAM="Normal Left" MNAM="" Size="Letter" Orientation="0" LEFT="1" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <MASTERPAGE PAGEXPOS="100.001" PAGEYPOS="20.002" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="1" NAM="Normal Right" MNAM="" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
@@ -133,21 +133,21 @@
         <PAGE PAGEXPOS="712.001" PAGEYPOS="4180.017" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="10" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.001" PAGEYPOS="5012.02" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="11" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.001" PAGEYPOS="5012.02" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="12" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="1019519888" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.001" gYpos="926419550451.847" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="1488410124" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.001" gYpos="926450371170.958" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="1019514000" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="13629032686.001" gYpos="926418992181.251" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="1488415500" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="13635510094.001" gYpos="926449812900.362" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="888.005" OwnPage="1" ItemID="1019539216" PTYPE="4" WIDTH="522" HEIGHT="235.561878980892" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 235.562 L0 235.562 L0 0 Z" copath="M0 0 L522 0 L522 235.562 L0 235.562 L0 0 Z" gXpos="136.001" gYpos="888.005" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="888.005" OwnPage="1" ItemID="1486577996" PTYPE="4" WIDTH="522" HEIGHT="235.561878980892" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 235.562 L0 235.562 L0 0 Z" copath="M0 0 L522 0 L522 235.562 L0 235.562 L0 0 Z" gXpos="136.001" gYpos="888.005" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="Salvātor mundī, postquam dē Virgine nāscī"/>
@@ -175,7 +175,7 @@
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="1123.56687898089" OwnPage="1" ItemID="1020387760" PTYPE="4" WIDTH="522" HEIGHT="220.28525477707" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 220.285 L0 220.285 L0 0 Z" copath="M0 0 L522 0 L522 220.285 L0 220.285 L0 0 Z" gXpos="136.001" gYpos="1123.56687898089" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="1123.56687898089" OwnPage="1" ItemID="1489244716" PTYPE="4" WIDTH="522" HEIGHT="220.28525477707" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 220.285 L0 220.285 L0 0 Z" copath="M0 0 L522 0 L522 220.285 L0 220.285 L0 0 Z" gXpos="136.001" gYpos="1123.56687898089" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -196,7 +196,7 @@
                 <ITEXT FONT="DejaVu Serif Italic" CH="by right divinely"/>
                 <ITEXT CH=". I chose to capitalize "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Magnō"/>
-                <ITEXT CH=" as an editorial decision, since it is a common epithet for Charlemagne."/>
+                <ITEXT CH=" since it is a common epithet for Charlemagne."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="For Carloman his brother had died now, near the late parts of the present year."/>
@@ -204,7 +204,7 @@
                 <para PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="766.001" YPOS="888.005" OwnPage="2" ItemID="1020117872" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="888.005" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="766.001" YPOS="888.005" OwnPage="2" ItemID="1488991852" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="888.005" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="annī: year; singular masculine genitive from annus, annī"/>
@@ -305,14 +305,16 @@
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="2552.011" OwnPage="5" ItemID="1020334144" PTYPE="4" WIDTH="522" HEIGHT="500.527031847134" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 500.527 L0 500.527 L0 0 Z" copath="M0 0 L522 0 L522 500.527 L0 500.527 L0 0 Z" gXpos="136.001" gYpos="2552.011" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="2552.011" OwnPage="5" ItemID="1489339724" PTYPE="4" WIDTH="522" HEIGHT="500.527031847134" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 500.527 L0 500.527 L0 0 Z" copath="M0 0 L522 0 L522 500.527 L0 500.527 L0 0 Z" gXpos="136.001" gYpos="2552.011" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="Rēx autem Carolus celebrāvit in Attiniācō"/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Nātālem Dominī, nec nōn paschālia fēsta. "/>
+                <ITEXT CH="Nātālem Dominī, nec nōn Paschālia fēsta. "/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Paulō Rōmānē dēfūnctō praesule sēdis,"/>
+                <ITEXT CH="Paulō"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" Rōmānē dēfūnctō praesule sēdis,"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Suscēpit post hunc Adriānus pontificātum."/>
                 <para PARENT="Latin"/>
@@ -321,113 +323,149 @@
                 <ITEXT CH="Francōrum procerēs ad concilium generāle;"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Cum quibus ut bellō Saxonēs aggrederētur"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Dēcrēvit; quoniam Saxōnum proxima Francīs"/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Adiacet ad Boream tellūs, vix līmite certō"/>
+                <ITEXT CH="Adiacet ad boream tellūs, vix līmite certō"/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Dīvīsī gentis fīnēs utriusque cohaerent."/>
+                <ITEXT CH="Dīvīsī gentis fīnēs"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=" utriusque cohaerent."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Que tum vīcīnae quō plūs regiōne fuēre,"/>
+                <ITEXT CH="Que"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT CH=" tum vīcīnae quō plūs regiōne fuēre,"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Tantō sēiūnctās animīs discordia fēcit."/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Fīnitimōs sed enim per agrōs utrimque solēbant"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Assidue fierī cēdēs, incendia, praede."/>
+                <ITEXT CH="Assiduē fierī cēdēs, incendia, praede."/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Saxonum nātūra ferōx et pectora dūra,"/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Ferre iugum Chrīstī nec dum dignāta suāve,"/>
+                <ITEXT CH="Ferre iugum Chrīstī necdum dīgnāta"/>
+                <ITEXT FEATURES="inherit superscript" CH="6"/>
+                <ITEXT CH=" suāve,"/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Demonicō nimium fuerant errōre subācta."/>
+                <ITEXT CH="Dēmonicō nimium fuerant errōre subācta."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="3052.53803184713" OwnPage="5" ItemID="1021180704" PTYPE="4" WIDTH="522" HEIGHT="127.949044585987" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 127.949 L0 127.949 L0 0 Z" copath="M0 0 L522 0 L522 127.949 L0 127.949 L0 0 Z" gXpos="136.001" gYpos="3052.53803184713" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="3052.53803184713" OwnPage="5" ItemID="1490050556" PTYPE="4" WIDTH="522" HEIGHT="219.47296815287" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 219.473 L0 219.473 L0 0 Z" copath="M0 0 L522 0 L522 219.473 L0 219.473 L0 0 Z" gXpos="136.001" gYpos="3052.53803184713" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <trail/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Paul the Roman president of the seat (i.e. the Pope) having died, Adrian after him undertook the pontificate."/>
+                <ITEXT CH=" Pope Paul I was Pope from May 29th 757 to June 28th 767, then Pope Stephen III (who isn't mentioned in this line) was Pope from August 7th 768 to January 24th 772, then Pope Adrian I was Pope from February 1st 772 to December 25th 795. Mommsen includes the following footnote on "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Paulō"/>
+                <ITEXT CH=": "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="immo Stephano IV"/>
+                <ITEXT CH="; by this Mommsen is referring to Pope Stephen III, since when Mommsen wrote his work Pope-elect Stephen (died March 25th 752 before taking Papal office) was considered an official Pope, but after 1961 was no longer deemed to have been a Pope, leading to a disparity in the numbering of Stephens."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="With whom he decided they would attack the Saxons in war."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="With barely a certain border the divided boundaries of either people stood closely together."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And thereupon when the neighbors went further out of the region, discord made their souls to be so separated."/>
+                <ITEXT CH=" The proximity of the peoples led to conflict."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And both sides were accustomed to slaughter, fire, and prey to constantly occur through the neighboring fields."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="6"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Nor had they (the Saxons) deigned to bear the gentle yoke of Christ, but had been subjugated too much in demonic error. "/>
+                <ITEXT CH="This is reminiscent of Matthew 11:30 &quot;My yoke is easy and my burden is light&quot;."/>
+                <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="766.001" YPOS="2552.011" OwnPage="6" ItemID="1021172784" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="2552.011" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="766.001" YPOS="2552.011" OwnPage="6" ItemID="1491740620" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="2552.011" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="ad: to, towards, at, according to"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="adiacet: it lies next to; 3rd person singular present active from adjaceo, adjacere, adjacui, adjacitus"/>
+                <ITEXT CH="adiacet: it lies next to; 3rd person singular present active from adiaceō, adiacēre, adiacuī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="aggrederētur: they were attacking; 3rd person singular imperfect passive subjunctive from aggredio, aggredere, aggressī, aggressus"/>
+                <ITEXT CH="aggrederētur: they were attacking; 3rd person singular imperfect passive subjunctive from aggredior, aggredī, aggressus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="agrōs: fields; plural masculine accusative from ager, agrī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="animīs: souls, minds, lives; plural feminine  from anima, animae"/>
+                <ITEXT CH="animīs: souls, minds, lives; plural feminine ablative from anima, animae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="assiduē: permanently"/>
                 <para PARENT="Vocab"/>
+                <ITEXT CH="Attiniācō: likely Attigny in the Ardennes department of modern-day France"/>
+                <para PARENT="Vocab"/>
                 <ITEXT CH="autem: but, however, moreover"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="bellō: battle, war; singular neuter dative from bellum, bellī"/>
+                <ITEXT CH="bellō: battle, war; singular neuter ablative from bellum, bellī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="boream: north wind; the_North; Boreas (god of the north wind); singular masculine accusative from Boreās, Boreae"/>
+                <ITEXT CH="boream: the north; singular masculine accusative from Boreās, Boreae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="carolus: Charlemagne, AD 748-814, King of the Franks and Emperor of the Western Roman Empire, member of the Carolingian Dynasty"/>
+                <ITEXT CH="Carolus: Charlemagne, AD 748-814, King of the Franks and Emperor of the Western Roman Empire, member of the Carolingian Dynasty"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="cēdēs: you will yield; 2nd person singular future active from cēdō, cēdere, cessī, cessus"/>
+                <ITEXT CH="cēdēs: slaughter; plural masculine accusative alternative spelling from caedēs, caedis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="celebrāvit: he celebrated; 3rd person singular perfect active from celebrō, celebrāre, celebrāvī, celebrātus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="certō: certain; 1st person singular present active from certō, certāre, certāvī, certātus"/>
+                <ITEXT CH="certō: certain; singular masculine ablative from certus, certa, certum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="chrīstī: annointed one, Christ; singular masculine genitive from Chrīstus, Chrīstī"/>
+                <ITEXT CH="Chrīstī: Christ; singular masculine genitive from Chrīstus, Chrīstī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="cohaerent: they stick together; 3rd person plural present active from cohaereō, cohaerēre, cohaesī, cohaesus"/>
+                <ITEXT CH="cohaerent: they stand together; 3rd person plural present active from cohaereō, cohaerēre, cohaesī, cohaesus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="collēgit: he assembled, he collected; 3rd person singular perfect active from colligō, colligere, collēgī, collēctus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="concilium: council, assembly; singular neuter nominative from concilium, concili(i)"/>
+                <ITEXT CH="concilium: council, assembly; singular neuter accusative from concilium, conciliī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cum: with"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dēcrēvit: he decided; 3rd person singular perfect active from dēcernō, dēcernere, dēcrēvī, dēcrētus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dēfūnctō: dead; singular masculine dative perfect participle from defungor, defungi, defunctus sum"/>
+                <ITEXT CH="dēfūnctō: dead; singular masculine ablative perfect participle from defungor, defungi, defunctus sum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dīgnata: having been deemed worthy; singular feminine nominative perfect passive participle from dīgnō, dīgnāre, dīgnavī, dīgnatus"/>
+                <ITEXT CH="Dēmonicō: with demonic; singular masculine ablative variant spellinig from daemonicus -a -um"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dīgnāta: having deemed worthy; plural neuter nominative perfect passive participle from dīgnor, dīgnārī, dīgnātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="discordia: discord, disagreement; singular feminine nominative from discordia, discordiae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="divis.i: divido, dividere, divisi, divisus V (3rd) [XXXAX]; infinitive"/>
+                <ITEXT CH="dīvīsī: having been divided; singular masculine nominative from dīvidō, dīvidere, dīvīsī, dīvīsus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dominī: of the lord; singular masculine genitive from dominus, dominī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dum: while, as long as, until"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dūra: hard; singular feminine nominative from dūrus, dūra -um, dūrior -or -us, dūrissimus -a -um"/>
+                <ITEXT CH="dūra: hard; plural neuter nominative from dūrus, dūra -um, dūrior -or -us, dūrissimus -a -um"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="enim: for, truly, really, indeed"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="errōre: error, wandering, deception; singular masculine  from error, errōris"/>
+                <ITEXT CH="errōre: error, wandering, deception; singular masculine ablative from error, errōris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="et: and"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="fēcit: he did; 3rd person singular perfect active from faciō, facere, fēcī, factus"/>
+                <ITEXT CH="fēcit: it made; 3rd person singular perfect active from faciō, facere, fēcī, factus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ferōx: wild, bold, defiant; singular  nominative from ferōx, (gen.), ferōcis"/>
+                <ITEXT CH="ferōx: wild, bold, defiant; singular feminine nominative from ferōx, (gen.), ferōcis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ferre: to bring, to bear;  person  present active from ferō, ferre, tulī, lātus"/>
+                <ITEXT CH="ferre: to bear; present active infinitive from ferō, ferre, tulī, lātus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="fēsta: festivals; singular feminine nominative from fēstus, fēsta, fēstum"/>
+                <ITEXT CH="fēsta: festivals; plural neuter accusative from fēstum, fēstī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="fierī: to happen, to occur;  person  present active from fīō, fierī, factus sum"/>
+                <ITEXT CH="fierī: to happen, to occur; present infinitive from fīō, fierī, factus sum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="fīnēs: boundaries, ends, limits; plural common nominative from fīnis, fīnis"/>
+                <ITEXT CH="fīnēs: boundaries, ends, limits; plural masculine nominative from fīnis, fīnis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="fīnitimōs: neighbors; plural masculine accusative from fīnitimus, fīnitimī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="francīs: the Franks"/>
+                <ITEXT CH="Francīs: the Franks"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="francōrum: of the Franks"/>
+                <ITEXT CH="Francōrum: of the Franks"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="fuerant: they had been; 3rd person plural pluperfect active from sum, esse, fuī, futūrus"/>
                 <para PARENT="Vocab"/>
@@ -441,25 +479,25 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="in: into (with accusative), in (with ablative)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="incendia: fires; plural neuter nominative from incendium, incendi(i)"/>
+                <ITEXT CH="incendia: fires; plural neuter nominative from incendium, incendiī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="iugum: yoke; singular neuter nominative from jugum, jugi"/>
+                <ITEXT CH="iugum: yoke; singular neuter nominative from iugum, iugī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="limite: limit; singular masculine  from līmes, līmitis"/>
+                <ITEXT CH="līmite: limit; singular masculine ablative from līmes, līmitis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="nātālem: birthday; singular common accusative from natalis, natalis, natale"/>
+                <ITEXT CH="nātālem: birthday, Nātālem Dominī = Christmas; singular common accusative from natalis, natalis, natale"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="nātūra: nature; singular feminine nominative future participle from nāscor, nāscī, nātus sum"/>
+                <ITEXT CH="nātūra: nature; singular feminine nominative from nātūra, nātūrae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="nec: nor, not either"/>
+                <ITEXT CH="necdum: but not yet"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="nimium: to much, superabundance; singular neuter nominative from nimius, nimia, nimium"/>
+                <ITEXT CH="nimium: too much, superabundance; singular neuter nominative from nimius, nimia, nimium"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nōn: not"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="paschālia: Paschal; plural neuter nominative from paschālis, paschālis, paschāle"/>
+                <ITEXT CH="Paschālia: Paschal, Paschālia fēsta = Paschal (Easter) feasts; plural neuter nominative from paschālis, paschālis, paschāle"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="paulō: little; singular masculine dative from paulus, paula, paulum"/>
+                <ITEXT CH="Paulō: Pope Paul I; Pope from May 29th 757 to June 28th 767 (ablative case)"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="pectora: chests; plural neuter nominative from pectus, pectoris"/>
                 <para PARENT="Vocab"/>
@@ -471,29 +509,29 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="post: behind, after, since"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="praede: surety, bondsman; singular masculine  from praes, praedis"/>
+                <ITEXT CH="praede: plunder, prey; plural feminine nominative variant spelling from praeda, praedae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="praesule: president; singular common  from praesul, praesulis"/>
+                <ITEXT CH="praesule: president; singular common ablative from praesul, praesulis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="procerēs: noblemen; plural masculine nominative from procer, proceris"/>
+                <ITEXT CH="procerēs: noblemen; plural masculine accusative from procer, proceris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="proxima: next, nearest; singular feminine nominative from proximus, proxima, proximum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="que: from que{:word &quot;que&quot;, :part-of-speech :conjunction, :dictionary-entry &quot;que&quot;, :definition &quot;and; (while properly attached as enclitic sometimes copyists make mistakes);&quot;, :dictionary-code {:age &quot;Medieval&quot;, :area nil, :geo nil, :freq-code :E, :freq-text &quot;Uncommon, 2 or 3 citations&quot;, :source &quot;Found in a translation  --  no dictionary reference&quot;}}"/>
+                <ITEXT CH="que: and"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quibus: what; plural dative or ablative of qui"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quō: what; singular ablative of quis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="quoniam: after"/>
+                <ITEXT CH="quoniam: since, inasmuch now"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="regiōne: region; singular feminine  from regiō, regiōnis"/>
+                <ITEXT CH="regiōne: region; singular feminine after from regiō, regiōnis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="rēx: king; singular masculine nominative from rēx, rēgis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="rianus: thing; event/affair/business; fact; cause; property; [~ familiaris =&gt; property]; singular masculine nominative from rēs, reī"/>
+                <ITEXT CH="Adriānus: Pope Adrian I, who was Pope from February 1st 772 to December 25th 795"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="rōmāne: Roman; singular masculine vocative from romanus, romana, romanum"/>
+                <ITEXT CH="rōmānē: Roman, Romanly (adverb)"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Saxonēs: The Saxons"/>
                 <para PARENT="Vocab"/>
@@ -501,17 +539,17 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sed: but"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="sēdis: seat; singular feminine genitive from sēdēs, sēdis"/>
+                <ITEXT CH="sēdis: seat, in context the Papal Seat; singular feminine genitive from sēdēs, sēdis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="sēiūnctās: having been separated; plural feminine accusative perfect passive participle from sejungo, sejungere, sejunxi, sejunctus"/>
+                <ITEXT CH="sēiūnctās: having been separated, excluded; plural feminine accusative perfect passive participle from sēiungō, sēiungere, sēiūnxī, sēiūnctus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="solēbant: they were accustomed to; 3rd person plural imperfect active from soleō, solēre, solitus sum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="suāve: sweet; singular neuter nominative from suāvis, suāve, suāvior -or -us, suāvissimus -a -um"/>
+                <ITEXT CH="suāve: sweet; singular neuter accusative from suāvis, suāve, suāvior -or -us, suāvissimus -a -um"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="subācta: having been subjugated, conquered; singular feminine nominative perfect passive participle from subigō, subigere, subēgī, subāctus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="suscēpit: he undertook, he supported; 3rd person singular perfect active from suscipiō, suscipere, suscēpī, susceptus"/>
+                <ITEXT CH="suscēpit: he undertook, he received; 3rd person singular perfect active from suscipiō, suscipere, suscēpī, susceptus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tantō: so much, so great, this many; singular masculine dative from tantus, tanta, tantum"/>
                 <para PARENT="Vocab"/>
@@ -519,32 +557,23 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tum: then"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="UNKNOWN: {:word &quot;Attiniaco&quot;, :part-of-speech :unknown}"/>
-                <para PARENT="Vocab"/>
-                <ITEXT CH="UNKNOWN: {:word &quot;Demonico&quot;, :part-of-speech :unknown}"/>
-                <para PARENT="Vocab"/>
-                <ITEXT CH="UNKNOWN: {:word &quot;Wormatiam&quot;, :part-of-speech :unknown}"/>
-                <para PARENT="Vocab"/>
                 <ITEXT CH="urbem: city; singular feminine accusative from urbs, urbis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ut: so that"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="utrimque: both sides"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="utrius: either; singular  genitive from uter, utra, utrum"/>
+                <ITEXT CH="utrius: either; singular genitive from uter, utra, utrum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vīcīnae: neighbors; singular feminine genitive from vicinus, vicina, vicinum"/>
+                <ITEXT CH="vīcīnae: neighbors; plural feminine nominataive from vicinus, vicina, vicinum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vix: barely"/>
                 <para PARENT="Vocab"/>
-                <para PARENT="Vocab"/>
-                <ITEXT CH="(Attiniaco Demonico Wormatiam boream divis.i que rianus)"/>
-                <para PARENT="Vocab"/>
-                <ITEXT CH="7"/>
+                <ITEXT CH="Wormatiam: Worms, Germany"/>
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="3384.014" OwnPage="7" ItemID="1027322976" PTYPE="4" WIDTH="522" HEIGHT="383.479445859873" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 383.479 L0 383.479 L0 0 Z" copath="M0 0 L522 0 L522 383.479 L0 383.479 L0 0 Z" gXpos="136.001" gYpos="3384.014" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="3384.014" OwnPage="7" ItemID="1496833532" PTYPE="4" WIDTH="522" HEIGHT="383.479445859873" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 383.479 L0 383.479 L0 0 Z" copath="M0 0 L522 0 L522 383.479 L0 383.479 L0 0 Z" gXpos="136.001" gYpos="3384.014" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="Chrīsticolae vērō iam longō tempore Francī"/>
@@ -575,13 +604,13 @@
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="3766.57624840764" OwnPage="7" ItemID="1023331520" PTYPE="4" WIDTH="522" HEIGHT="205.452229299363" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 205.452 L0 205.452 L0 0 Z" copath="M0 0 L522 0 L522 205.452 L0 205.452 L0 0 Z" gXpos="136.001" gYpos="3766.57624840764" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="3766.57624840764" OwnPage="7" ItemID="1493225228" PTYPE="4" WIDTH="522" HEIGHT="205.452229299363" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 205.452 L0 205.452 L0 0 Z" copath="M0 0 L522 0 L522 205.452 L0 205.452 L0 0 Z" gXpos="136.001" gYpos="3766.57624840764" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="766.001" YPOS="3384.014" OwnPage="8" ItemID="1023334848" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="3384.014" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="766.001" YPOS="3384.014" OwnPage="8" ItemID="1493231644" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="3384.014" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="antīqua: of the ancient; singular feminine nominative from antīquus, antīqua -um, antīquior -or -us, antīquissimus -a -um"/>
@@ -751,7 +780,7 @@
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="1720.008" OwnPage="3" ItemID="1031703360" PTYPE="4" WIDTH="522" HEIGHT="261" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 261 L0 261 L0 0 Z" copath="M0 0 L522 0 L522 261 L0 261 L0 0 Z" gXpos="136.001" gYpos="1720.008" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="1720.008" OwnPage="3" ItemID="1496898284" PTYPE="4" WIDTH="522" HEIGHT="261" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 261 L0 261 L0 0 Z" copath="M0 0 L522 0 L522 261 L0 261 L0 0 Z" gXpos="136.001" gYpos="1720.008" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="Et Carolus vīllam, quae Carbōnāta vocātur,"/>
@@ -778,7 +807,7 @@
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="1981.008" OwnPage="3" ItemID="1027299952" PTYPE="4" WIDTH="522" HEIGHT="203.297732484077" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 203.298 L0 203.298 L0 0 Z" copath="M0 0 L522 0 L522 203.298 L0 203.298 L0 0 Z" gXpos="136.001" gYpos="1981.008" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="1981.008" OwnPage="3" ItemID="1497223260" PTYPE="4" WIDTH="522" HEIGHT="203.297732484077" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 203.298 L0 203.298 L0 0 Z" copath="M0 0 L522 0 L522 203.298 L0 203.298 L0 0 Z" gXpos="136.001" gYpos="1981.008" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -791,7 +820,7 @@
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="766.001" YPOS="1720.008" OwnPage="4" ItemID="1031668928" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="1720.008" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="766.001" YPOS="1720.008" OwnPage="4" ItemID="1501206092" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="1720.008" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="adveniēns: arriving; singular nominative present participle from adveniō, advenīre, advēnī, adventus"/>
