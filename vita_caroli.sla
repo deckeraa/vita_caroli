@@ -143,14 +143,14 @@
         <PAGE PAGEXPOS="712.001" PAGEYPOS="8340.032" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="20" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.001" PAGEYPOS="9172.035" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="21" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.001" PAGEYPOS="9172.035" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="22" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="2122236300" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.001" gYpos="926792596468.872" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="2122236300" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.001" gYpos="926869253897.277" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="2122196124" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="13685150638.001" gYpos="926792038198.276" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="2122196124" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="13694548510.001" gYpos="926868695626.681" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -1834,6 +1834,72 @@
                 <DefaultStyle/>
                 <ITEXT CH="TODO"/>
                 <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.001" YPOS="8376.032" OwnPage="19" ItemID="23738845" PTYPE="4" WIDTH="522" HEIGHT="359.356535031849" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 359.357 L0 359.357 L0 0 Z" copath="M0 0 L522 0 L522 359.357 L0 359.357 L0 0 Z" gXpos="136.001" gYpos="8376.032" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Atque suō statim rēgnō collēgit ab omnī"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Rōboris inmēnsī variīs ex gentibus agmen."/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Quod sēcum dūcēns, Genuam pervēnit in urbem,"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Quam rapidō cursū Rhodanus praeterfluit amnīs;"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Tum geminō Langōbardōs invādere bellō"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Dēcrēvit, populumque suum dīvīsit, et ūnam"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Cum duce Bernhardō partem praecēperat īre"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Per montem Iovis--id nōmen vetus indidit error--"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="At reliquam per Cīnisium rēx dūxerat ipse."/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Trānscēnsīs igitur horrendīs Alpibus, īnstar"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Turbinis Ausoniae duplex exercitus arva"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Irruerat, lātē rēgnum vastāns opulentum."/>
+                <trail PARENT="Latin"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.001" YPOS="8735.38853503185" OwnPage="19" ItemID="2113677196" PTYPE="4" WIDTH="522" HEIGHT="109.146496815287" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 109.146 L0 109.146 L0 0 Z" copath="M0 0 L522 0 L522 109.146 L0 109.146 L0 0 Z" gXpos="136.001" gYpos="8735.38853503185" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="TODO"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="766.001" YPOS="8376.032" OwnPage="20" ItemID="2115127212" PTYPE="4" WIDTH="522" HEIGHT="255.254624203824" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 255.255 L0 255.255 L0 0 Z" copath="M0 0 L522 0 L522 255.255 L0 255.255 L0 0 Z" gXpos="766.001" gYpos="8376.032" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="TODO"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.001" YPOS="9208.035" OwnPage="21" ItemID="27635005" PTYPE="4" WIDTH="522" HEIGHT="271.20066878981" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 271.201 L0 271.201 L0 0 Z" copath="M0 0 L522 0 L522 271.201 L0 271.201 L0 0 Z" gXpos="136.001" gYpos="9208.035" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Iamque metus cūnctōs Francōrum perculit ingēns."/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Nam Dēsīderium, prīmō quī bella parābat,"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Sē frūstrā Carolō spērāns obsistere posse,"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Congressū necdum factō, terrōre fugāvit,"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Et clausum Ticinō, cui nunc est Pāpia nōmen,"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Rēgius admōtīs exercitus undique castrīs"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Obsēdit, variīsque modīs per plūrima temptāns"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Temporis hībernī spatiō mōlīmina tōtō,"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Nōn urbis poterat mūrōs irrumpere ferrō."/>
+                <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
     </DOCUMENT>
