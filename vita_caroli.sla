@@ -153,14 +153,14 @@
         <PAGE PAGEXPOS="712.001" PAGEYPOS="12500.047" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="30" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.001" PAGEYPOS="13332.05" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="31" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.001" PAGEYPOS="13332.05" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="32" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="2122236300" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.001" gYpos="927020768299.588" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="2122236300" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.001" gYpos="927346986691.733" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="2122196124" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="13712234086.001" gYpos="927020210028.992" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="2122196124" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="13740464422.001" gYpos="927346428421.137" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -2331,17 +2331,17 @@
                 <para PARENT="Latin"/>
                 <ITEXT CH="Praedantur, flammīsque simul populantur et armīs."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Quōs animāvit ad hōc longinqua profectiō rēgis,"/>
+                <ITEXT CH="Quōs animāvit ad hōc longinqua profectio rēgis,"/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Crēdentēs ulcīscendī sibi tunc fore tempus"/>
+                <ITEXT CH="Crēdentēs ulciscendī sībī tunc fore tempus"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Damna, prius per eum que maxima sustinuēre."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Quī tamen usque locum quī Frideshlar vocitātur"/>
+                <ITEXT CH="Quī tamen usque locum quī Frīdēshlar vocitātur"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Prōgressī, quandam cupiērunt trādere flammīs"/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Ecclēsiam, quam sacrāvit Bonifacius illīc"/>
+                <ITEXT CH="Ecclesiam, quam sacrāvit Bonifacius illīc"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Martir et antistes Chrīstō dīlēctus in aevum."/>
                 <para PARENT="Latin"/>
@@ -2353,6 +2353,126 @@
                 <para PARENT="Latin"/>
                 <ITEXT CH="Ad patriam, quōs nōn hostēs, nōn arma fugārunt."/>
                 <para PARENT="Latin"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.001" YPOS="10872.041" OwnPage="25" ItemID="28728621" PTYPE="4" WIDTH="522" HEIGHT="470.939891719745" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 470.94 L0 470.94 L0 0 Z" copath="M0 0 L522 0 L522 470.94 L0 470.94 L0 0 Z" gXpos="136.001" gYpos="10872.041" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="At rēx, dispositīs legiōnibus ad Ticinēnsum"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Obsidiōne iūgī populum bellōque premendum,"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Ōrandī causa Romē loca sāncta petīvit."/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Illīc supplicibus vōtīs ex corde perāctīs,"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Ad Tīcīnum rediit, que iam certāmine longō"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Fessa repugnandī vīrēs āmīserat omnēs."/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Dēdita tum Francīs haec clārissima, cūnctīs"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Exemplō fuerat reliquīs; nam prōtinus omnēs"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Trādiderant Carolō sēsē concorditer urbēs"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Eiusdem rēgnī, quod iam sibi iūre subāctum"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Disposuit, quantum potuit prō tempore tālī"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Ad sēdēs etenim cupiēns remeāre paternās,"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Accelerābat iter, sēcum dūcēns memorātum"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Ītaliae rēgem, noviter quem coeperat armīs."/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Hic hūmānārum videās lūdibria rērum,"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Quam variō cursū vītae rota volvitur huius."/>
+                <para PARENT="Latin"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.001" YPOS="10516.5859872611" OwnPage="23" ItemID="3156621" PTYPE="4" WIDTH="522" HEIGHT="151.79617834395" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 151.796 L0 151.796 L0 0 Z" copath="M0 0 L522 0 L522 151.796 L0 151.796 L0 0 Z" gXpos="136.001" gYpos="10516.5859872611" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="TODO"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="766.001" YPOS="10040.038" OwnPage="24" ItemID="26924669" PTYPE="4" WIDTH="522" HEIGHT="153.235885350319" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 153.236 L0 153.236 L0 0 Z" copath="M0 0 L522 0 L522 153.236 L0 153.236 L0 0 Z" gXpos="766.001" gYpos="10040.038" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="TODO"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.001" YPOS="11349.4012738854" OwnPage="25" ItemID="37827469" PTYPE="4" WIDTH="522" HEIGHT="111.898089171975" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 111.898 L0 111.898 L0 0 Z" copath="M0 0 L522 0 L522 111.898 L0 111.898 L0 0 Z" gXpos="136.001" gYpos="11349.4012738854" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="TODO"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="766.001" YPOS="10872.041" OwnPage="26" ItemID="35237165" PTYPE="4" WIDTH="522" HEIGHT="254.939891719745" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 254.94 L0 254.94 L0 0 Z" copath="M0 0 L522 0 L522 254.94 L0 254.94 L0 0 Z" gXpos="766.001" gYpos="10872.041" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="TODO"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.001" YPOS="11704.044" OwnPage="27" ItemID="40570685" PTYPE="4" WIDTH="522" HEIGHT="413.510140127388" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 413.51 L0 413.51 L0 0 Z" copath="M0 0 L522 0 L522 413.51 L0 413.51 L0 0 Z" gXpos="136.001" gYpos="11704.044" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Hesternō Dēsīderiūs diadēmate rēgnī"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Flōruit, ēn hodiē"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" est pauper, captīvus et exul."/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Fīlius illīus, cognōmine dictus Adalgīs,"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Cum Langōbardīs in eō spēs ampla manēret,"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Diffīdēns rēbus patriae, sē contulit inde"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Ad Cōnstantīnum, Grēcōrum scēptra regentem"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=";"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Ā quō patricius praeclārō mūnere factus,"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Hoc in honōre suae permānsit ad ultima vītae."/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Rēx autem Carolus veniēns, dum"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=" cognitus eius"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Vēlōx adventus nec dum Saxōnibus esset,"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Fēcerat, ut triplex exercitus in regiōnēs"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Illōrum missus, multīs afflīgeret ipsōs"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Cēdibus ac praedīs, loca dēnique plūrima vastāns"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Hinc est cum spoliīs victor regressus opīmīs."/>
+                <para PARENT="Latin"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.001" YPOS="12117.5541401274" OwnPage="27" ItemID="36425869" PTYPE="4" WIDTH="522" HEIGHT="93.5541401273895" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 93.5541 L0 93.5541 L0 0 Z" copath="M0 0 L522 0 L522 93.5541 L0 93.5541 L0 0 Z" gXpos="136.001" gYpos="12117.5541401274" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit" CH="Yesterday Desiderius flourished in the crown of his kingdom, behold today he is a pauper, captive, and exile."/>
+                <ITEXT CH=" The ē in hodiē elides, giving a scansion of DDSSDT."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="To Constantine, reigning the scepters of the Greeks."/>
+                <ITEXT CH=" Constantine V was the Emporer of the Eastern Roman/Byzantine Empire from 741 to 775 and gave shelter to Adalgis, the son of Desiderius, who fled to Constantinople."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="When his switft advance was not yet known to the Saxons."/>
+                <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
     </DOCUMENT>
