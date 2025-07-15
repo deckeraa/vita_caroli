@@ -153,14 +153,14 @@
         <PAGE PAGEXPOS="712.001" PAGEYPOS="12500.047" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="30" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.001" PAGEYPOS="13332.05" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="31" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.001" PAGEYPOS="13332.05" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="32" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="2122236300" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.001" gYpos="927346986691.733" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="2122236300" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.001" gYpos="927561184200" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="2122196124" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="13740464422.001" gYpos="927346428421.137" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="2122196124" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="13759000678.001" gYpos="927560625929.404" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -2321,19 +2321,28 @@
         <PAGEOBJECT XPOS="136.001" YPOS="10040.038" OwnPage="23" ItemID="33770429" PTYPE="4" WIDTH="522" HEIGHT="469.210407643313" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 469.21 L0 469.21 L0 0 Z" copath="M0 0 L522 0 L522 469.21 L0 469.21 L0 0 Z" gXpos="136.001" gYpos="10040.038" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="Annō 774."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Annō 774"/>
+                <ITEXT CH="."/>
                 <para/>
-                <ITEXT CH="Tālēs Ītalicīs dum rēs agerentur in hōrīs,"/>
+                <ITEXT CH="Tālēs Ītalicīs dum rēs agerentur in hōrīs"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=","/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Saxonēs sibi contiguōs invādere fīnēs"/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Ausī Francōrum, pāgum quī dīcitur Hassī"/>
+                <ITEXT CH="Ausī"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" Francōrum, pāgum quī dīcitur Hassī"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Praedantur, flammīsque simul populantur et armīs."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Quōs animāvit ad hōc longinqua profectio rēgis,"/>
+                <ITEXT CH="Quōs animāvit ad hoc longinqua profectio"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=" rēgis,"/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Crēdentēs ulciscendī sībī tunc fore tempus"/>
+                <ITEXT CH="Crēdentēs ulciscendī sībī tunc fore"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT CH=" tempus"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Damna, prius per eum que maxima sustinuēre."/>
                 <para PARENT="Latin"/>
@@ -2341,11 +2350,15 @@
                 <para PARENT="Latin"/>
                 <ITEXT CH="Prōgressī, quandam cupiērunt trādere flammīs"/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Ecclesiam, quam sacrāvit Bonifacius illīc"/>
+                <ITEXT CH="Ecclesiam, quam sacrāvit Bonifacius"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT CH=" illīc"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Martir et antistes Chrīstō dīlēctus in aevum."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Hoc frūstrā nīsōs facinus complēre nefandum,"/>
+                <ITEXT CH="Hoc frūstrā nīsōs"/>
+                <ITEXT FEATURES="inherit superscript" CH="6"/>
+                <ITEXT CH=" facinus complēre nefandum,"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Invāsit subitō terror dīvīnitus ingēns,"/>
                 <para PARENT="Latin"/>
@@ -2392,17 +2405,63 @@
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="10516.5859872611" OwnPage="23" ItemID="3156621" PTYPE="4" WIDTH="522" HEIGHT="151.79617834395" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 151.796 L0 151.796 L0 0 Z" copath="M0 0 L522 0 L522 151.796 L0 151.796 L0 0 Z" gXpos="136.001" gYpos="10516.5859872611" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="10516.5859872611" OwnPage="23" ItemID="3156621" PTYPE="4" WIDTH="522" HEIGHT="197.1974522293" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 197.197 L0 197.197 L0 0 Z" copath="M0 0 L522 0 L522 197.197 L0 197.197 L0 0 Z" gXpos="136.001" gYpos="10516.5859872611" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="TODO"/>
-                <trail/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="While such things were being done in Italy in those times."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="The Saxons dared to invade the boundaries of the Franks neighboring themselves."/>
+                <ITEXT CH=" "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Ausī"/>
+                <ITEXT CH=" would usually be "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="ausī sunt"/>
+                <ITEXT CH=" for "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="they dared"/>
+                <ITEXT CH="; in a poetic context it is permitted to omit the "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="sunt"/>
+                <ITEXT CH=" for metrical purposes."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Whom the long departure of the king inspired to this. Profectiō"/>
+                <ITEXT CH=" typically has a macron over the "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="o"/>
+                <ITEXT CH=", but it must be short here to fit the meter."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Then believing the time to be of avenging themselves the very great damages, previously that they had sustained through him (Charlemagne)."/>
+                <ITEXT CH=" "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Maxima"/>
+                <ITEXT CH=" modifies "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="damna"/>
+                <ITEXT CH=", "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="fore"/>
+                <ITEXT CH=" is the future infinitive of "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="esse"/>
+                <ITEXT CH=", and "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="sustinuēre"/>
+                <ITEXT CH=" is not an infinitive but rather an alternate way to spell "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="sustinuērunt"/>
+                <ITEXT CH="."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Which Boniface, martyr and overseer ever-beloved by Christ, consecrated there"/>
+                <ITEXT CH=". Saint Boniface (AD 675-754) famously chopped down Donar's Oak in Fritzlar."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="6"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="They vainly advanced to complete this wicked act, suddenly a massive terror from heaven assailed (them) and forced the trembling ones (the Saxons) to retreat in turpid flight to their fatherland, whom were driven not by enemies, nor by weapons (but by the supernatural intervention of God)."/>
+                <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="766.001" YPOS="10040.038" OwnPage="24" ItemID="26924669" PTYPE="4" WIDTH="522" HEIGHT="153.235885350319" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 153.236 L0 153.236 L0 0 Z" copath="M0 0 L522 0 L522 153.236 L0 153.236 L0 0 Z" gXpos="766.001" gYpos="10040.038" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="TODO"/>
+                <para/>
+                <ITEXT CH="Hassī = Hesse"/>
+                <para/>
+                <ITEXT CH="Frīdēshlar probābiliter est Fritzlar."/>
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
