@@ -1,0 +1,2595 @@
+Text downloaded from Corpus Corporum (mlat.uzh.ch) at 2024-02-10T23:46:47.608
+
+Patrologia Latina (Corpus 2)
+Poeta Saxo
+Annales de gestis Caroli Magni
+cc_idno: 8669, cc_id: cps_2.PoeSax.AnDeGeC
+permalink: https://mlat.uzh.ch/browser/cps_2.PoeSax.AnDeGeC
+Downloaded part pid: cps_2.PoeSax.AnDeGeC (8669)
+######################################################################
+
+      	
+
+          Annales de gestis Caroli Magni
+
+Unicum, qui modo superest, poetae nostri codicem, olim, inscriptione saeculi 
+XII in prima pagina
+-----------------------------[page 0684]-------------------------------
+liber sancti adriani in lamespringe testante, ex monasterio ditionis Hildesheimensis 
+bibliothecae Juliae illatum,
+-----------------------------[page 0685A]------------------------------
+primus Helmstadii an. 1596 in-4º typis dedit Reinerus Reineccius. Praestitit 
+id editione sua, ut textum nonnullis locis vitiatum emendaret, annorum 
+numeros aliquoties omissos restitueret, librorum divisionem clarius efferret, 
+quaeque in codice anno 781 perperam inserta essent, loco redderet suo. 
+Reineccii auctoritatem Chesnius T. II p. 136; et Kulpis, T., IV, p. 3, 
+secuti sunt, nec ante Leibnitium tuit, qui eum nonnunquam a vera codicis 
+lectione aberrasse sentiret, quod quidem vir magnus, tomo I Scriptorum 
+Brunsvicensium poetam denuo editurus, adhibito ipso codice expertus est. 
+Veram igitur haud raro lectionem textui Reinecciano subjiciens, notas perpaucas 
+addidit, quarum quae ad rem facere videbantur, auctoris nomine indicato 
+retinui. Quinta Bouqueti editio eo caeteris praestat, quod in ea prolatae 
+a Leibnitio codicis lectiones textui, ut par erat, insertae, versuumque 
+numeri signati sunt. Nobis aliam quae Monumentis insereretur editionem 
+meditatis, Ebertus noster solita sua humanitate codicem ipsum
+-----------------------------[page 0685B]------------------------------
+transmisit, cujus igitur ad normam textum restituere visum est. Est membranaceus 
+in quarto, et foliis quinquaginta quinque prioribus nostrum, reliquis passionem 
+sancti Adalberti, et Juvenci presbyteri de Vita Christi libros, omnia eadem 
+saeculi XI manu exarata, continet. Versus per paginam viginti quinque. 
+Locis aliquot a scriptore ipso ( corr. 1), aliis secunda (2) quadam manu 
+coaeva correctis, duplicem lectionem notavi, praeter, quod quando secunda 
+manu melior ut saepius vocum divisio instituta esset, priorem lectionem 
+sensu carentem minime adducendam existimavi. Glossas vel Latinas vel dialecto 
+Saxoniae nostrae inferioris scriptas, quamvis paucas et ab editoribus neglectas, 
+rerum harum studiosis non minus quam litteram antiquam d quater in vocibus 
+adernam an. 778; ferdi an. 782; padarbrunnon an. 799; hludouicus lib. V, 
+occurrentem acceptas fore judicavi. Et illae quidem secunda manu adspersae, 
+hanc non errore aliquo inductam, sed veteris reliquias
+-----------------------------[page 0685C]------------------------------
+autographi quisquis esse consentiat, cum vel in Ottonis II, Saxonici imperatoris, 
+diplomatibus anno 986 editis, eamdem litteram nomini loci nordana scribendo 
+adhibitam reperire liceat. In textu igitur constituendo in consilii secutus 
+sum, ut codicis vestig a religiose legens, locis tamen paucis, eisque sine 
+dubio scriptoris vitio corruptis, aut Reiaeccii Leibnitiive conjecturas 
+amplecterer, aut propriis, si quae non absonae occurrerent, aliquid tribuendum 
+censerem. Qua in re cum ut plurimum Einhardi Annales, quos noster fere 
+ad amussim sequitur, una cum metrica ratione errorem praecluderent, eo 
+tamen poetae saeculo indulgendum erat, ut non quaecunque antiquis regulis 
+adversarentur, ea indistincte tollerem, sed aliorum e. g. Nigelli exemplo 
+ductus, elisionem in littera h aliquoties non admittendam esse concederem. 
+Notis non nisi paucis opus erat,
+-----------------------------[page 0686A]------------------------------
+cum Einhardi Annales et Vita Caroli amplissimi commentarii molem gravitate 
+sua longe superent. Caeterum magna illa libri secundi lacuna sine alterius 
+ope codicis expleri vix poterit; quot tamen versus deessent, facili negotio 
+indicavi. Jam enim Leibnitius, triginta versus, quos in editionibus anno 
+783 jure adscriptos legimus, in codice inter versum duodecimum anni 781 
+et versum primum anni 782, nulla annorum distinctione indicata, collocari 
+animadverterat. Qui gravissimus error cum nonnisi folii, quo versus inscripti 
+essent, permutatione committi potuerit, in codice autem modo superstite, 
+cujus singula folia quinquaginta versibus constant, ligando non commissus 
+sit, unumquodque autographi folium triginta versus exhibuisse necessario 
+efficitur. Unde subito quidem prodit, e medio anni 782, qui nunc, superscriptione 
+(ut codicis hujus lex vult) pro versu computata, nonnisi 89 versibus constat, 
+jam versum unum excidisse; quonam vero in loco, cum, reliquis omnibus optime 
+connexis, post versum trigesimum
+-----------------------------[page 0686B]------------------------------
+quartum Woradi, tertii e ducibus Francorum de quibus poetae sermo est, 
+nomen desideretur, non diu dubitaveris. Lacunas alias duas Leibnitius indicavit, 
+nec est, qui, Einhardi Annalium ratione habita, post duodecimum anni 781 
+et ante primum anni 783 versum multos deesse negaverit, et illic quidem 
+aut unum aut duo folia, hic vero unum excidisse conjicere liceat. Anno 
+igitur 781 praeter duodecim qui exstant, triginta aut sexaginta versus 
+alios tribui, anno autem 783 non triginta sed viginti septem cum, superscriptione 
+pro vicesimo octavo computata, duo reliqui adhuc ad annum praecedentem 
+pertineant, in quo poeta Annalium verba in hiberna concessit, ibique natalem 
+Domini, ibi et Pascha more solito celebravit nondum expresserat. Hanc igitur 
+quartam lacunam mihi deprehendisse videor.
+De caeteris vix est quod moneam. Adverbia in fine saepius e caudato scribi, 
+non magis inusitatum, quam litteras e, oe, ae, e, invicem permutari.
+
+-----------------------------[page 0686C]------------------------------
+Poetam Arnulfo imperante vixisse, versus libri V: Quaesumus, Arnulfus, 
+etc., et Nunc tamen Arnulfo, etc., evincunt, Saxonem et clericum monachumve 
+totum opus arguit; Padrabrunni vixisse, versibus anni 777, Quem Pathalbrunnon 
+vocitant; etc: minime efficitur: multo minus iis adversarer, qui propter 
+locum, ubi codex seculo XII servatus sit, Lamspringensibus eum annumerare 
+velint; monasterium enim Lamspringa jam anno 872 fundatum, annoque sequenti 
+a Ludovico rege confirmatum erat. Fides auctoris, paucissimis locis exceptis, 
+quibus ipse, probus quidem et sincerus spectator, quae viderat audieratque 
+refert, tota ex Einhardi Annalibus et Vita Caroli pendet; usus igitur ejus 
+in historia imperatoris fere nullus, sed ut praeclarum nascentis apud Saxones 
+rei litterariae monumentum, a nostratibus magni semper habebitur.
+
+
+
+          VITA CAROLI.
+
+(36 sections)
+Salvātor mundī, postquam dē Virgine nāscī
+Dignātus, nostrī sē corporis induit artūs,
+Ēvolvit septingentōs rota temporis annōs. 
+Et deciēs septem, sed et ūnus pēne perāctus
+Īnsuper annus erat, cum iūre monarchia rēgnī
+Francōrum Carōlō dīvīnitus est data magnō.
+Nam Carolomannus frāter dēcesserat eius
+Presentis iam suprēmīs prope partibus annī. 
+Et Carolus vīllam, quae Carbōnāta vocātur,
+Adveniēns, summōs procerēs omnēsque potentēs
+Frāternae quondam partīs suscēperat illīc,
+Haud retractantēs dominō sē subdere tālī;
+Exceptīs tantum paucīs, quōs forte priōris
+Magnus amor dominī cum coniuge fēcerat eius
+Et natīs remanēre, quibus comitāta petīvit
+Ītaliam, spērāns sē dēgere posse quiētam
+Sub rēgis Dēsīderiī mūnīmine vītam. 
+Rēx autem Carolus celebrāvit in Attiniācō
+Nātālem Dominī, nec nōn paschālia fēsta. 
+Paulō Rōmānē dēfūnctō praesule sēdis,
+Suscēpit post hunc Adriānus pontificātum.
+Et rēx Wormatiam Carolus collēgit in urbem
+Francōrum procerēs ad concilium generāle;
+Cum quibus ut bellō Saxonēs aggrederētur
+Dēcrēvit; quoniam Saxōnum proxima Francīs
+Adiacet ad Boream tellūs, vix līmite certō
+Dīvīsī gentis fīnēs utriusque cohaerent.
+Que tum vīcīnae quō plūs regiōne fuēre,
+Tantō  sēiūnctās animīs discordia fēcit.
+Fīnitimōs sed enim per agrōs utrimque solēbant
+Assidue fierī cēdēs, incendia, praede.
+Saxonum nātūra ferōx et pectora dūra,
+Ferre iugum Chrīstī nec dum dignāta suāve,
+Demonicō nimium fuerant errōre subācta.
+Chrīsticolae vērō iam longō tempore Francī
+Catholicam tenuēre fidem, multīsque per orbem
+Iam dominābantur populīs, quibus undique fultī,
+Precipue virtūte Deī, quem rīte colēbant,
+Hanc ūnam poterant nīmīrum vincere gentem.
+Que nec rēge fuit saltem sociāta sub ūnō,
+Ut sē mīlitiae pariter dēfenderet ūsū,
+Sed variīs dīvīsa modīs plēbs omnis, habēbat
+Quot pāgōs tot paene ducēs, velut ūnīus artūs
+Corporis in dīversa forent hinc inde revulsī.
+Sed generālis habet populōs dīvīsiō ternōs,
+Īnsignīta quibus Saxōnia flōruit ōlim.
+Nōmina nunc remanent, virtūs antīqua recessit.
+Dēnique Westfalos vocitant in parte manentēs
+Occiduā, quōrum nōn longē terminus amne
+Ā Rhēnō distat; regiōnem sōlis ad ortum
+Inhabitābant Osterliudī, quōs nōmine quīdam
+
+Ostvalos aliō vocitant, cōnfīnia quōrum
+Īnfestant coniūncta suīs gēns perfida Sclāvī.
+Inter praedictōs mediā regiōne morantur
+Angariī, populus Saxonum tertius; hōrum
+Patria Francōrum terrīs sotiātur ab austrō,
+Ōceanōque eadem coniungitur ex aquilōne.
+Hanc igitur Carolus statuit sibi subdere gentem.
+Nec mora, cum tōtīs Francōrum vīribus ipsam
+Aggressus, lātē ferrō vastāvit et ignī.
+Castellum nātūrālī mūnīmine forte
+Valdē, manū quoque firmātum, quod barbara lingua
+Nōminat Eresburg, validō cum rōbore cēpit.
+Gēns eadem coluit simulācrum, quod vocitābant
+Irminsul, cuius similis factūra columne
+
+Nōn operis parvī fuerat pariterque decōris.
+Hoc rēx ēvertēns, mānsit tribus ipse diēbus
+In castrīs iuxtā positīs, tum continuātō
+Aestātis fervōre diū, caelōque serēnō
+Ārdēbant agrī, nec in ipsīs fontibus hūmor
+Ūllus erat, multō squālēbant pulvere rīvī.
+Iamque fatīgābat graviter rēgālia castra
+Aucta calōre sītis, sed vīs dedit omnipotentis,
+Cui placuit fānī subversiō iūsta profānī,
+Ut mediante diē subitō per concava siccī
+
+Cuiusdam torrentis, erat quī proximus illīs,
+Sufficiēns exercituī prōrumperet unda.
+Hīs gestīs cum rēx Wisuram vēnisset ad amnem,
+Obsidibus bis sex ipsa dē gente receptīs,
+Ad patriam rediit magna cum prōsperitāte.
+
+Anno 773. Indict. 10.
+
+Missis legatis, Adrianus papa sacratus
+Auxilium Caroli studuit deposcere magni
+Adversus Langobardos, quorum fuit illo
+Tempore rex Desiderius; nam valde premebat
+Improba Romanos huius violentia gentis.
+Et quia tunc illi pars maxima subdita regno
+Italiae totius erat, terrasque per illas,
+Scilicet hostiles, non quenquam mittere tute
+Romanus praesul potuit, qui tramite recto
+Francorum terras peteret, conscendere navem
+Fecit apud Romam legatum nomine Petrum,
+Ut mare circuitu longo fluctusque pererrans
+Susspectum vitaret iter: sic sepe videtur
+Tucior oceani fervor pelagique procella,
+Quam mentes hominum, quas turbida commovet ira.
+Hic igitur Petrus Roma directus ab urbe,
+Per mare Massiliam petiit, longumque deinde
+Pre terrenum iter, in villa Theodone vocata
+Insignis Caroli pietatem regis adivit,
+Orans devote satis, ut defendere vellet
+Ecclesiam Petri, summus qui claviger aulae
+Illi celestis dare praemia maxima posset;
+Nec non pontificis succurreret anxietati,
+Romanique simul populi mala plurima passi,
+Cui libertatis iam spes, vitaeque tenendae
+Unica post Dominum, tantum restaret in illo.
+
+Talibus auditis, causam rex protinus omnem
+Sollicito volvens animo, satis affore iustum
+Perpendit, gratumque Deo, defensor ut ipse
+Sedis apostolicae totis pro viribus esset.
+Atque suo statim regno collegit ab omni
+Roboris inmensi variis ex gentibus agmen.
+Quod secum ducens, Genuam pervenit in urbem,
+Quam rapido cursu Rhodanus praeterfluit amnis;
+Tum gemino Langobardos invadere bello
+Decrevit, populumque suum divisit, et unam
+Cum duce Bernhardo partem praeceperat ire
+Per montem Iovis--id nomen vetus indidit error--
+At reliquam per Cinisium rex duxerat ipse.
+Transcensis igitur horrendis Alpibus, instar
+Turbinis Ausoniae duplex exercitus arva
+Irruerat, late regnum vastans opulentum.
+Iamque metus cunctos Francorum perculit ingens.
+Nam Desiderium, primo qui bella parabat,
+Se frustra Carolo sperans obsistere posse,
+Congressu necdum facto, terrore fugavit,
+Et clausum Ticino, cui nunc est Papia nomen,
+Regius admotis exercitus undique castris
+Obsedit, variisque modis per plurima temptans
+Temporis hiberni spatio molimina toto,
+Non urbis poterat muros irrumpere ferro.
+
+Anno 774. Indict. 11.
+Tales Italicis dum res agerentur in horis,
+Saxones sibi contiguos invadere fines
+Ausi Francorum, pagum qui dicitur Hassi
+Praedantur, flammisque simul populantur et armis.
+Quos animavit ad hoc longinqua profectio regis,
+Credentes ulciscendi sibi tunc fore tempus
+Damna, prius per eum que maxima sustinuere.
+Qui tamen usque locum qui Frideshlar vocitatur
+Progressi, quandam cupierunt tradere flammis
+Ecclesiam, quam sacravit Bonifacius illic
+Martir et antistes Christo dilectus in aevum.
+Hoc frustra nisos facinus complere nefandum,
+Invasit subito terror divinitus ingens,
+Atque fuga turpi trepidos repedare coegit
+Ad patriam, quos non hostes, non arma fugarunt.
+At rex, dispositis legionibus ad Ticinensum
+Obsidione iugi populum belloque premendum,
+Orandi causa Rome loca sancta petivit.
+Illic supplicibus votis ex corde peractis,
+Ad Ticinum rediit, que iam certamine longo
+Fessa repugnandi vires amiserat omnes.
+Dedita tum Francis haec clarissima, cunctis
+Exemplo fuerat reliquis; nam protinus omnes
+Tradiderant Carolo sese concorditer urbes
+Eiusdem regni, quod iam sibi iure subactum
+Disposuit, quantum potuit pro tempore tali
+-----------------------------[page 0689C]------------------------------
+Ad sedes etenim cupiens remeare paternas,
+Accelerabat iter, secum ducens memoratum
+Italiae regem, noviter quem coeperat armis.
+Hic humanarum videas ludibria rerum,
+Quam vario cursu vitae rota volvitur huius.
+Hesterno Desiderius diademate regni
+Floruit, en hodie est pauper, captivus et exul.
+Filius illius, cognomine dictus Adalgis,
+Cum Langobardis in eo spes ampla maneret,
+Diffidens rebus patriae, se contulit inde
+Ad Constantinum, Grecorum sceptra regentem;
+A quo patricius praeclaro munere factus,
+Hoc in honore suae permansit ad ultima vitae.
+Rex autem Carolus veniens, dum cognitus eius
+Velox adventus nec dum Saxonibus esset,
+Fecerat, ut triplex exercitus in regiones
+Illorum missus, multis affligeret ipsos
+Cedibus ac praedis, loca denique plurima vastans
+Hinc est cum spoliis victor regressus opimis.
+
+Anno 775. Indict. 12.
+Rex hiemis tempus ducens in Carisiaco,
+Nomine quo quedam regalis villa vocatur,
+Illuc Francorum proceres totumque senatum
+Convocat, ac multum tractans de rebus agendis,
+Et variis, quibus indiguit res publica, curis,
+Inprimis hoc consilium perhibetur inisse,
+Ut iugiter bellum Saxonibus ingereretur,
+Quos expertus erat fidei vel foederis omnis
+Immemores, nunquam sub pace quiescere velle.
+Hinc statuit, requies illis ut nulla daretur,
+Donec gentili ritu cultuque relicto,
+Christicole fierent, aut delerentur in aevum
+O pietas benedicta Dei, quae vult genus omne
+Humanum fieri salvum, quia noverat huius
+Non aliter gentis molliri pectora posse,
+Disceret ut cervix reflectere dura rigorem
+Ingenitum, mitique iugo se subdere Christi.
+
+Ob hoc doctorem talem fideique magistrum,
+Scilicet insignem Carolum donavit eisdem,
+Qui bello premeret, quos non ratione domaret,
+Sicque vel invitos salvari cogeret ipsos.
+Hoc inspiratum cordi divinitus eius
+Utile consilium comitantur strenua facta.
+Quippe duces omnisque simul delecta iuventus
+Ad Duriam vicum properant: nam rege iubente
+Illic conventus populi generalis habetur.
+Atque dehinc grandi transmisso flumine Rheno,
+Saxonum Carolus fines hostiliter intrat
+Ac primo Sigiburg castellum coepit, et inde
+Eresburg petiit, quam captam diximus urbem.
+Sed ne praesidio Francis fore posset, eandem
+Indigene destruxerunt: hanc denique rursus
+Munivit, posuitque suas illic legiones;
+Inde gradu celeri Wisuram pervenit ad amnem.
+
+Cui iuxta montem qui Brunesberg vocitatur,
+Obvia magna fuit cupiens obsistere turba,
+Ne fluvium transiret, et hoc conamine casso.
+Fugit enim primo statim certamine pulsa,
+Innumerosque die ferrum prostraverat illo.
+Inde movens Carolus regiones venit ad illas,
+Quas Osterliudi retinent, seditque locatis
+Ad fluvium castris, qui nunc Ovaccra vocatur.
+Tunc illi quidam, qui de primoribus eius
+Gentis erat, supplex occurrit nomine Hessi;
+Partis et illius pariter plebs obvia tota
+Venerat, obsidibusque datis quos iusserat ipse,
+Se servare fidem regi per maxima spondent
+Iuramenta. Quibus cunctis hoc ordine gestis,
+In pagum rediit, quem dicunt nomine Bukki.
+Illic occurrere duces simul Angariorum
+Cum populo, similique modo regalibus omnes
+Dum parent iussis, iuramentisque fideles
+Se fore confirmant, reditum parat ilico victor.
+
+Interea iuxta Wisuram dimissa manebat
+Pars exercituum regis, locus ipse vocatur
+Hlidbeki, quo castris idem sedere locatis.
+Sed male securos res prospera fecerat illos,
+Qua rex usus erat, cum cunctis hostibus esset
+Terrori, iam tunc audente resistere nullo.
+Hinc erat in castris cautela remissior illis,
+Ut possent nimia Saxonum fraude noceri.
+Sol summo coeli pronus vergebat ab axe,
+Et vespertinas iam tendere coepit ad horas;
+Tunc ut equis quidam deferrent pabula longe,
+De castris prius egressi pariter redierunt.
+His se Saxonum quoddam agmen,
+Fingentum semet socios animoque fideles.
+Tum se quisque novo blande sociabat amico,
+Hostis quo saevus latuit sub nomine tectus.
+Adhibitumque fidem verbis fallacibus auget
+Obsequium; cuncti simul in commune laborant,
+Pars subvectat onus viridis simul utraque foeni.
+Sic introgressi Francorum castra dolosi,
+Quod vi non poterant, egerunt arte; sed olim
+Est dictum 'Dolus an virtus, quis in hoste requirat?'
+Depressos somno Francos instanter adorti
+Saxones, caedem nimiam fecere feroces,
+Donec discusso tandem torpore soporis,
+Quidam correptis obstare viriliter armis
+Coeperunt, pugnaque dehinc utcunque remota,
+Scilicet ex pacto, quod tunc angustia talis
+Dictabat, hostes celeri rediere recursu.
+His rex auditis illuc properare sategit,
+Atque satis velox fugientum terga secutus,
+Prostravit multos auctores criminis huius.
+Hinc ad Westfalhos venit, statimque receptis
+Obsidibus, quos tradiderant, abscesserat inde.
+Ac suscepit ovans redeuntem Francia regem.
+
+Anno 776. Indict. 13.
+Cumque domum rediens princeps iter acceleraret,
+Comperit Ausoniis in partibus esse tirannum,
+Nomine Hrodgaudum, nova qui molimina temptans,
+Nec, quem rex illi dederat, contentus honore,
+Italiae latum voluit sibi subdere regnum.
+Quippe ducem comitemque Foroiulensibus ipsum
+Constituit Carolus, primo cum clara triumpho
+De Langobardis victor vexilla revexit.
+Huic nimis ingratus dono male sollicitabat
+Urbibus ex multis populos, ac fecit ut ad se
+Deficerent, iusto Caroli spreto dominatu.
+Hos ut comprimeret motus, nil ipse moratus,
+Strenua quam celeri raptim vocat agmina iussu.
+Cum quibus Italiam properans, meritoque tyrannum
+Interitu plectens, urbes servare receptas
+Francorum comites, quos ipse locabat in illis,
+Iussit, et ut venit, velox sic inde recessit.
+Vix Alpinarum nivium iuga proxima caelo
+Illi transgresso tristis fuit obvia fama,
+Eresburg referens urbem, quam coeperat olim
+Militibusque suis mandaverat ipse tuendam,
+Saxones expugnatam coepisse, suumque
+Expulsum fore praesidium violenter ab illis.
+Tum Sigiburg aliud multo conamine castrum
+Oppugnare quidem studuit, nec vincere quivit
+Gens eadem, cupiens ab ea regis legiones
+Pellere; sed pugnae populus Saxonicus instans,
+A tergo circumventus fuit atque fugatus,
+Interius positis simul erumpentibus, atque
+Incautos plaga facile sternentibus ampla.
+
+Hic rumor Caroli cum primum venit ad aures,
+Conventum procerum fieri praecoepit in urbe
+Wormacia, statuitque moras innectere nullas,
+Quin lueret tanti sceleris gens perfida poenas.
+Ergo suis exercitibus rex undique lectis,
+Conatus celer hostiles praevertitur omnes,
+Temptavere quibus primo defendere sese.
+Nam fontes adiens, ubi Lyppia nascitur amnis,
+Repperit ex ipsa numerosas gente catervas
+Illic collectas, humiles veniamque precantes,
+Quod non servassent anno promissa priori.
+Cum vero Carolus clemens ignosceret illis,
+Complures, domino se Christo credere velle
+Spondentes simulacrorumque relinquere cultus,
+Purgari iussit sacri baptismatis unda,
+Servandeque iterum fidei promissa recepit
+Obsidibus firmata datis, quibus ipse volebat.
+Eresburg iterum firmat munimine forti,
+Et iuxta fluvium quem Lyppia diximus ante
+Castellum condens aliud, complevit utrumque
+Militibus lectis; tum Gallica rursus ad arva
+Regrediens, hiemis tempus transegit in aula,
+Nomen Heristalli dederat cui barbara lingua.
+
+Anno 777. Indict. 14.
+Aspirante novi placido cum tempore veris
+Horrida iam transisset hiems, rex Noviomagum
+Adveniens, celebravit ibi sollempnia paschae.
+Tum quia Saxones suspectos semper habebat,
+Haud dubitans, illos pro libertate tenenda
+Artibus acturos variis quodcumque valerent,
+Et nisi continui premerentur pondere belli,
+Foedera rupturos, secum condicta frequenter,
+Rursus in illorum patriam fortissima ducit
+Agmina: conventum placiti generalis habere
+Cum ducibus se velle suis denunciat illic.
+Tanto concilio locus est electus agendo,
+Quem Pathalbrunnon vocitant, quo habet ipsa
+Gens alium naturali plus nobilitate
+Insignem, qui praecipuae redimitus abundat
+Fontibus et nitidis et pluribus, et trahit inde
+Barbaricae nomen linguae sermone vetustum.
+Tunc ibi villa fuit tantum, nunc pontificalis
+Ecclesiae constructa nitet clarissima sedes.
+Quo Carolus veniens, collectos repperit omnes
+Paene duces, populumque simul, totumque senatum
+Saxonum, nisi quod quidam Widokindus abinde
+Aufugit, regem veritus; nam conscius idem
+Audacis sibimet facti multique reatus,
+Sifridum petiit Danorum sceptra regentem.
+Porro duces illic alii cum plebe gregati
+Suppliciter cuncti veniam pacemque petentes,
+Paruerant regi sub tali conditione,
+Ut cuncta scelerum dimissa mole priorum,
+Si post auderent eius violare statuta,
+Libertate simul prisca patriaque carerent.
+Quorum tum Christo se credere velle professa
+Magna salutiferum suscepit turba lavacrum.
+Sed simulata fides versuto prodiit ore,
+Quod notum multis fecere sequentia gesta.
+Tunc Sarracenus quidam pervenerat illuc,
+Nomine qui patrio dictus fuit Ibinalarbi.
+Hic cum non paucis sociis ac civibus, ipsum
+Qui comitabantur, fines regionis Hiberae
+Linquentem, Carolo se dedidit, ac simul urbes,
+Rex Sarracenus quibus hunc praefecerat olim.
+Ob hoc Saxonum tandem regione relicta,
+Gallica regna petit; post haec Aquitania regem
+Insignem Carolum tenet ad paschalia festa.
+
+Anno 778. Indict. 15.
+Hortatu Sarraceni cum se memorati
+Hispanas urbes quasdam sibi subdere posse
+Haud frustra speraret, eo sua maxima coepit
+Agmina per celsos Wasconum ducere montes.
+Qui cum prima Pyrenei iuga iam superasset,
+Ad Pompelonem, quod fertur nobile castrum
+Esse Navarrorum, veniens id coeperat armis;
+Traiciensque vado famosum flumen Hiberum,
+Cesaris Augusti quandam de nomine dictam
+Urbem praecipuam terris penetravit in illis.
+Acceptis tamen obsidibus, quos Ibinalarbi
+Iam dictus pariterque sua de gente fideles
+Illustresque viri dederant, sic inde recessit.
+Ac Pompelonem rediens, deiecerat eius
+Ad terram muros, fieret ne forte rebellis.
+
+Cumque Pyrenei regressus ad intima saltus,
+Milite cum lasso calles transcenderet artos
+Insidias eius summo sub vertice montis
+Tendere Wascones ausi, nova praelia temptant.
+Denique postremos populi regalis adorti,
+Missilibus primo sternunt ex collibus altis,
+Et Francos, quamvis armis animisque priores,
+Impar fecit et angustus locus inferiores.
+Rex iam praecessit, tardumque remanserat agmen.
+Cura vehendarum quod rerum praepediebat.
+Fit pavor hinc exercitibus, subitoque tumultu
+Turbantur, victrix latronum turba nefanda
+Ingentem rapuit praedam, pluresque necavit.
+Namque palatini quidam cecidere ministri,
+Commendata quibus regalis copia gazae,
+Predones illos spoliis ditavit opimis.
+His gestis, hostes vasti per saltus
+Fugerunt, celerant, fuerant quibus ardua montis
+Abdita silvarum vallis loca nota profunde
+Quos fuga dilapsos investigabilis et nox
+Instans eripuit, sequeretur ut ultio nulla.
+Ac facinus tantum quoniam permansit inultum,
+Tristia regali subduxit nubila menti,
+Prospera quam fecere prius complura serenam.
+Aptum praeterea se tempus habere putantes
+Saxones ulciscendi quam plurima dampna
+A Francis illata sibi, quia rex erat absens,
+Infesto Rheni petierunt agmine litus.
+Quem transire tamen nulla ratione valentes,
+Francorum terras in eadem parte iacentes
+Qua venere nimis vastare ferociter ausi,
+A muris urbis, quae dicta Diutia nunc est,
+Donec pervenias ubi Rhenus confluit idem,
+Litoribusque ferens fontes Musella Liei.
+Cunctas quas poterant villas invadere, flammis
+Tradiderant, ipsis etiam non ira pepercit
+Aecclesiis, nec erat hominum caedis modus ullus.
+Non aliquod sexus, aetatis, condicionis
+Ullius furor immitis discrimen agebat,
+Omnia sed ferrum vel edax consumserat ignis.
+Hinc non praedandi studio, sed ut ultio quaedam
+In Francos fieret, hoc eos gessisse probatur.
+
+Hoc rex Hispanis didicit regressus ab horis.
+Tunc orientales Francos non Alamannos
+Obvia ferre iubet statim Saxonibus arma.
+Quos cum iam patriam redeuntes insequerentur
+,In Baddanfeldun--sic est locus ille vocatus--
+Adernam iuxta fluvium constanter in ipsos
+Irruerant, nutuque Dei quem crimina tanta
+In populo commissa suo dampnare decebat,
+Saxones tanta ceciderunt strage perempti,
+Ut de praegrandi superessent agmine pauci.
+
+Anno 779. Indict. 1.
+Vere novo Carolus causa poscente peragrans
+Gallorum quondam terras, ad Wirciniacum
+Accessit vicum, quo tunc occurrit eidem
+Dux Spoletanus, Hildibrandus vocitatus.
+Qui preciosa ferens insigni munera regi,
+Ad sua cum magno satis dimissus honore.
+At rex intente meditans invadere terras
+Saxonum, citius Rhenum traiecerat amnem.
+Cui se spe vana gens ipsa resistere posse
+Confidens, pariter sumptis occurrerat armis,
+In quodam collecta loco Bocholt vocitato.
+Sed cum coepissent acie confligere, statim
+Terga dedit, numero Francorum territa grandi.
+Accepit tunc Westfalos in deditionem.
+Progressusque dehinc, Wisuram pervenit ad amnem,
+Atque dies aliquot mansit stacione locata.
+Angarios sed et Ostfalhos ad se venientes
+Promissam firmare fidem, qua semet eidem
+Subiectos fore spondebant, animoque fideles,
+Obsidibusque datis sacramentisque coegit.
+His gestis rex Wormaciam remeavit ad urbem.
+
+Anno 780. Indict. 2.
+Inde movens oportuno sua tempore castra,
+Saxonum rursus properaverat in regionem.
+Eresburg primo petiit, post haec ubi fontes
+Lyppia flumen habet, perplurima dispositurus
+In castris aliquot fertur mansisse diebus.
+Hinc orientis iter sumens, ad flumen Ovaccrum
+Venit, et eiusdem gentis quam maxima turba
+Illuc praecepto parens occurrerat, atque
+Credere se Christo simulans baptisma recepit.
+Indeque festinus pergens, ibi castra locavit,
+Albia qua grandis fluvius miscetur et Ora.
+Nam res Saxonum voluit componere, nec non
+Sclavorum, medius quos Albia dividit amnis.
+Citra Saxones degunt, in litore vero
+Sclavorum pagana manet gens ulteriori.
+Dispositis sane rebus pro tempore cunctis,
+Ad sedes tandem studuit remeare paternas.
+Tum quia praecipuo semper flagrabat amore
+Petri, qui summe praeclarus apostolus extat,
+Ipsius Romae decrevit limina sancta
+Querere, vota precesque Deo persolvere curans.
+Atque citus properans, assumpta coniuge secum
+Et natis, urbem pervenerat ad Ticinensem,
+In qua natalis Domini festum celebravit.
+Hic igitur statui primae cum fine decadis
+Annorum Caroli, postquam rex coeperat esse
+Francorum solus, primum finire libellum,
+Viribus ut parvis requies solatia praestet.
+
+
+          ANNALIUM DE GESTIS CAROLI MAGNI LIBER PRIMUS EXPLICIT. INCIPIT 
+SECUNDUS.
+
+
+-----------------------------[page 0695]-------------------------------
+
+
+-----------------------------[page 0695B]------------------------------
+Octonis decies septingentisque peractis
+Annis, est genitus postquam de virgine Christus,
+Hic primus sequitur, Carolus quo rex pius arces
+Romanas adiit, Domino ducente secundo. 
+Tunc Adrianus eum, iamdudum commemoratus
+Presul apostolicus, cum magno laetus honore
+Suscepit, populusque simul Romanus ad ipsum,
+Ut defensorem libertatisque datorem,
+Unanimis concurrit ovans, gratesque rependens. 
+Illic cum praesens foret ad sollempnia paschae,
+Fonte salutifero Pippinum nomine natum
+Abluit ipsius praesul venerabilis idem. 
+. . . . . . . . . . . . . . .
+( Desunt hic versus triginta aut sexaginta.) Anno 782. Indict. 4.
+-----------------------------[page 0695C]------------------------------
+Exoriens aestas ubi primum gramine pulcroVestierat terras, poteratque exercitus 
+apteEduci, quoniam molles animalibus herbaeDultia praebuerant florentis 
+pabula foeni,Innumeris fultus populis et milite claro,Saxonum rursus rex 
+inclitus in regionemVenit, et ad fontes fluvii cui Lyppia nomen,Conventum 
+fieri procerum iussit generalem.Illic disponens complura negocia regni,Danorum 
+regis Sigifridi nomine missos,Et quos Iugurgus pariterque Caganus ad ipsum,Hunorum 
+misere duces, pro pace petenda,Audiit, absolvitque datis prudenter eisdemResponsis. 
+Posthaec Rhenum traiecerat amnem,Gallica seque dehinc rex magnus in arva 
+recepit.
+-----------------------------[page 0695D]------------------------------
+Interea patriae quondam Widukindus ab orisQui fuerat profugus Normanorumque 
+petivitAuxilium, rediens vana spe sollicitabatSaxones, initum cum Francis 
+rumpere foedus
+-----------------------------[page 0696B]------------------------------
+Ut conarentur, multosque vocavit in armaE populo, fecitque novum consurgere 
+bellum.Gens quoque Sclavorum Sorabi cognomine dictaAudacter sumtis subito 
+praeruperat armisVicinas sibi Saxonum terras populandoAtque Thuringorum 
+fecundos frugibus agros,Qui medias Sorabi terras camposque iacentesInhabitant 
+inter fluvios: hinc volvitur amnis,Qui Sala nomen habet, fluit Albia latior 
+inde.Ast ubi Sclavorum Carolo sunt cognita gesta,Protinus illorum reprimendos 
+censuit aususArcendosque sui regni de finibus hostes.Unde palatinis ad 
+se tribus ipse vocatisPrincipibus, quorum fuerat camerarius unusRegis Adalgisus, 
+Geilo stabuli comes alter
+-----------------------------[page 0696C]------------------------------
+. . . . . . . . . . . . . . .Ductores exercituum fore iussit eosdem.Quos 
+orientali Francorum de regioneCollectos contra Sclavos praeceperat ire,Nec 
+non Saxones, sibi quos parere iubebat,Auxilio fieri ducibus mandaverat 
+ipsis.Sed cum legati per eorum ducere terrasAgmina coepissent--nam sic 
+invadere SclavosTramite debuerant recto--fit protinus ipsisCognita iam 
+dictae grandis defectio gentis.Ob hoc iter coeptum flectunt, primo cupientesSaxones, 
+numero freti, prosternere bello.Quod nimis incaute coeptum pariterque superbe,Francorum 
+misera fuerat cum clade peractum.Namque duces ubi compererant, quod se 
+Widukindus
+-----------------------------[page 0696D]------------------------------
+Ad pugnam multa stipatus plebe parasset,Et iuxta montem Suntal sua castra 
+locasset,Illuc infestis properarunt ilico signis,Ad praedam pocius quam 
+pugnam semet ituros
+-----------------------------[page 0697A]------------------------------
+Sperantes, ipsam patriam rex ipse quotannisCum prius inpugnans vires exhauserit 
+eius.Immemores morum gentis simul ingeniique,Quod tanto varia plus nititur 
+arte doloque,Quo premitur bellis, et victa quiescere nescit,Vindictae rediviva 
+parans conamina semper.Ergo palatinis ducibus properantibus ad se,Saxones, 
+atie longo satis ordine structa,Pro castris occurrerunt; ibi protinus atroxConseritur 
+fundens ingentem pugna cruorem,Francorumque truci proceres sunt cede necati,Interfectus 
+Adalgisus pariter quoque Geillo,Regis legati, praeclari quattuor illicExtincti 
+comites, cum viginti venerandisNobilibusque viris aliis ac clade peremptis.
+-----------------------------[page 0697B]------------------------------
+At reliquus bello populus consumptus in illo,Censeri numero nequid, altum 
+denique montemQui vicinus erat fugiens paucissima turmaExpetiit, silvisque 
+latens evaserat hostem.Nuncius haec tristis narraverat omnia regi;Ille 
+suis exercitibus festinus in unumCollectis, statim Saxonica venit harena.Quem 
+cum primores eiusdem gentis adissent,Illud se certo non commisisse probantes,Et 
+rex auctores facti perquireret, unaEsse reum clamant Widukindum criminis 
+huius,Et quos hortatu proprio sibi consotiavit.Nec potuit tradi, quia rursus 
+contulerat seAd Northmannorum patriam post praelia gesta.Tradita sunt sane 
+reliquorum bis duo leto
+-----------------------------[page 0697C]------------------------------
+Milia quingentique viri, qui tam grave bellumIllius contra Francos gessere 
+suasu.Hosque die cunctos rex decollaverat unaIuxta Alaram fluvium, locus 
+idem Ferdi vocatur.Hac ibi vindicta regum clarissimus acta,Ad propriam 
+rediit villam Theodone vocatam.. . . . . . . . . . . . . . .. . . . . . 
+. . . . . . . .
+Anno 783. Indict. 5.. . . . . . . . . . . . . .
+( Desunt hic versus viginti sex aut septem. )Gloria, certabat, sibi ne 
+consueta periret.Alter iam nullam statuens sperare salutem,In ferrum prisca 
+pro libertate ruebatSed tandem Carolus divino munere victor,
+-----------------------------[page 0697D]------------------------------
+Caesis innumeris reliquos exinde fugavit.Transierantque dies pauci, cum 
+rursus eodemComperit in populo repetitum surgere bellum.Scilicet in Westfalhorum 
+regione gregatisPluribus in ripa fluvii, Hasa nomine, rursusAudebant animi 
+plus quam virtutis habentes,Qui victi totiens, atie confligere aperta.Pergere 
+rex ad quos meditans sociosque recensens,Repperit in pugna plures cecidisse 
+priori,
+-----------------------------[page 0698A]------------------------------
+Aegros vulneribus multos ibi forte receptos.Sed subito novus ex Francis 
+exercitus illiAdvenit, cunctisque suis legionibus auctis,Ad debellandos 
+studuit properare rebelles.Qua dux egregie prudens dum cuncta parasset,Virtutem, 
+sicut solet, est fortuna secuta.Saxones iterum caesi longeque fugati,Abductus 
+captivorum numerus fuit ingens.Inde plagas orientales rex victor adivit,Omnia 
+quam late ferro populatus et igni,Donec ad fluvium qui dicitur Albia venit.Post 
+haec ad patriam rediit; tunc est sociataRegali thalamo coniunx Fastrada 
+vocata,Filia Radolphi comitis, sata germine claro.Hibernas in Eristalli 
+tum duxerat horas,
+-----------------------------[page 0698B]------------------------------
+Atque dies, quibus hunc nascens moriensque redemptorSalvavit mundum, voto 
+celebraverat almo.
+Anno 784. Indict. 6.Relliquias belli tandem fortissimus herosConsummare 
+volens, tanto quod tempore gestumSaxonum cum gente fuit, numerosa virorumMilia 
+lectorum terris induxit eorum.Ac primum Rheni transgressus fluminis undam,Vastabat 
+pagos Westvalorum regionis,Venit et ad Wisuram, locus est ubi dictus Uculbi.Inde 
+Thuringorum per agros iter aegerat atqueSaxonum campos, quos Albia vel 
+Sala tanguntAmnes vicini, lustrans villas ibi pluresTradiderat flammis, 
+donec pervenit ad illum,
+-----------------------------[page 0698C]------------------------------
+Qui veteri locus est Scannigi nomine dictus.Hinc in Warmatiam rediens se 
+contulit urbem.Filius interea regis, qui par genitoriIndole mentis erat, 
+tum nomine dictus eodem,Cum patriis exercitibus quos ipse regebatIn Westvalorum 
+pago cognomine Dreini,Eiusdem populi turbas ad bella paratasOffendens, 
+statim certamine vicit equestri,Victor et ad patrem iam dicta venit in 
+urbe.Qui valida comitante manu Saxonica statimArva petens, iuxta fluvium 
+consederat Ambram,Est ubi castellum quod Skideronburg vocitatur.In castris 
+ibidem votis sollempnibus actisNatalis Domini, processit ad hostia Warnae,Qua 
+fluit in Wisuram. Nec iam fuit ulla facultas
+-----------------------------[page 0698D]------------------------------
+Longius ad boream sicut cupiebat eundi.Temporis obstabat simul asperitas 
+hiemalis,Atque iugis pluviae cursus vehementer inundans;Ob hoc in Eresburg 
+residens se contulit urbem.
+Anno 785. Indict. 7.Cumque dies reliquos brumalis frigoris illicIpse manere 
+suum decrevisset comitatum,Accersivit eo propriam cum coniuge prolem.Cum 
+quibus, ut decuit, fido firmoque relicto
+-----------------------------[page 0699A]------------------------------
+Praesidio, iuvenes animis ac viribus acresAssumpsit secum, lataeque vagatus 
+in omnesIllius regionis agros, sed et oppida quaeque,Cuncta simul flammis, 
+spoliis ac cede ferociMiscuerat, cupiens animos quos sepe rebellesExpertus 
+fuerat, tali prosternere clade.Haec lugubris hiems illi funestaque gentiCum 
+tandem finita foret, vernalis et auraIocundum spirans ornaret floribus 
+arva,Publicus in Padarbrunnon conventus habetur.Quo rex insignis sollempni 
+more peracto,In pagum quendam, vocitat quem barbara linguaBerdango, celeri 
+studuit se tramite ferre.Tunc ibi compererat Widokindum iam memoratumAbbonemque 
+simul, qui de maioribus eius
+-----------------------------[page 0699B]------------------------------
+Gentis erant, memores scelerum latitare suorumFinibus in patriis, quos 
+sepserat ad borealemAlbia lata plagam iuxta confinia terraeDanorum, primo 
+mittens de civibus ipsisLegatos, ortatur eos, quo flectere tandemColla 
+sibi, fideique suae se credere vellent,Commissi veniam, necnon et praemia 
+spondens.Conscia sed magni dubitarunt corda reatusHis de promissis, donec 
+firmata salutisSpes est obsidibus missis quos expetierunt.Quos ut Amulwinus 
+quidam vernaculus aulaeIpsius adduxit, properarunt protinus amboAd regem, 
+iam tunc fuerat qui forte reversusAd villam propriam que dicitur Attiniacus.Hic 
+idem proceres sacri baptismatis unda
+-----------------------------[page 0699C]------------------------------
+Perfusi, tandem regi mansere fideles,Ipsaque gens aliquot requieverat inde 
+per annos.Interea quidam coniuravere maligni,Ut dirum facinus scelerato 
+corde patrarent,Vel ferro regem, vel qualibet arte necando.Criminis incentor 
+Hardradus tunc comes huiusExtiterat, sed ut indicio delata fideliFactio 
+seva fuit, statim sedata quievit,Ingens valde foret licet et nimis acriter 
+orta.Auctores eius privari lumine quosdam,Exilio reliquos dampnari iusserat 
+ipseRex summe prudens, cuius clementia nulliReddiderat dignam tanto pro 
+crimine poenam.
+Anno 786. Indict. 8.
+-----------------------------[page 0699D]------------------------------
+Magni decreto Caroli sacrique senatusMissus in occiduas exercitus exiit 
+horas,Subdere Brettones, gentem tunc forte rebellem.Insula cuius erat fecunda 
+Britannia dudumPatria; namque illic habitabat tempore multo,Cumque novas 
+Angli sedes sibi quaerere vellent,Saxonesque simul hanc invasere feroces,Expulsi 
+statim veteres cessere coloni:Maxima pars quorum fugiens mare transiit, 
+atqueGallia qua fines habet extremos, ibi tandemFluctibus oceani que proxima 
+viderat arva
+-----------------------------[page 0700A]------------------------------
+Detinuit, quibus in terris huc usque moratur,Indicium patriae solo dans 
+nomine priscae.Haec a principibus Francorum gens superata,Solvere vectigal 
+quamvis invita solebat.Cum temptaret eo dominorum tempore iussaSpernere, 
+directus multis cum milibus illucDux Audulfus eam celeri virtute repressit,Et 
+satis edomuit populi fera corda rebellisTum regis regum Christi pietate 
+iuvante,Disposito Carolus regno, placidaque per orbemUndique pace data, 
+statuit Romam proficisci,Nec non Italiae reliquam sibi subdere partem,Cuius 
+erat victum caput et pars maxima, captoIam Desiderio, Langobardisque subactis.Ducatus 
+Beneventanae tantum regionisNon illi subiectus erat, cui praefuit illo
+-----------------------------[page 0700B]------------------------------
+Tempore dux Aragisus. Eum tunc aggrediendiAccensus studio, partesque profectus 
+in illas,Accelerabat iter, quem non tardare valebatVel glacialis hiems 
+solitis iam mensibus instans,Vel via terribiles visu scandenda per AlpesMontibus 
+in summis, ubi tectae nubibus atrisAc nive perpetua rupes ad sidera surgunt,Transcensis 
+quibus Italicas intraverat urbes.Ex quibus est quedam Florentia nomine 
+dicta,In qua virginei partus florem veneratus,Christi sanctificum supplex 
+celebraverat hortum.Inde cito Romam cursu penetrare sategit.Quo cum suscepti 
+tractans molimina belliParvum transigeret tempus, cupiens Aragisus
+-----------------------------[page 0700C]------------------------------
+Hunc auro quem non potuit depellere ferro,Per natum misit proprium quam 
+maxima dona,Suppliciter pacem rogitans. Sed rex sibi longeDe rebus ceptis 
+aliter ratus esse gerendum,Qua prebet latos Campania fertilis agros,Illuc 
+progressus, Capua consedit in urbe,Gesturus statim bellum, nisi dux memoratusPrudenti 
+sibimet facto bene consuluisset.Nam primo firma se clausit in urbe SalernoTum 
+natos utrosque suos, quorum vocitatusRumoldus maior fuerat, Grimoldus et 
+alter,Missis legatis regi contradidit, ac seIpsius imperiis subiectum mente 
+fideliMansurum populumque suum promiserat omnem.Talibus oblatis, Caroli 
+requieverat ardor,
+-----------------------------[page 0700D]------------------------------
+Precipuaeque Deum metuens, ne christicolarumSanguinis effusi posthaec reus 
+ipse maneret,Abstinuit bello, non iam curans latitantemExpugnare ducem, 
+nec non et filius ipsiConcessus maior, minor est detentus, ut obsesEsset 
+apud regem; Beneventanus quoque cunctusDedere se populus non distulit, 
+obsidibusqueUndenis pro pace datis, hoc deditionisConfirmans foedus, per 
+sacramenta spopondit,Ut Francis, rerum dominis, serviret in aevum.Tunc 
+Romam regressus ovans, ibi pectore laetoMaxima pascalis celebravit gaudia 
+festi.
+
+-----------------------------[page 0701A]------------------------------
+Anno 787. Indict. 9.Adhuc Romulea dum rex mansisset in urbe,Tassilo legatos 
+Adrianum misit ad almumPontificem, quorum fuit Arnus episcopus unus,Abbas 
+alter erat Hunricus nomine dictus,Obnixe rogitans, idem mediator ut essetInter 
+se et Carolum pacis fideique sequester.Hoc antistes apostolicus ratus esse 
+decorum,Ut Petri de sede sacra concordia pacisRestaurata daret ducibus 
+populisque quietem,Instanter regem petiit deponere cunctasCorde simultates. 
+Ad que cum mente benignaAnnueret, ducis ab missis inquirere coepit,Pactio 
+quo praesens esset firmanda tenore.Legati nihil iniunctum de re sibi tali,
+-----------------------------[page 0701B]------------------------------
+Sed domino responsa suo, quae rex daret et quaePraesul apostolicus, tantum 
+referenda fatentur.Quapropter tamquam fallacia, fraudeque plenaPapa sacratus 
+eos sprevit mandata ferentes,Damnandos etiam statuens anathemate diro,Promissae 
+dudum fidei si rumpere foedusTemptarent, quod cum Carolo papigere volentes.Sicque 
+relinquentes infecta negotia pacis,Ad patriam rediere suam. Rex, his quoque 
+gestis,Francorum laetus remeaverat in regionem,Conciliumque dehinc procerum 
+generale suorumIntra Wormaciae muros collegit, et illicDecrevit, certo 
+quo disceret experimento,Utrumnam sibimet memoratus Tassilo velletIuratam 
+servare fidem subiectus et esse.
+-----------------------------[page 0701C]------------------------------
+Unde suo populos regno perduxit ad omnesFortia castra nimis, ternis in 
+partibus ipsaDisponens, Baioarii quo tanta paverentAgmina; nam terrore 
+magis, quam sanguine fusoChristicolae voluit plebis superare tumorem.Pippinus, 
+regis natus, cum milite multoItalicis illuc fultus legionibus ibat,Perque 
+Tredentinam sua duxerat agmina vallem.Ast orientalis quos haec in proelia 
+misitFrancia, Saxones etiam tum signa sequentesRegia, sic iussi, quendam 
+Pheringa vocatumArmati petiere locum, prope litora magniDanubii, prisco 
+qui nomine dicitur Hister.Ipse super Lecchum, certus qui terminus amnis
+-----------------------------[page 0701D]------------------------------
+Est inter Baioarios nec non Alamannos,Urbis ad Augustae confinia castra 
+locavit.Stipatusque manu valida, cum Norica regna,Tassilo quae tenuit, 
+ferro prosternere vellet,Undique dux idem circumsessum fore seseConspiciens, 
+supplex adiit vestigia regis,Devotis vitam precibus veniamque precatus.Qui 
+quia natura fuerat mitissimus, illi,Quem penitus victum vidit humilemque, 
+pepercit.Foedera prisca tamen rursus BaioariorumFirmantur, populo per sacramenta 
+coacto
+-----------------------------[page 0702A]------------------------------
+Perpetuam spondere fidem seu subditionem.Preterea regi duodenus traditur 
+obses.Regressusque dehinc, hiberno tempore totoMansit in Ingulenheim, sedes 
+ubi regia fulget.
+Anno 788. Indict. 10.Cum rex in villa fieri iussisset eademConventum procerum 
+sollempni more suorum,Cum reliquis etiam fuit illic Tassilo praesens.Quem 
+proprius quondam populus, cui praefuit ipse,Criminibus magnis maiestatisque 
+reatuAccusans, regis merito commoverat iram,Obiciens primo, quod foedere 
+deditionisNeglecto, quo subiectum seu pectore fidumSe fore iuravit, donis 
+crebroque rogatuInstigans Hunos, Francis ita fecerat hostes,
+-----------------------------[page 0702B]------------------------------
+Ut vellent sumptis vastare ferociter armisIllorum fines Carolumque lacessere 
+bello.Eius ut hoc faceret Leutberga suaserat uxor,Quae Desiderii fuerat 
+quia filia regis,Post patris exilium Francis inimica manebat,Foemineique 
+gerens odii sub pectore flammas,Mittere iam populos in summa pericula pravoConsilio 
+studuit, non curans, sanguine quantoHumani generis fuso, quot utrimque 
+perirentMilia, dum tantum Francis inferre laboresBellorum satagens nec 
+non dispendia rerum,Ulcisci patrem tali ratione valeret.Praeterea dictis 
+seu factis pluribus illiObiectis, quibus indicio clarebat aperto,Quod violata 
+fides esset, quod foedere spreto
+-----------------------------[page 0702C]------------------------------
+Tassilo molitus fuerit contraria regi,Ipse nihil horum vel coeperat inficiariVel 
+poterat, sed convictus noxae, capitaliDampnatur poena. Merito sic evenit 
+illi,Consilium quisquis fuerit muliebre secutus.At regis pietas dampnatum 
+protinus illumAbsolvit, retrahens ipso de limine mortis,Et factum monachum 
+servare monasterialePropositum iussit. Iuvenis quoque natus ab illo,Nomen 
+habens Theodo, genitoris facta secutus,Contemplativae susceperat otia vitae.At 
+vero Huni, studiis gens aspera belli,Praefato promissa duci complere studentes.Instructis 
+exercitibus coepere duobus
+-----------------------------[page 0702D]------------------------------
+Francorum regni fines invadere quosdam.Italiae partes unum penetraverat 
+agmen,Quaque Foro nomen dederas clarissime Iuli,Urbis ad eiusdem confinia 
+venerat hostis.Invasit Baioarios exercitus alter,Sed frustra: totus quoniam 
+conatus inanisIs fuerat, victique loco ceduntur utroque.His quoque temporibus 
+Grecorum nobile rexitImperium Constantinus, qui splendidus ortuDebitus 
+augustis patribus successerat heres.Qui iam preterito missis oraverat anno
+-----------------------------[page 0703A]------------------------------
+Legatis, ut se generum dignantis habereSusciperet natam Caroli sibi consociandamFoedere 
+coniugii: sed spes frustrata petentumMore leves solito Grecos commovit 
+in iram.Hinc dedit augusto pariter sua curia taleConsilium, penitus quo 
+non pateretur inultum,Quod rex contempsit Carolus praestare petitosVirginis 
+amplexus illi, cui summa potestasMortalem vix esse parem permitteret ullum.Ob 
+hoc praefecto, cui procurare SicanasOfficium fuerat regiones, nomine dictoTheodoro, 
+iunctis ducibus quoque pluribus illi,Hoc opus edicto mandaverat imperiali,Ut 
+sibi contiguas vastaret protinus orasRegni Francorum, sic incentiva moveri
+-----------------------------[page 0703B]------------------------------
+Disponens belli generalis suscipiendi.Sed cum primores Grai sibi iussa 
+secuti,Hesperium litus forti cum classe petissentUt Beneventane villas 
+regionis et urbesDepopularentur ferro flammaque voraci,Occurrere duces 
+Caroli, quibus illa tueriCura fuit loca, praecipue Grimoldus, in ipsoDux 
+anno factus patre pro defuncto Aragiso,Nec non Spoleti rector cum milite 
+multoHildibrandus ad hoc bellum properabat agendum.Cumque novos hostes 
+opibus numeroque potentesIgnotos lingua celebris iam fama referretAdventasse, 
+maris traiecto gurgite vasto,Urbibus Italicis ex pluribus arma suasitObvia 
+ferre viros coniunctis viribus omnes
+-----------------------------[page 0703C]------------------------------
+Ut sibi consulerent praedonibus inde repulsis,Quo motu prorsus concussa 
+Calabria totaVix umquam fertur similes spectata tumultus,In qua conseritur 
+pugne certamen utrimque.Ingenti studio sumit pars iusta tropheum.Cedit 
+Achiva cohors, Danaum dant terga phalanges,Grecorum quoniam semper gens 
+strenua lingua,Pigra manu, tantum facilis solet esse movendis,Sed bene 
+tractandis haud extat idonea bellis.Victores igitur Caroli rediere fideles,Hostibus 
+innumeris caesis; praeda quoque multaEt captivorum turba sua castra replentes,Absque 
+gravi dampno magnum cepere triumphum.Tum Baioariam se contulit in regionemRex 
+Carolus, cunctisque suis cum finibus ipsam
+-----------------------------[page 0703D]------------------------------
+Disponens commendavit rectoribus aptis.Et rediens in Aquisgrani, quam condidit 
+ipseAulam magnificam, sibimet gratissima festaNatalis Domini, sanctum quoque 
+pascha peregit.
+Anno 789. Indict. 11.Gens est Slavorum Wilti cognomine dicta,Proxima litoribus 
+que possidet arva supremis,Iungit ubi oceano proprios Germania fines.Haec 
+Francis inimica nimis cum tempore multoEsset, eis vel subiectos vel foedere 
+iunctosSclavorum populos sibimet regione propinquosInsectans odiis, bello 
+quoque sepe premebat.
+-----------------------------[page 0704A]------------------------------
+Nec potuit tolerare diu hoc inclitus archos,Sed populis secum variis legioneque 
+multaAssumpta, gentem studuit penetrare procacem.Cui per Saxonum terras 
+iter istud agentiAlbia traiciendus erat latissimus amnis.Illic immensum, 
+positis in littore castris,Est opus aggressus, celeri quod fine peregit.Nam 
+gemino stravit quam maxima ponte fluenta,Et caput ipsius vallo munivit 
+utrumque,Imponens et praesidium, ne forte regressoQuis prohibere viam super 
+alto flumine stratam,Lignorum rupta fragili compage, valeret.Exin Wiltorum 
+terras invaserat amneTransmisso, quas cum ferro vastaret et igni,Barbaricum 
+subito domuit terrore tumorem.
+-----------------------------[page 0704B]------------------------------
+Denique Francorum multis ubi castra refertaConspiciunt populis Wilti, fortissima 
+quamvisGens foret et numero pollens, certamina belliOmnimodis fugiens se 
+dedidit ilico regi,Inprimis rex Dragawiti, quem nobile clarumPrae reliquis 
+fecit genus et maturior aetas.Namque propinquaret cum rex illius ad urbem,Obvius 
+ipse suo pariter processerat omniCum populo, Caroli sese tradens dicioni.Sic 
+quoque cum ducibus gens et primoribus illaCuncta suis servituram se mente 
+fideliFrancorum dominis dans iuramenta spopondit.Tum rex obsidibus quos 
+iusserat ipse receptis,Et simul hoc populo tali ratione subacto,Tramite 
+quo venit memoratum rursus ad amnem
+-----------------------------[page 0704C]------------------------------
+Felici cursu rediit, cunctisque reductisPer pontem propriis legionibus, 
+ipse reversusWormatia tempus hiemis transegit in urbe.
+Anno 790. Indict. 12.Hic modo Musa novam Caroli deprome quietem.Est hic 
+primus enim postquam regnaverat annus,Quo non cum propriis foret in longinqua 
+profectusMilitibus, seu diversos ut sterneret hostes,Aut aliis quoque pro 
+causis ac rebus agendis.Cui cum Wormatiae tandem residere liceret,Illic 
+Hunorum missos audivit, ad illosIpse suos etiam misit: nam maxima causaHos 
+inter populos litem commovit atrocem,Dum quo regnorum confinia certa suorumEsse 
+loco veteri deberent iure statuta,
+-----------------------------[page 0704D]------------------------------
+Ingenti studio disceptaretur utrimque.Haec et origo fuit belli, quod posterioriTempore 
+cum Hunis Franci gessisse probantur.Sed rex nec spatium torpere per otia 
+parvumDignatus, semper sed strenuus indole mentis,Est aggressus iter Moinum 
+navale per amnem,Ascenditque per hunc, donec prope moenia venitMagna palatinae 
+sedis, Salt nomine dicta,Nascenti vicina Salae; nam fluminis huiusRivus 
+adhuc modicus haec ipsa palatia cingit,Vix raucum per saxa ciens resonantia 
+murmur.Dispositis ibi rebus, aqua redeundo secunda
+-----------------------------[page 0705A]------------------------------
+Wormatiam petiit, qua cum per tempora brumaeMansisset, subito regales funditus 
+aedesIllic constructas noctu consumpserat ignis.Ipse redemptoris nati passique 
+sacrataFesta gerens ibidem veris transegerat ortum,Expectans vestita foret 
+dum gramine tellus,
+-----------------------------[page 0706A]------------------------------
+Fronderent silvae, possent et sole sereno,Et coelo, de diversis regionibus 
+apteAd bellum gentes variae populique vocari.Namque novum rursus voluit 
+certamen inire,Atque labore gravi modicam mutare quietem.
+        
+
+
+          ANNALIUM DE GESTIS CAROLI MAGNI LIBER SECUNDUS EXPLICIT. INCIPIT 
+TERTIUS.
+
+
+-----------------------------[page 0705]-------------------------------
+
+
+-----------------------------[page 0705A]------------------------------
+Aurea siderei transcendere cornua Tauri
+Fulgentesque polo iam sol intrare Laconas
+Coeperat, et gelidis breviatae noctibus umbrae,
+
+-----------------------------[page 0705B]------------------------------
+Auraque productae spatio iucunda diei,
+Florenti semper studiis animoque vigenti
+Dant gratum Carolo tempus, quo viribus uti
+Posset et ad bellum proprias educere turmas. 
+Qui post annorum centena volumina cursu
+Septeno transacta, decem quoque circiter annis
+Emensis novies, postquam Deus est homo natus,
+Hoc fuit aggressus Hunos certamine primo. 
+Nec sibi cunctandum ratus est, quin redderet illis
+Quam meruere vicem, veteris hoc denique causae
+Poscebant odii. Nam gens dum floruit illa,
+Innumeris dominans aliis, quas subdidit armis,
+Tum Francis inferre malum persepe solebant. 
+Sic veteres memorare solent, quod funditus olim
+
+-----------------------------[page 0705C]------------------------------
+Illorum terras immani caede furentes
+Vastarint, dederintque voracibus omnia flammis
+Oppida, rura, domos, urbes, coenobia, villas
+Nam furor hostilis voluit nec parcere sacris
+Aedibus, et regno vix una remansit in illo
+Mettenses intra muros constructa decenter
+Ecclesia Stephani, martyr qui primus habetur
+Denique continuis Francos compluribus annis
+Sic impugnabant Huni, rex donec eorum
+Attila, multorum totiens victor populorum,
+Feminea, periit dextra sub tartara trusus. 
+Namque ferunt, quod eum vino somnoque gravatum,
+Cum nox omnigenis animantibus alta quietem
+Suggereret, coeptis crudelibus effera coniunx,
+Ducens insomnes odiis stimulantibus umbras,
+
+-----------------------------[page 0705D]------------------------------
+Horrendo regem regina peremerit ausu. 
+Ulta necem proprii tamen est hoc crimine patris. 
+Hoc res Hunorum tristi velut omine lapsa,
+Post rediit retro, nec prosperitate priori
+Sunt posthaec usi. Prius oppressere profan
+Christicolas Francos antiqui temporis aevo,
+Castigante Deo caros sibi more benigno. 
+Ergo patrum cladis nota mansit inusta nepotum
+Pectoribus, servans irae monimenta vetuste. 
+Tum nova praeterea de causis orta simultas
+Iam dictis, animum Caroli commovit, ut illos
+Francorum totis cum viribus aggrederetur. 
+
+-----------------------------[page 0706A]------------------------------
+Protinus edicto producitur imperiali
+Ex cunctis ingens populis exercitus illi
+Subiectis, et cunctarum validissima rerum
+
+-----------------------------[page 0706B]------------------------------
+Copia, quas tanti belli instrumenta gerendi
+Poscebant, vigili cura studioque paratur. 
+Sed numerosa nimis quoniam produxerat ex hoc
+Agmina, per partes eadem seiunxerat, ac sic
+Pannoniam, gens Hunorum quam seva tenebat,
+Tramite distantem longo penetrare sategit. 
+Tunc unam populi partem comiti Theodrico
+Atque Magenfrido, ducibus hoc tempore primis,
+Committens, aquilonales per fluminis horas
+Danubii praecepit eos iter accelerare. 
+Ipse per australis tendebat litoris agros,
+Milibus innumeris stipatus et agmine forti. 
+In medio fluvius cunctis alimenta vehebat
+Agminibus, regis speciosa classe repletus,
+Quam Baioariis fuit ingens cura tueri. 
+
+-----------------------------[page 0706C]------------------------------
+Ipsos in ratibus descendere quippe secunda
+Iussit aqua. Sic ad fluvium rex venit Anesum,
+Qui medius Baioarios seiungit et Hunos. 
+Hunc iuxta positis per prata virentia castris,
+Communi voto ternis statuere diebus
+Suppliciter celebrare preces, ac pectore toto
+Auxilium regis regum deposcere Christi,
+Ut coeptis pius annueret, quo cuncta darentur
+Prospera, tot populis in tam longinqua profectis,
+Munitis signo fidei, contraque nefandos
+Gentiles felix fieret certamen agendum. 
+Atque dehinc motis memoratae proclia castris
+Intulerat genti, cuius munimina statim
+Pulsis praesidiis destruxerat, ex quibus unum
+
+-----------------------------[page 0706D]------------------------------
+Non operis parvi Cambus praeterfluit amnis,
+Atque super dictum Cumberg munitio montem
+Altera pregrandi fuerat circumdata vallo. 
+Destructis utrisque tamen cum robore forti,
+Aequatisque solo, ferro vastabat et igni
+Hostiles late terras, ad ostia donec
+Perveniens Arrabonis, qua fertur in undas
+Danubii, lassis ibidem statione locata
+Militibus parvum dederat requiescere tempus. 
+Sic ubi Pannoniae fuerat pars maxima latae
+Divitiis spoliata suis ac tradita flammis,
+Incolumem victor populum rex inde reduxit,
+
+-----------------------------[page 0707A]------------------------------
+Cui fuit hostilis haec tota profectio plane
+Prospera, res in ea nec contigit ulla moleste,
+Excepto quod tanta lues eius legionis,
+Quam rex duxit, aequos morbo consumpsit atroci,
+Ut decimam partem vix de tot milibus huius
+Expertem cladis tradant potuisse reduci. 
+Rex autem veniens Reginum, quam Reganesburg
+Nunc vocitant, ibidem natalis gaudia Christi
+Cordeque sacratum celebravit pascha fideli. 
+Anno 792. Indict. 14.Celsa Pyrenaei supra iuga condita montisUrbs est Orgellis, 
+praesul cui nomine FelixPrefuit. Hic haeresim molitus condere pravam,Dogmata 
+tradebat fidei contraria sanctae,Affirmans, Christus dominus quia corpore 
+sumpto
+-----------------------------[page 0707B]------------------------------
+Est homo dignatus fieri, non proprius ex hoc,Sed quod adoptivus sit Filius 
+omnipotentis.Responsumque Toletano dedit hoc HelipandoPontifice, de re 
+tanta consultus ab ipso,Atque suum scriptis defendere dogma libellis,Omni 
+quo potuit studio curavit et arte.Hinc ad catholici deductus principis 
+aulam--Idem Regino nam tum hiemabat in urbe--A multis ibi presulibus synodoque 
+frequentiEst auditus, et errorem docuisse nefandumConvictus, posthaec Adriano 
+mittitur almo,Sedis apostolicae fuit hoc qui tempore praesul.Quo praesente, 
+Petri correctus in aede beati,Pontificum coram sancto celebrique senatu,Dampnavit 
+Felix prius infeliciter a se
+-----------------------------[page 0707C]------------------------------
+Ortam perfidiae sectam, meruitque revertiAd propriae rursus retinendum 
+sedis honorem.At Baioaricis aestivum tempus in horisDum rex duxisset, suprema 
+pericula poeneIncurrit, nisi quod pietas divina resistensAusibus humanis, 
+saevas everterat iras.Horror inest animis tales recolentibus ausus,Quod 
+fuerit rutilum Francorum tam prope lumenExtinctum, facinus vel concepisse 
+malignosTantum mente viros. Carolum nam tradere mortiOmnimodis satagunt: 
+hinc coniuratio ferturInter Francorum proceres crudeliter acta.Precipue 
+regis materno sanguine cretus,Sed plus nequitia morum, quam degener ortu,
+-----------------------------[page 0707D]------------------------------
+Auctorem sceleris demens se prebuit huius.Non tamen hoc odium regem meruisse, 
+vel ipseHostis iure queri poterat, regina sed atrox,Ac saevum gestans animi 
+Fastrada tumorem.Insidiatores partim suspenderat illosInformis leti laqueus, 
+natoque pepercitRex tantum proprio, tonsumque monasterialiProposito purgare 
+scelus iussit meditatum.In Baioarica vero regione moratus,Instabat princeps 
+navalem condere pontem,Qui per Danubium bello prodesset agendo,
+-----------------------------[page 0708A]------------------------------
+Quod contra saevos olim susceperat Hunos.Hinc et natalem Domini celebraverat 
+illic,Ipsius et merito clarissima festa triumpho,Quo pariter vicit mortem 
+mortisque ministrum.
+Anno 793. Indict. 15.Cum rex ad coeptum statuisset conficiendumBelli certamen 
+Hunos invadere rursus,Comperit extinctas, Theodricus dux legionesQuas per 
+Fresonum pagum Hriustri vocitatumDucebat: nam Saxonum periere dolosisInsidiis, 
+captae Wisurae prope litora pulchrae.Dissimulans igitur tanti infortunia 
+dampni.Intermisit iter, quo disponebat adirePannonias, et cum Hunis committere 
+pugnam.
+-----------------------------[page 0708B]------------------------------
+Interea suasere sibi, qui nota ferebantTalia, quod fluvios inter, Radantia 
+quorumUnus habet nomen, sed et Alcmona dicitur alter,Si fieret tantus fossa 
+tellure paratusAlveus, inductis ambos dum tangeret amnesGurgitibus, posset 
+puppes ut ferre natantes,In Rhenum de Danubio celer efficeretur,Et facilis 
+cursus ratibus. Radantia namqueSe Moino, Moinus Rheno miscere probatur;Alcmona 
+Danubii rabidis illabitur undis.Consilium credens igitur sibi dantibus 
+istud,Ipse locum princeps operi quem credidit aptumExpetiit tanto, multis 
+quoque milibus illucConductis operatorum, simul omnia poeneAutumni studio 
+consumpsit tempora casso.
+-----------------------------[page 0708C]------------------------------
+At tamen in longum passus duo milia ductaFossa fuit, pedibus tercentum 
+lata patebat,Sed non perfectum poterat consistere prorsusHoc opus, assiduus 
+quoniam nimis offuit imber,Et naturalis terram dissoluerat humor,Egestumque 
+fuit quantum sudore diurno,Rursus humi tantum rediit sub nocte relapsa.Cumque 
+lutum semper madidis incresceret arvis,Alveus et firmo constaret litore 
+nusquam,Ima petens inmensa palus per lubrica fluxit,Ac densum scrobibus 
+caenum subsedit in altis.Cum tamen in coepto persisteret ipse labore,Hunc 
+tristi tandem fama reuocante reliquit,Est totius enim subito defectio gentisSaxonum 
+rursus bellum narrata mouentis.
+-----------------------------[page 0708D]------------------------------
+Preterea Sarraceni permaxima damnaIntulerant, quedam regni confinia ferroVastantes, 
+ducibus Francorum denique caesis,Cum spoliis laetoque nimis rediere trophaeo.Tum 
+rex aduersis commotus talibus, indeAd Francos rediit, natalis gaudia ChristiDeuote 
+caelebrans Moini prope clara fluenta,Qua locus insignis Kiliani martyris 
+almiNomine seu meritis fulget: sanctum quoque paschaEst in Franconoford 
+magno veneratus honore.
+
+-----------------------------[page 0709A]------------------------------
+Anno 794. Indict. 1.Dira venenifere conatus semina sectae,Quae Felix infelici 
+male sparserat ausu,Vellere de sacro Domini radicitus agro,Catholicus princeps, 
+synodum celebrare vocatosUndique pontifices iam dictam fecit ad aulam.Nec 
+non affuerat Stephanus cum Theophilacto:Nam fuit antistes sedis legatus 
+uterqueRomane, quos papa sacer mittens Adrianus,Rite suam servare vicem 
+mandaverat illic.Tunc igitur cuncti cum decreto generaliHanc condemnarunt 
+haeresim, scriptusque libellusEst illam contra, quem confirmaverat illePontificum 
+coetus, simul et subscripserat omnis.
+-----------------------------[page 0709B]------------------------------
+Annis praeterea synodum non pluribus anteConstantinopoli celebrari fecit 
+in urbeGrecorum princeps, qui Constantinus habebatNomen, et eiusdem genetrix 
+Herena vocata,Et condixerunt, ut septima seu generalisAppellaretur; sed 
+eam non nomine taliDignam concilium pariter cognoverat istud,Utque supervacuam 
+spernendam censuit iste.Tunc ibi regalis Fastrada migraverat uxorHac ex 
+luce, diem tandem sortita supremum.Cuius in Albani speciosa martyris aede,Iuncta 
+Mogontiacae fulget quae moenibus urbis,Cum magno fecit sepeliri corpus 
+honore.Atque dehinc Carolus cunctis hoc ordine gestis,Foedifragis rursum 
+Saxonibus intulit arma.
+-----------------------------[page 0709C]------------------------------
+Ac geminis exercitibus decreverat ipsos.Instructis terrore simul ferroque 
+domare,Ut cito gens bellis succumberet una duobus,Ex quibus haud unum paenitus 
+sufferre valeret.Regis ab australi properabant agmina parte,Saxonum miseras 
+late vastantia terras;Filius ipsius Carolus traiecerat undasRheni, quem 
+comitabatur delecta iuventus,Invadens ex occidua regione rebelles.Quos 
+statim terror merito pervaserat ingens:Et magni quamvis campi per plana 
+SinothfeldCollecti, pugnaque forent certare parati,Hoc animi cecidere metu, 
+nec spes erat illisUlla resistendi Francis, quos tot populorumAgminibus 
+fultos vinci non posse videbant.
+-----------------------------[page 0709D]------------------------------
+Protinus omisso sese certamine belliSubiciunt regi, iuramentis quoque firmantObsidibusque 
+datis haec foedera deditionis.Ipse regressus Aquasgrani--sic regia sedesInclita 
+nomen habet, nec non vocitatur Aquensis--Illic more suo celebravit tempora 
+sancta,In quibus est unita Deo substantia nostra,Morsque redemptoris mundum 
+reparaverat omnem.
+Anno 795. Indict. 2.Cum nimium suspecta foret gens facta rebellisSaxonum 
+totiens, crebro quoque foedere ruptoSub iusta regis ditione quiescere nolens,Haud 
+ullum respirandi dare censuit illi
+-----------------------------[page 0710A]------------------------------
+Atque rebellandi spacium fortissimus archos,Sed rursum terram populans 
+hostiliter ipsam,Eius in extremo tandem prope limite castrisConsedit positis, 
+vicus qua nobilis extat,Nomine Bardonwich dictus, quo iusserat ad sePergere 
+Sclavorum proceres sibi foedere iunctos.Illic adventum quorum dum forte 
+maneretOperiens, ex his extinctum comperit unum.Rex Abodritorum fuit is, 
+cognomine Witzun,Iussus et ut fuerat, regem dum vellet adire,Incidit insidias, 
+illi quas ante pararuntSaxones, quoniam Francis novere fidelem.Hinc irae 
+stimulis animo commotus amaris,Eiusdem regionis agros villasque ferociQuam 
+late ferro populari iussit et igni.
+-----------------------------[page 0710B]------------------------------
+Tunc ex Hunorum quidam primoribus illuc,Tudun habens nomen, venit per longa 
+viarum,Velle fatebatur regi qui subdere sese,Et Christo domino devota credere 
+mente.Hinc in Aquasgrani Carolus remeaverat aulam,Ac memorata prius supplex 
+ibi festa peregit.
+Anno 796. Indict. 3.Sedis apostolicae sublimis culmine praesulHoc Adrianus 
+ab hac vita decesserat anno.Post quem sortitus summum Leo pontificatum,Confestim 
+claves, quibus est confessio sancti.Conservata Petri, vexillaque miserat 
+urbisRomuleae Carolo pariterque decentia dona.Admonuitque piis precibus, 
+quo mittere vellet
+-----------------------------[page 0710C]------------------------------
+Ex propriis aliquos primoribus, ac sibi plebemSubdere Romanam, servandae 
+foedera cogensHanc fidei sacramentis promittere magnis.Missus ad hoc Angilbertus, 
+qui corpore sanctiRicharii clare decoratam rexerat abbasEcclesiam, pariter 
+regalia detulit illuc,Devote sancto misit quae munera Petro.Nam spoliata 
+fuit Hunorum regia, HringumQuam vocitant. Hanc dux Erichus hoc ceperat 
+anno,Multimodos etiam regi devexerat indeThesauros, aevo quos collegere 
+vetustoInnumeris crebro spoliatis gentibus Huni.Ex quibus est Romam tunc 
+maxima copia missa,De reliquo summos proceres aulaeque ministrosMultum 
+larga manus ditavit principis omnes.
+-----------------------------[page 0710D]------------------------------
+His gestis iterum rex Saxonum regionesInvadens late vastaverat, atque reversusVictor 
+Aquisgrani brumali tempore mansit.At dux Italiae Pippinus, regia proles,Adiunctis 
+Baioaricis legionibus illi,Hunis intulerat bellum, sic patre iubente.Cum 
+quibus eventu certamina prospera laetoTrans fluvium Tizan gessit, cunctisque 
+fugatisHostibus, a Francis Hunorum regia totaEst aequata solo, quam Hringum 
+diximus ante.Cuius poene gazae gentis tunc funditus omnes,Magnus erat quarum 
+numerus, cunctaeque priorumDiripiuntur opes regum, quas depopulantesPlures 
+in variis sacras regionibus aedes,
+-----------------------------[page 0711A]------------------------------
+Temporibus multis male congessisse feruntur.Tunc quibus ablatis, tam clari 
+iure triumphiAd patrem victor memorata venit in aulaPippinus, regni cui 
+thesauros spoliatiAttulit, exuviasque ducum, vexillaque capta.Cum quo iam 
+dictus Tudun quoque venerat illuc,Promissisque fidem propriis adhibere 
+sategit,Cum toto comitum numero baptisma suorumPercipiens etiam per sacramenta 
+spopondit,Se fore subiectum Francis fidumque per aevum.Sed postquam rediit, 
+mutans promissa fidemque,Perfidiae luerat parvo post tempore poenas.At 
+rex sollempni voto celebraverat illicTempora, quae Christus nascens moriensque 
+sacravit.
+
+-----------------------------[page 0711B]------------------------------
+Anno 797. Indict. 4.Cum pulchro renitens ortu claresceret aestas.Ad regem 
+Sarracenus cognomine ZatusAdveniens, a se pervasam reddidit urbem,Barzinona 
+cui nomen: nam limite structaConstat in Hispano, vario cogenteque casuNunc 
+Sarracenis fuerat, nunc subdita Francis,Perque ducem tandem memoratum reddita, 
+qui seSponte sua pariter Carolo permisit et urbem,Francorum subiecta fuit 
+posthaec ditioni.Inde suum gnatum, Hludowicum nomine, regemTunc Aquitanorum, 
+direxit ad obsidionemOscae nomen habet sic urbs Hispanica quedam.Ipseque 
+more suo rursum Saxonibus armaIntulit, auderent duras ne forte levare
+-----------------------------[page 0711C]------------------------------
+Cervices iterum, quorum vastaverat omnesExtremos etiam fines, quos Albia 
+claudit,Et qua diffuso miscent se gurgite salsisFluctibus oceani Wisurae 
+praeclara fluenta.Cumque rediret Aquisgrani, devotus adivitRegis Abinmage 
+Maurorum filius illum,Abdelle cui nomen erat, quem rex ibi clemensCum suscipisset, 
+collegerat inde senatum,Et quo conficeret tandem Saxonica bellaConsilium 
+prudens iniit, quo tempore totoInstantis brumae regione maneret in ipsa.Ergo 
+suo secum comitatu protinus omniAssumpto, Wisurae positis in litore castrisSedit, 
+Heristellique locum iussit vocitari,Hactenus hoc et habet nomen, terramque 
+per ipsam
+-----------------------------[page 0711D]------------------------------
+Adductos secum populos diviserat, atqueIndigenas licet invitos dare compulit 
+ipsisHibernas sedes simul et stipendia cunctis.Huc ex Italia venit Pippinus 
+ad ipsum;Hispanis etiam rediens Hludowicus ab horis,Hunorum quoque legati, 
+nec non Hadefonsi,Asturiae regis, quam maxima dona ferentes,Ex tam longinquis 
+Carolum terris adierunt.Hinc est in regnum proprium dimissus uterqueRegalis 
+natus: misit quoque cum HludowicoAbdellam, qui post patriam deductus, et 
+illisEst commissus, ad hoc quos tunc elegerat ipse,Et quorum fidei se credere 
+non dubitavit.Rex autem residens in Saxonum regione,
+-----------------------------[page 0712A]------------------------------
+Prefatoque loco sanctissima festa peregit,In quibus indutus processit corpore 
+Christus,Et posuit carnem moriens, sumpsitque resurgens.
+Anno 798. Indict. 5.Veris in initio facinus commiserat atroxSaxonum populus 
+quidam, quos claudit ab austroAlbia seiunctim positos aquilonis ad axem.Nos 
+Northalbingos patrio sermone vocamus.Nam pro iustitia legali more gerendaCum 
+rex legatos illuc transmitteret, ipsosImpia foedifrage iugulavit factio 
+gentis.Cumque Godescalcus, regis legatus et ipse,Ante dies missus paucos 
+ad regna tenentemDanorum, Sigifridus erat cui nomen, in ipsoTempore regrediens 
+foret interceptus ab Hunis,Auctores huius fuerant qui seditionis,
+-----------------------------[page 0712B]------------------------------
+Pertulerat mortem pariter pro crimine nullo.His rex commotus Wisuram properavit 
+ad amnem,Inque loco quem Munda vocant sua castra locavit,Atque necis legatorum 
+iustissimus ultor,In desertores irae laxavit habenas,Vastari late sparsis 
+legionibus illamPrecipiens terram. Tum saevus ubique furebatMiles, ubique 
+cruor rivis madefecerat arva,Omnibus atque locis increverat horrida clades,Vulnera, 
+mors, luctus, clamor, fuga, flamma, rapinae,Omnia complebant, donec compescuit 
+altisAlbia gurgitibus procedere longius arma.At Northalbingi missos inpune 
+peremptos
+-----------------------------[page 0712C]------------------------------
+A se cernentes Caroli--nam regia castraHaud traiecerunt fluvium--superaddere 
+magnosDisponunt ausus, Abodritos denique, FrancisQui tunc subiecti fuerant 
+ac foedere iuncti,Nisibus ex totis coepere lacescere bello.Ast illis Abodritorum 
+dux nomine Thasco,Comperto tali motu, tulit obvia signa,Consertaque loco 
+pugna, quem Suentana dicunt,Quattuor hostilis prostravit milia coetus,Ac 
+victos fecit nimia cum clade reverti.Cumque regressus Aquisgrani rex esset 
+in aula,Constantinopoli missos suscepit ab urbeLegatos, Augusta suis pro 
+rebus ad ipsumQuos misit Herena, preces ac dona ferentesNam Constantinus 
+fuerat qui natus ab illa,
+-----------------------------[page 0712D]------------------------------
+Cum foret inmensa morum gravis improbitate,A Grecis regni deiectus culmine, 
+magnasNequitiae dederat privatus lumine poenas.Unus erat missus Michael, 
+et presbiter alterTheophilus, quibus est tandem poscentibus actum,Ut magna 
+regis pietate Sisinnius, olimIn bello captus, patriam dimissus abiret.Is 
+germanus erat praefate praesulis urbis,Que caput imperii Grecorum nobile 
+fulget.His quoque dimissis, Hadefonsi regis ab horisHispanis venere viri, 
+qui munera magnoAttulerant Carolo, renovantes foedus avitum,Semper amicitia 
+reges quod iunxerat ipsos;Magna quibus dederat susceptis dona benigne,
+-----------------------------[page 0713A]------------------------------
+Ac patriam tali laetos dimisit honore.Insule invase Baleares esse ferunturHoc 
+anno, quarum Maiorica dicitur una,Altera nomen habet sermone Minorica prisco.Has 
+etenim Mauri devastavere pyrate.At rex praefata tempus celebravit in aula,Quo 
+nasci voluit coeli terraeque creator,Et quo mors mortis fuit infernumque 
+momordit,Reddidit et nobis vitam de morte resurgens.
+Anno 799. Indict. 6.O quam triste nefas mortalia pectora crebroConcipiunt, 
+quam praecipiti summersa profundoNequitiae, dum non leges, non iura verentur,Horrificos 
+nimium caeci labuntur in actus.
+-----------------------------[page 0713B]------------------------------
+Testis hic est annus, quo res indigna relatuCrimine Romuleam saevo maculaverat 
+urbem.Nam sacer antistes, mundo venerabilis omni,Civibus a propriis poenas 
+Leo sumpsit atroces.Credidimus tormenta quidem cessasse piorum,Iamdudum 
+saevis tortoribus igne gehenneDamnatis, quos imperii dum sceptra tenentesFecerat 
+elatos inmensa potentia secli.Martyribus cesis implerunt sanguine RomamNunc 
+in pace novi sceleratis ausibus ortiCarnifices ibidem, longe licet inferioresIure 
+potestatis, simili sed mente feroces.Temporibus tantum scelus admisere 
+modernis,Indicto cum iustitio, se publica votaCum precibus solvens plebs 
+castigare fidelis
+-----------------------------[page 0713C]------------------------------
+Deberet, pariterque suos purgare reatus.Tum celebrare volens Christi mysteria 
+cunctisPro sibi commissis, sollempni more sacerdosVectus equo, Lateranensi 
+processit ab aula,Ad tua Laurenti pergens sacra limina martyr,Qua decus 
+ecclesiae lectus modo ferreus auget,Virtutis monimenta tuae clarissima 
+praebens,Quod superimpositus prunis contempseris ignes,Corporis ardescens 
+Christi magis intus amore.Sed neque tale tuum meritum sedare furoresHostiles 
+potuit, quin ad tua dum properaretAntistes summus suffragia sancta petenda,Insidias 
+illi simul et tormenta pararent.Cum celeraret iter, turba vallatus iniqua,Crudelesque 
+manus tolerans, amiserat ipsum
+-----------------------------[page 0713D]------------------------------
+Effossis oculis lumen, linguam quoque tortorPraecidit, nudumque dehinc 
+liquere iacentemSeminecemque foris, foedatum sanguine multo,Inque monasterium 
+posthaec deductus HerasmiMartyris--auctores facti sic nempe iubebant--Curandi 
+specie fuerat servatus in ipso.Donec cognoscens Wingisus res ita gestas,Dux 
+Spoletanus, Romam festinus adivit,Nocteque sublato per murum praesule sacro,In 
+sua cum iustis deduxit honoribus ipsum.Qui miserante Deo transacto tempore 
+pauco,
+-----------------------------[page 0714A]------------------------------
+Amissum recipit visum pariterque loquelam:Seu quia festinans tortor trepidansque 
+nefandis,Dum concurrentes metuit non talia turbasPassuras, sed velle suum 
+defendere papam,Non quantum voluit crudelia facta peregit:Seu, quod credendum 
+magis est, antiqua redemptorPer meritum magni renovans miracula Petri,Sanari 
+successorem donaverat eius.Haec Winigisus ut ad Caroli dux detulit aures,Admonitus 
+probitate viri summeque colendoOrdine sedis apostolicae, rex iussit, ut 
+ad seGlorifico presul deductus honore veniret.Egit iter tamen ipse suum, 
+decrevit ut ante,Saxonum terras adiens, ibidemque locatis
+-----------------------------[page 0714B]------------------------------
+Ad Padarbrunnon multo cum milite castris,Opperiebatur non parvo tempore 
+summiPraesulis adventum. Carolus quoque, regia proles,A patre missus ad 
+eiusdem confinia gentis,Perrexit lato qua profluit Albia cursu,Disponenda 
+forent dum forte negotia quaedamCum Wiltis et Abodritis, ac suscipiendiSaxones 
+aliqui, qui se de partibus illisIam delegerunt fidei committere regis.Haec 
+satis egregie peragens dum cuncta, moratusIunior esset in his Carolus, 
+spectatque reversumDum videat natum patrio rex magnus amore,Venit apostolicus, 
+terrarum poene supremasIam penetrans horas. Illi via tanta peractaVisa 
+brevis fuerat, quia compensaverat omnes
+-----------------------------[page 0714C]------------------------------
+Intuitu Caroli quos pertulit ante labores,A quo cunctorum solamina digna 
+malorumDanda sibi merito spe certa credidit olim.Namque propinquantem cum 
+primum noverat, illiObvius ipse loco de castrorum memoratoStipatus multis 
+populorum milibus ibat.Pontificemque vicem Petri, cui claudere coelosEt 
+reserare licet verbo, sedemque tenentemSuscepit cum magnifico reverenter 
+honore.Cumque dies aliquot laetos ibi duceret, idemInsinuans praesul sua 
+quaeque negotia regi,Illius facilem cognovit ad omnia mentemConcedenda, 
+pie voluit quaecumque praecariInde reducendum digne primoribus illumFrancorum 
+commendavit, qui iussa replentes
+-----------------------------[page 0714D]------------------------------
+Ingressi pariter Romam sua restitueruntOmnia pontifici rursum, quo iura 
+regendaeSedis apostolicae iustosque teneret honores.Et post discessum papae 
+rex duxit eodemTempora pauca loco, subito cum tristis ad illumNuncius interitum 
+procerum mortemque duorumDetulit, insignes fecit quos maxima virtus.Unus 
+erat Baioariae comes, isque vocatusGeroldus, qui cum populum defendere 
+ChristiConatus, bello saevis obsisteret Hunis,Finivit vitam fragilem, sumpsitque 
+perennem.
+-----------------------------[page 0715A]------------------------------
+Italici vero fuerat dux limitis alter,Nomen habens Erichus, qui post bene 
+plurima gestaPraelia, post crebro sumptos ex hoste triumphos,Oppugnare 
+Liburnorum contenderat urbemTharsaticam, civesque loci quem robore semperInvictum 
+novere, dolis ac fraude necarunt.At Carolus, quantum tempus permiserat 
+illud,Saxonum rebus certo moderamine cunctisDispositis, in Aquisgrani se 
+contulit aulam.Ad quem Wido comes, cui Brettonum regionesCommissae fuerant, 
+gentis quam sepe rebellisDetulit arma ducum, proprio quae nomine quisqueInscripto 
+dederat: signum fore deditionisHoc statuere suae, Francis servire coacti.Nam 
+sociis comes ille suis cum pluribus ipsam
+-----------------------------[page 0715B]------------------------------
+Hoc anno penitus terram lustraverat omnem,Corda domans belli terrore ferocia 
+grandi.Et iam perpetuo Brettones iure subactiParerent Francis, si non promissa 
+fidemquePerfida fallacis mutassent pectora plebis.Tunc quoque Sarracenus, 
+Azan cognomine dictus,Direxit Carolo claves cui praefuit urbisOscae--sic 
+illam vocitavit barbara lingua--Magnaque dona simul mittens, hanc tradere 
+sesePromisit, si tempus ad hoc contingeret aptum.Tunc Hierosolima monachus 
+directus ab urbe,Inmenso nimium spacio terraeque marisqueTranscurso, regi 
+munus preciosius omniAuro detulerat, mittente pio patriarchaPignera sancta 
+loci, Christus quo carne sepultus
+-----------------------------[page 0715C]------------------------------
+Morte resurrexit victa, quo gaudia mundoAngelus haec caeli missus narravit 
+ab arce.Rex quoque natalem Domini celebravit in aulaIam dicta, monachumque 
+dehinc remeare volentemAbsolvit, comitemque simul coniunxerat illiZachariam, 
+regalis erat qui presbyter aulae.Per quem magna locis misit donaria sanctis,Atque 
+viris inopem vitam ducentibus illic,Et mala perpessis mundi sub nomine 
+Christi.
+Anno 800. Indict. 7.Martia cum medios explessent tempora cursus,Phebus 
+et initium mundi totius et anniArietis aetherii gradiens in signa tonaret,Florigerum 
+rediit hiemis ver aspera pellens,Frondibus exornans silvas, et prata virenti
+-----------------------------[page 0715D]------------------------------
+Gramine, dans avibus voces, augmenta diebus,Tum decus egregium mundi, lux 
+clara moderniTemporis, ex aula Carolus progressus Aquensi,Oceani litus, 
+nomen cui Gallicus extat,Lustrabat, classemque mari perfecit in ipso,Infestum 
+quod Northmanni fecere pyrate.
+-----------------------------[page 0716A]------------------------------
+Iam tunc Francorum nimium gens noxia regno.Inque monasterio, sancti quo 
+membra quiescuntRicharii, celebravit ovans sollempnia paschae.Tramite tum 
+cepto properans pervenit ad urbemTuronicam, Martine tuam sanctissime tumbam,Qui 
+confessor apostolica virtute choruscusEffulges, adiit quaerens suffragia 
+supplex.Coniugis hic illum tristis valitudo morariCompulit: extremas ibi 
+vitae clauserat horas,Moribus et vitae merito laudabilis omni,Cui nomen 
+Liudgardis erat. Tum funere digneIllic curato, tumulique decore peracto,Ipse 
+Mogontiacum rediit, primisque suorumUndique collectis, ibi conventum generalemFecerat 
+Augusti circa primordia mensis.
+-----------------------------[page 0716B]------------------------------
+Tunc et in Italiam multis iter aggrediendumCondixit populis, illuc quos 
+pergere secumDecrevit, quod distulerat non tempore longo;Agmine delecto 
+sed eô comitante profectus,Moenia famosae petiit praeclara Ravennae.Cumque 
+dies esset septem non amplius illic,Pippinum regem gentis cum milite multoIn 
+Beneventanae direxerat oppida terrae,Ipseque Romanas ibat devotus ad arces.Obvius 
+huic ad Nomentum Leo papa sacratusVenerat, et gaudens multum veneransque 
+recepit,Quem defensorem solum sibi senserat olim.Dulcibus alloquiis ibi 
+tunc epulisque peractis,Antistes summus regem praecessit ad urbem.Postera 
+cumque dies celebris, festivaque praebens
+-----------------------------[page 0716C]------------------------------
+Gaudia Romanis, qua suscipiendus ab illisRex tantus fuerat, solis fulgesceret 
+ortu,Pontifices clerumque suum collegerat omnemPapa. Quibus secum sumptis, 
+ad limina magnaeBasilice Petri qui summus apostolus extatVenit, et in gradibus 
+templi stipante sacratoConstitit ipse choro: Carolum sic advenientemSuscepit, 
+laudum modulamina dulcia cantans,Atque Deo grates ex toto corde rependens,Quod 
+moderatorem defensoremque dedissetEcclesiae talem, cui non ea noverat aetasMortalem 
+similem, vel sic virtute valentem,Omne bonum vel devota sic mente volentem.Tantus 
+honor, talis Francorum gloria regemMagnaque Romanae comitantur gaudia plebis,
+-----------------------------[page 0716D]------------------------------
+Aecclesiam Petri puro cum pectore magniIntraret, fusis lacrimis humilique 
+precatuImplorans tanti suffragia sancta patroni.Iam quoque solstitii glacialis 
+tempore crescensAsperitas brumae tandem cogebat, ut illicMilitibus hiberna 
+quies optata daretur.
+
+
+
+          INCIPIT LIBELLUS IIII ANNALIUM DE GESTIS CAROLI MAGNI IMPERATORIS.
+
+
+-----------------------------[page 0715]-------------------------------
+
+
+-----------------------------[page 0715D]------------------------------
+Festa dies caelis, eadem celeberrima terris,
+Virginei partus Christique refulserat ortus,
+
+-----------------------------[page 0716D]------------------------------
+Post octingentos ex quo processerat annos,
+Tectus servilis Dominus velamine formae. 
+
+-----------------------------[page 0717A]------------------------------
+Et iam natalis tanti cumulaverat omnem
+Laeticiam Roma Caroli praesentia regis. 
+Hic, cum missarum sacro sollempnia ritu
+Incipienda forent, magnam processit in aulam,
+Quae corpus mundo venerandum continet omni
+Petri, cui claves Christus dedit ipse polorum;
+Eius et ante sacros artus cum mente fideli,
+Effusis precibus, sese rex inde levaret,
+Ipsius imposuit capiti Leo papa coronam. 
+Conclamat pariter populus, sacra personat aedes
+Ingenti iubilo, vox fertur ad aethera plebis,
+Romanae sic concordi simul ore canentis:
+Augusto Carolo magno, pacemque ferenti,
+Imperii merito Romani sceptra tenenti,
+Gloria, prosperitas, regnum, pax, vita, triumphus! 
+Post laudes igitur dictas, et summus eundem
+
+-----------------------------[page 0717B]------------------------------
+Praesul adoravit, sicut mos debitus olim
+Principibus fuit antiquis, ac nomine dempto
+Patricii, quo dictus erat prius, inde vocari
+Augustus meruit pius, imperii quoque princeps. 
+Tempore paucorum post haec abeunte dierum,
+Ipse suum Carolus praeceperat ante tribunal
+Duci, iudiciumque viros legale subire,
+Per quos praeterito fuerat tot cladibus anno
+Affectus sacer antistes, legemque secundum
+Romanam maiestatis cogente reatu,
+Dampnavit poena merito cunctos capitali. 
+Sed licet indignis, interveniente benigno
+Praesule, concessit vitam, tamen esset inultum
+Ne tantum scelus, exilio relegaverat omnes. 
+
+-----------------------------[page 0717C]------------------------------
+Festaque transegit postquam paschalia Rome,
+Egressus Spoletanam perrexit in urbem. 
+Augustus vero quo tempore manserat illic,
+Aprilis horam cum nox extrema secundam
+Obscuram nimium tenebris involveret atris,
+Ingenti subito tellus exterrita motu
+Contremuit, sonitusque graves nimis et metuendos
+Ediderat, stabilem cui sustulit ira quietem
+Caelestis, grandi sub mole latentia mundi
+Intima concutiens impulsu viscera diro. 
+Cumque procellosus penetrasset turbo cavernas
+Occultas, ac venarum loca tecta sub alto
+Terrarum gremio, nec, qua prorumperet inde
+Vis venti, patulos usquam reperiret hiatus,
+Quassatis fluctus quosdam generavit in arvis. 
+
+-----------------------------[page 0717D]------------------------------
+Tamque domi maior quam gurgite terror in ullo
+Naufragii fuerat, tremulo sua culmine quisque
+Dum fugeret subitam minitantia tecta ruinam. 
+Moenia cuncta simul tetro sonuere tumultu,
+Pendula crispanti stridunt ut lintea flatu,
+
+-----------------------------[page 0718A]------------------------------
+Aut dum quae tenui squalebant pulvere vela,
+Exagitant famuli certatim discutientes. 
+Haud aliter muros omnes tremuisse videres. 
+Hic tamen Italiam terror specialiter omnem
+Perculerat, cuius plures subverterat urbes,
+Avulsosque ruit montes radicibus imis. 
+Tum Romae cecidere trabes venerabilis aedis,
+Pigneribus propriis quam Paulus apostolus ornat. 
+Gallia nec tantae fuit aut Germania cladis
+Immunis, circa Rhenum loca denique motu
+Plurima terrifico nimium concussa fuerunt. 
+Audiri quoque mugitus e montibus altis,
+Et tetri sonitus reddi variique boatus,
+Morborumque lues fieri permaxima coepit. 
+At Spoletanis Carolus regressus ab oris,
+Ad Ticinum rediit, cui nunc est Papia nomen
+
+-----------------------------[page 0718B]------------------------------
+Italie linquens fines Augustus, Aquensem
+Expetiit sedem, mansitque quietus hoc anno,
+Perque sui partes regni direxerat omnes
+Legatos, aequo legum moderamine mandans
+Iusticias facere et varias componere lites,
+Reddere ius civile bonis, terrere malignos:
+Divinas mundique pias ex ordine leges
+Tunc exerceri mandaverat et renovari. 
+Anno 802. Indict. 9.Hoc de longinquis elephans regionibus annoPrimitus 
+adductus, mira spectacula regnoFrancorum; dederat Persarum denique princepsHunc 
+Aaron: idem, fuerat cui subditus IndisExceptis oriens totus, curaverat 
+ultroEius amicitiae se foedere iungere firmo,
+-----------------------------[page 0718C]------------------------------
+Ac dignum duxit pre cunctis regibus ipsumTemporis illius solum, cui munera 
+largaPraecipui causa transmittere vellet honoris.Nam gemmas, aurum, vestes 
+et aromata crebro,Ac reliquas orientis opes direxerat illi,Ascribique locum 
+sanctum HierosolimorumConcessit propriae Caroli semper dicioni.
+Anno 803. Indict. 10.Nobilis hic annus longi certamina belliTandem Saxones 
+inter Francosque peractiFirmo perpetuae conclusit foedere pacis.Augustus 
+pius ad sedem Salz nomine dictamVenerat: huc omni Saxonum nobilitateCollecta, 
+simul has pacis leges inierunt,
+-----------------------------[page 0718D]------------------------------
+Ut toto penitus cultu rituque relictoGentili, quem daemonica prius arte 
+colebantDecepti, post haec fidei se subdere vellentCatholicae, Christoque 
+Deo servire per aevum.At vero censum Francorum regibus ullum
+-----------------------------[page 0719A]------------------------------
+Solvere nec penitus deberent atque tributum,Cunctorum pariter statuit sententia 
+concors,Sed tantum decimas divina lege statutasOfferrent, ac presulibus 
+parere studerent,Ipsorumque simul clero, qui dogmata sacra,Quique fidem 
+Domino placitam vitamque doceret.Tum sub iudicibus, quos rex inponerat 
+ipsis,Legatisque suis, permissi legibus utiSaxones patriis et libertatis 
+honore.Hoc sunt postremo sociati foedere Francis,Ut gens et populus fieret 
+concorditer unus,Ac semper regi parens aequaliter uni.Si tamen hoc dubium 
+cuiquam fortasse videtur,De vita scriptum Caroli legat ipse libellum,Quem 
+Francos inter clarus veraxque relator
+-----------------------------[page 0719B]------------------------------
+Ac summe prudens, Einhardus nomine, scripsit.Hac igitur pacis sub conditione 
+fidelesSe Carolo, natisque suis, stirpique nepotumIpsius, iuraverunt per 
+saecla futuros.Quos per ter denos et tres tam duriter annosLinquere protracti 
+penitus conamina belliPlus regis pietas et munificentia fecit,Quam terror. 
+Nam se quisquis commiserat eiusEgregiae fidei, ritus spernendo profanos,Hunc 
+opibus ditans ornabat honoribus amplis.Copia pauperibus Saxonibus agnita 
+primumTunc fuerat rerum, quas Gallia fert opulenta,Praedia praestiterat 
+cum rex cumpluribus illic,Ex quibus acciperent preciosae tegmina vestis,
+-----------------------------[page 0719C]------------------------------
+Argenti cumolos, dulcisque fluenta Liei.His ubi primores donis illexerat, 
+omnesSubiectos sibimet reliquos obtriverat armis,Et multis experta modis 
+innotuit eiusTam dulcis pietas quam formidabilis ira,Praefatum statuere 
+fide servare perenniFoedus, et ulterius non id mutasse probantur.
+Anno 804. Indict. 11.Praesul apostolicus Roma perrexit ab urbe,Augusti 
+Leo flagranti deductus amore,Aecclesiae quoque pro causis, quibus imperialiEsse 
+videbat opus munimine, rursus adireFrancorum terras satagens per longa 
+viarum.Hic ubi terribiles primum transcenderat Alpes,Adventasse virum tantum 
+rumore volucri
+-----------------------------[page 0719D]------------------------------
+Indice compererat statim prope Gallia tota,Protinus hoc etiam laetus cognovit, 
+et illiObvius Augustus Remensem venit ad urbem,Susceptumque satis digno 
+veneratus honoreDuxerat ad sedem, cui nomen Carisiacus.Natalis Domini festis 
+ibi rite peractis,Sedis Aquensis abhinc petierunt moenia pulchrae,Glorificeque 
+simul celebrato tempore sancto,Quo stella monstrante Magi cognoscere veriIn 
+terris nati meruerunt luminis ortum,Colloquioque dehinc, pro quo praesul 
+venerandusVenerat, expleto, rex inclitus obtulit illi
+-----------------------------[page 0720A]------------------------------
+Munera, digna simul danti seu suscipienti,Hic cum pontificum clarissimus, 
+illeque regumTemporis illius, nullo dubitante fuissent.His gestis, propriam 
+praesul remeavit ad urbem,Seque viri seiunxerunt ibi corpore solo,Mentis 
+amore pio iuncti sine fine manentes.
+Anno 805. Indict. 12.Natio Sclavorum studio satis aspera belli,Quos Behemos 
+vocitant, in se levitate procaciIrritans Francos, Caroli commoverat iram.Quos 
+contra missus multis cum milibus eiusNatus et aequivocus, bellum virtute 
+sagaciCommisit, celeri victor quod fine peregit.
+Anno 806. Indict. 13.
+-----------------------------[page 0720B]------------------------------
+Cum pius Augustus Domini munimine fultus,Legitimo cunctos tanti moderamine 
+finesImperii servans, placidam daret undique pacem,Sollerti meditabatur 
+depellere causasMente simultatum, populo quas posse fideliTempore discidium 
+vidit generare futuro.Unde suos inter natos ne gignere possetPost aliquam 
+litem patrii divisio regni,Certas ipse dedit partes ut cuique volebat.Italico 
+regi Baioariam simul omnemPippino addiderat; nec non Burgundia, quantumParte 
+sub extrema celsas interiacet Alpes,Cum paucis Alamannorum quoque finibus 
+illiTraditur. At Carolo reliquos donans Alamannos,Saxones ac Fresones subiecit 
+eidem,
+-----------------------------[page 0720C]------------------------------
+Cui simul ex magna fertur data Gallia parte,Oceani donec vastis concluditur 
+undis.Hunc in Francorum sibimet succedere regnumDisposuit, si non aliter 
+Domino placuisset.Subicitur vero sceptris Burgundia paeneTota pii regis 
+Hludowici, iure tenentisPost haec imperium, nec non Aquitania cuncta,Quae 
+commissa prius fuerat, nunc traditur illiIn regnum proprium, stabili dicione 
+regendum.Hinc omnes obtestatus, multumque precatus,Admonuit servare fidem, 
+nec spernere pacem,Ne proprio quisquam transgresso limite, causasRixarum 
+bellique daret, fusique cruorisChristicolae plebis merito reus esset in 
+aevum,Sed facerent inter sese, quo firma maneret
+-----------------------------[page 0720D]------------------------------
+Debita fraternas socians concordia mentes.Ipse dehinc princeps in sede 
+manebat Aquensi,Nec post militiae solitos exercuit usus,Aut aliquos ivit 
+bellum gesturus in hostes.Nam nec opus fuerat, nec eum permiserat aetas,Iam 
+quibus exsaciatus erat, renovare labores,Cui gravis inrepens, et per momenta 
+senectusSingula succrescens, faceret decrescere vires.
+Anno 807. Indict. 14.Rex Sarracenae gentis nimium truculentae,Atque gravis 
+late mundo terraque marique,
+-----------------------------[page 0721A]------------------------------
+Muneribus tamen Augustum veneratur opimis,Transmittens etiam quoddam mirabile 
+donumDenique tunc, inter tentoria qualibet arteFacta dedit maius cunctis 
+et pulcrius unum.Fama solet veterum quicquam si dicere verum,Mirandum, 
+collecta forent ubi carbasa tanta,Aut quibus orta seges lini tam fertilis 
+agris,Materies operi quae posset idonea tantoAffore: non hominum tantam 
+nisi milia molemErigerent. Spacium campi concluserat amplumTextilis excelsis 
+paries herendo columnis,Nec summi culmen tecti superare volatuViribus impulsae 
+magnis potuere sagittae.Intus erant multi generis habitacula pulchra,Quilibet 
+egrediens ut non haec esse putaret
+-----------------------------[page 0721B]------------------------------
+Vela movenda loco, sed moenia nobilis aulae.Interea Northmannorum dux, 
+Alfdeni dictus,Augusto magna sese comitante catervaSubdidit, atque fidem 
+studuit firmare perennem.
+Anno 808. Indict. 15.Sunt Sclavi quidam Lini cognomine dicti;Hos contra, 
+genitore suo mittente, profectusIunior est Carolus, cuius non Albia lataPraepediebat 
+iter, sed Francorum legiones,Fluminis eiusdem traiecto gurgite, laetisAuspiciis 
+usus, memoratos duxit in hostes,Signaque gaudenti retulit victricia patri.
+Anno 809. Indict. 1.Undique praesentis pax laetificaverat anni
+-----------------------------[page 0721C]------------------------------
+Cunctos imperii fines, sed tristia quaedamMultis contigerant terris: nam 
+sevior omniHoste nefanda lues pecudum genus omne peremit.Nam cum pastores 
+agerent armenta gregesqueMane foras laetos in prata virentia, seroAegra 
+domum rediit vix pars paucissima, diraeSigna gerens pestis macie mortisque 
+propinquae.At maior numerus campi per plana iacebat,Qua dulces animas virides 
+efflavit ad herbas.Iamque cadaveribus foetebant pascua stratis,Extractis 
+etiam, praesepia quaeque laborePurgari multo poterant, tum qui moriturumCernentes 
+animal magis id prosternere ferroEligerent, statim stillans e vulnere tabo
+-----------------------------[page 0721D]------------------------------
+Prodiderat toto concretum corpore virus.Noricus ista sinus fertur specialiter 
+essePerpessus cum vicinis regionibus illi.Praeterea steriles hoc factae 
+tempore vites,Impenso sibimet nulla mercede laboriRespondent, spes est 
+avidi frustrata coloni,Dum vineta carere suo pubentia foetuConspicit, et 
+vane silvescit inutilis arbor,Palmite diffuso nullas dum pampinus uvasContegit, 
+et fructu vacua stat vinea lata.Partibus in multis regni sic omine tristiBachica 
+non solito perierunt pocula damno.Tempore nimirum tanto licet ante, per 
+orbem,Augusto, luctum, terris abeunte, futurumIam ostendebat casus tristissimus 
+iste.
+
+-----------------------------[page 0722A]------------------------------
+Anno 810. Indict. 2.Pippinus rex Italiae, lux inclita quondamFrancorum, 
+nitido laetum cum duceret aevum,Flore vigens simul aetatis mentisque decore,Cui 
+praeclara fuit virtus, cui gloria summa,Omnia fallacis pariter cui prospera 
+mundiTunc aderant, morbo vitam finivit acerbo.Immaturus huic obitus iocundaque 
+vitaExtitit, unde suo nimium de funere patriOmnibus et Francis gemitum 
+luctumque reliquit.
+Anno 811. Indict. 3.Rursus ut omnipotens caros sibi sepe flagellisErudit, 
+aeternae det ut illis gaudia vitae,Augusto vis iudicii veneranda superniOmnem 
+praeteriti luctum geminaverat anni,
+-----------------------------[page 0722B]------------------------------
+Ipsius assumens alium de corpore natum,Mortalisque iubens vitae finire 
+tumultus.Hic patris equivocus fuerat, nec nomine solo,Indole sed mentis 
+clara probitateque morum,Omnimodaque patrem virtutum dote referret,Si rectore 
+frui meruisset Francia tali.Hoc quoque Bernhardo regnum concesserat annoItalicum 
+pius Augustus; nam filius idemPippini merito patri successerat heres.
+Anno 812. Indict. 4.Maxima longinquis terrarum venit ab horisGrecorum de 
+principibus legatio missa.A quibus Augustus pacem donare rogatus,Iure piis 
+precibus, multum quas novit utriqueProficuas regno, consenserat ilico clemens,
+-----------------------------[page 0722C]------------------------------
+Foedus et inter se fidei pacisque tenendaeIurando partes firmarunt protinus 
+ambae.
+Anno 813. Indict. 5.Iam gravis Augusto morbus simul atque senectusCorpore 
+sustulerant solitum marcente vigorem;Curarumque, quibus res publica tanta 
+regendaAc servanda fuit, non se sufferre valereImmodicum pondus, placidae 
+sed sola quietisOtia, supremo labentis tempore vitaeVidit amanda sibi, 
+quo procurare migrantiHinc animae requiem propriae veniamque studeret.Unde 
+duces ac primores sollempniter omnesAtque magistratus ad concilium generaleUndique 
+collegit, natoque suo HludowicoCunctorum cum consilio ius omne regendi
+-----------------------------[page 0722D]------------------------------
+Tradidit imperii, successoremque paterniImposito designavit diademate regni,Consortemque 
+sui factum totius honorisAugustum pariter vocitari iusserat ipsum.Quod 
+cum magnifico satis accepere favoreConsilium cuncti, cum prorsus id utile 
+regnoMultimodis intellegerent. Hinc aucta refulsitMaiestas Caroli, concordia 
+facta futurisHinc est temporibus, cum tot caput extitit unum,Unanimi populis 
+monstratum mente sequendum.Hinc metus externis incussus gentibus ingens.Nil 
+sperare dedit Caroli de morte propinqua.Quo minui posset status et rectissimus 
+ordoRegni Francorum, cuius non ante reliquid
+-----------------------------[page 0723A]------------------------------
+Tam clarus princeps regimen, quam sumpsit id alter,Quem merito patri similem 
+virtute putarent,A quo non dubium, quin armis regna subactaCuncta simul 
+miti regeret moderante sophia.Ut quondam magnus pariter rex atque propheta,Qui 
+lyrico modulante melo caelestia doctusCarmina divino completus pangere 
+flatu,Nunc cytharis David digitos fidibusque canoris,Nunc capulis aptare 
+manus armisque solebat,Innumeras postquam gentes hostesque triumphisSubdiderat 
+propriis, meritis maturus et annis,Se vivente, suus iussit quo filius omniHaebrei 
+Salomon regni frueretur honore.Sic Carolus noster solitus tractare vicissim
+-----------------------------[page 0723B]------------------------------
+Proelia, daemonicos etiam subvertere cultus,Catholicam firmare fidem, damnareque 
+sectasPerversas, ut doctrinae coelestis ubiqueCordae concordes in Christi 
+laude sonarent,Magnifice bellis regnum nimis amplificatumPrudenti nato 
+pacemque reliquit amanti,Quique labore patris bona conquisita quietusSumeret, 
+exercens divini dogmata cultus.Haec ita dum fierent, passim permixta videresGaudia 
+tristitiae. Nam res ex ordine gestaEt ratione pia, multis cum iure placeret,Amplius 
+angebant cunctos tamen intus amariMestitiae stimuli, quod carni debitus 
+omniEx oculis carum Carolum rapturus adessetTerminus. Id valetudo simul 
+cogebat et aetas.
+-----------------------------[page 0723C]------------------------------
+Utque solet fieri, quotiens ammittitur ullaRes bona, tunc melius cogit 
+dolor ipse videri,Ipsius utilitas qualis preciumque fuisset:
+-----------------------------[page 0724A]------------------------------
+Sic morum probitas, animi sic maxima virtus,Sic pietas Caroli cunctorum 
+mentibus herens,Tunc perspecta magis fuerat, cum principe taliSese cernebant 
+carituros esse per aevum.Multorumque graves sapientum pectora curaeMordebant, 
+in deterius iam iamque timentumLapsuras res Francorum, multas quoque cladesPost 
+obitum tanti venturas principis esse.Ut sub fine cadit cum longior umbra 
+diei,Et sol oceani properans se tinguere fluctuPergit in cubitum, tegit 
+et ferrugine vultumLucigenum, mixto maculis pallore nigellis,Signa procellose 
+dat noctis abinde sequentis,Quamvis succedens, dum tramite fertur eodem,Orbe 
+valet pleno sublustrem reddere luna.
+-----------------------------[page 0724B]------------------------------
+Haud aliter tum prudentes sensere futurasBellorum tempestates, meritoque 
+gemendasRegni Francorum Carolo moriente ruinas.Solvitur interea populi 
+conventus, et indeQui fuerant proceres redituri tramite longoAd sedes proprias, 
+sibimet iam conicientes,Cari conspectum domini hunc esse supremum,Interni 
+gemitus dederant animique dolentisPallenti signum facie meroreque pressa.Composito 
+plures vultu, dum fingere laetosSe cupiunt, quo suspectum reperiret in 
+illisNil novus augustus, tamen et ridere volentumOra madent lacrimis falsa 
+inter gaudia veris.Non aulam tunc more suo complebat AquensemLaeticiae 
+sonus, auditur vox musica nusquam,
+-----------------------------[page 0724C]------------------------------
+Alloquitur socium vix saltem murmure tristiQuisque suum, prodens tacitus 
+quid pectore gestet,Cum dolor imponit gemebunda silentia multis.
+        
+
+
+          ANNALIUM DE GESTIS CAROLI MAGNI LIBER QUARTUS EXPLICIT; INCIPIT 
+QUINTUS DE VITA ET OBITU EJUSDEM.
+
+
+-----------------------------[page 0723]-------------------------------
+
+
+-----------------------------[page 0723C]------------------------------
+Pangite iam lacerae carmen lugubre Camene,
+Dignus enim multis annus hic est lacrimis. 
+Ecce quater denis ternisque prioribus annis,
+
+-----------------------------[page 0723D]------------------------------
+Quid nisi prosperitas dicta fuit Caroli? 
+Annua cum variis ipsius gesta triumphis
+Tum placuit laeto connumerare stilo. 
+At modo lugentes obitum nos admonet ordo
+Et tempus tanti commemorare viri. 
+Hic veri plangunt elegi, nil fingere mestum
+Est opus, affectus res habet ipsa suos. 
+Quis recolens, qualis fuerit, modo defore terris
+Tale decus nimium non gemat et doleat? 
+Sed quia res consolatur haec sola fideles,
+Caros forte suos mors quibus abstulerit,
+Pro iustis ut eos feliciter actibus esse
+Confidant regni participes superi:
+Idcirco meritum, pro quo modo credimus illum
+
+-----------------------------[page 0724C]------------------------------
+Vivere cum Christo, iure libet canere. 
+Materiem tantam nimis audax barbara lingua
+Ingenii tenuis viribus aggreditur;
+
+-----------------------------[page 0724D]------------------------------
+Sed me magnus amor, praesentis carminis auctor. 
+Ignarum fandi non reticere sinit. 
+Denique sum Carolo semper flagrantis amoris,
+Sum quoque perpetui debitor obsequii;
+Is gentem nostram fidei cognoscere lucem
+Fecerat, abiectis perfidiae tenebris. 
+Quam bellando diu, quam multa pericula passus,
+Quam sudore gravi, quam studio vigili? 
+Poene recordantur populi hoc hactenus omnes
+Europae, tanti participes operis. 
+Nempe sui vires regni collegerat omnes,
+Ut nos demonicis cultibus abstraheret. 
+Denique barbariem quisnam mollire ferocem
+Posset adhortantis dogmatis alloquio? 
+
+-----------------------------[page 0725A]------------------------------
+Ob hoc per Carolum clemens Deus est operatus,
+Id quod tunc aliter non potuit fieri. 
+Usus enim gemina, Saxonum saxea corda,
+Arte, suadebat subdere se Domino,
+Nunc terrens bello, nunc donis alliciendo,
+Illic magnanimus, hic quoque munificus. 
+Nec prius abstiterat, Saxonia quam simul omnis
+Idola proiciens facta fidelis erat. 
+Quas igitur grates illi modo possumus omnes,
+Vel quas quisque suo solvere pro modulo? 
+Si qua meam scripturarum scintillula mentem
+Artis, et illustrat si qua scientiola,
+Nonne dabit iuste Carolo praeconia laudum
+Per quem nancisci tale bonum merui? 
+Nostri non solum fidei documenta parentes,
+
+-----------------------------[page 0725B]------------------------------
+Sed penitus cunctos nescierant apices;
+Per Carolum nuper nobis est huius honestas,
+Ac pariter vitae spes data perpetuae. 
+Ergo tibi primum dignas nos dicere laudes
+Da Deus, omnimodi fons et origo boni;
+Muneris inde tui quamcumque retexere partem
+Nos in eo, nostri dux animi, tribue,
+Quem pie Christe tuo multorum more saluti
+Prospiciens, talem praestiteras fieri. 
+Nam nostrae miserans naturae conditionem,
+Serpentis postquam fraus vitiavit eam,
+Contuleras hominum generi solacia crebra
+Per claros homines atque tibi placitos,
+Efficiens fortes, per quos fragiles regerentur
+
+-----------------------------[page 0725C]------------------------------
+Doctos, qui reliquos instruerent stolidos. 
+Ut lux illorum tenebras depelleret horum,
+Errantes revocans, restituensque viae,
+Stantes ut erigerent lapsos, miserisque piorum
+Virtus exemplo esset et auxilio. 
+Et tales semper dederas ab origine mundi,
+Apti salvandis qui fuerant aliis. 
+Inprimis patriarcharum sacer ordo, deinde
+Legifer, et vatum missus ad hoc chorus est. 
+Nec non in variis imitabile gentibus olim
+Exemplar iusti, te quoque teste, dabant. 
+Sed quis per servos servis te consuluisse
+Miretur; donum sit licet eximium? 
+Cum per te mundi dominus plus egeris, immo
+Sis passus minimis maxima pro famulis. 
+
+-----------------------------[page 0725D]------------------------------
+Pro quibus iniustis iustus, pro sontibus insons,
+In mortem propriam tradideras animam. 
+Tanta redemptor erat nostrae tibi cura salutis. 
+Perdita ne fieret prorsus imago tui. 
+Unde tibi laudes modulentur cuncta creata,
+Atque genu flectant inferus, arva, poli. 
+Nam neque dum complevit opus, tua gratia, tantum,
+Cessavit, sine qua deperit omnis homo;
+Sed post haec eadem lucrandis omnibus extat
+Cura per electos gentibus exhibita. 
+Oris apostolici terram sonus ivit in omnem,
+Verba per extremas intonuere plagas,
+
+-----------------------------[page 0726A]------------------------------
+Cui dedit, aetherea caeli demissus ab arce,
+Flammantes linguas Spiritus omnipotens. 
+O quam multorum purgatas sorde reatus
+Mentes ardentes fecit amore tuo! 
+Ordinis ejusdem nec non virtutis honore
+Et studio plures post fuerant similes,
+Qui simul exemplis animas et dogmate sacro
+Multas caelesti reddiderant patriae. 
+Quid memorem, quanti pro te tormenta necemque
+Passi, lucrati hinc alios fuerint? 
+Hos animus constans, illos miracula visa
+Credere haec danti commonuere tibi. 
+Mille modis tua magna, Deus, clementia gentes
+Salvat per sanctos egregiosque viros. 
+Nec reges facis expertes fore muneris huius,
+
+-----------------------------[page 0726B]------------------------------
+Dum per eos animas corrigis atque doces;
+Temporibus Carolus rex, te donante, modernis
+Quam multis summae causa salutis erat? 
+Credendi pulchre moderandis moribus aptus,
+Et mutare pie perfida corda potens. 
+Cuius nunc insigne genus si pandere coner,
+Compellor regum scribere catalogum. 
+Sed non est opus: excelsum quia non genus illi,
+Sed summo generi addidit ipse decus. 
+De claris genitus fulsit praeclarior, atque
+Patribus invictis fortior enituit. 
+Est quoque iam notum, vulgaria carmina magnis
+Laudibus eius avos et proavos celebrant
+Pippinos, Carolos, Hludowicos et Theodricos,
+
+-----------------------------[page 0726C]------------------------------
+Et Carlomannos Hlothariosque canunt. 
+At Tamen hic quanto plus fecerit omnibus illis,
+Dicet praesentis sermo sequens operis. 
+Unum commemorem, tanto de germine parem
+Quem sanctum Christi praedicat aecclesia,
+Scilicet Arnulfum, Francorum qui fuit olim
+Princeps, ac presul post satis egregius. 
+Ductus amore Dei qui spreverat omnia mundi,
+Quae mulcent oculos, queque trahunt animos,
+Malens divinas mundi quam tradere leges,
+Esse Dei famulus quam populi dominus. 
+Nunc ovat in caelis, praebens miracula terris,
+Sublimis meriti signa decora sui,
+Indeque nostrorum totam seriem dominorum,
+Stirpem nempe suam, protegit atque fovet. 
+
+-----------------------------[page 0726D]------------------------------
+Prae cunctis igitur tibi cura nepotibus una,
+Quaesumus, Arnulfus sit tuus omonimus. 
+Fac ut regnanti Christus sit previus auctor,
+Quo nimis ipsius indiget aecclesia;
+Qui modo iustificus rex est, defensor et unus
+Inter tot clades, nunc quibus atteritur. 
+Ex illo nobis igitur tam principe sancto
+Hactenus est dominans inclita progenies,
+In quam descendit sancti benedictio Iacob,
+Quam Iudae pandens ipse futura dedit,
+Ut non deficeret de germine sceptriger eius,
+Sed foret inde manens longa ducum series. 
+Sic electa Deo mansit iam tempore longo
+
+-----------------------------[page 0727A]------------------------------
+Haec stirps in regno, atque diu maneat,
+De qua non quisquam fortem pietateque plenum
+Miretur regem progenitum Carolum. 
+Cuius ut exterior virtus roburque parentes,
+Sic satis ornabat religionis amor,
+Et quo maior eis provenit gloria mundi,
+Mens humilis tanto plus fuit ante Deum. 
+Sed huic naturae quicquid bene praestitit ortus,
+Hoc exercitio auxerat assiduo,
+Intentus semper rebus constanter agendis,
+Et disponendis consilio stabili. 
+Unde nec in bellis quisquam felicior illo,
+Tempore nec pacis plus moderatus erat;
+Et quod suscepit florens et nobile regnum,
+Reddiderat duplo latius et melius. 
+
+-----------------------------[page 0727B]------------------------------
+Sicque suos, licet invictos, vicisse parentes
+Noscitur, hac multo re magis egregius. 
+Nam plures unus terras populosque subegit,
+Quam totus regum vicerit ordo prior. 
+Regnabant inter Rhenum Ligeremque priores,
+Ad boream fuerat terminus oceanus,
+Australemque dabant Balearica litora finem,
+Alpes et tectae perpetuis nivibus,
+Et Francos orientales, nec non Alamannos,
+Ac Baioarios iam tenuere prius;
+Fresones etiam, simul et rexere Thoringos:
+Et regnum Caroli hoc habuere patres. 
+Pippino patre defuncto, cum fratre regebat
+Id Carolomanno, sorte fruente sua. 
+Atque simultates illum rixasque moventem
+
+-----------------------------[page 0727C]------------------------------
+Hic semper multum pertulerat paciens,
+Ut mirum multis fuerit, quod viderit ira
+Commotum causis nemo licet gravibus. 
+Annis sic geminis decesserat ille peractis,
+Et regnum soli iure datur Carolo. 
+Quod primo victis Aquitanis gentibus auxit,
+Wasconumque simul subiciens populum. 
+Et iuga cuncta Pyrenei superavit, Hiberum
+Donec ad fluvium tenderet imperium. 
+Italicasque dehinc regiones subdidit omnes,
+Dicere quas certo quis valeat numero? 
+In longum decies centenis milibus atque
+Amplius, ut fertur, tenditur Italia. 
+Tum, quibus est ex non modica Germania parte
+
+-----------------------------[page 0727D]------------------------------
+Subdita, Saxones addidit imperio. 
+Ex hac in latum duplo plus denique Francis,
+In longum partem pene parem renitent. 
+Pannonias etiam victor subiecit utrasque
+His cum vicinis urbibus innumeris. 
+Arva Liburnorum, vel que vocitantur ab Histro,
+Nec non Dalmatiam subdidit et Daciam. 
+Sclavorum populos censum sibi solvere fecit
+Plures, quam quisquam dinumerare queat. 
+Gesserit ista quibus bellis, signando priores
+Quattuor annales iam retulere libri. 
+Nunc studium, mores, ususque domesticus, eius
+
+-----------------------------[page 0728A]------------------------------
+Corporis et habitus, que fuerint referam. 
+Que quicumque sciet iam non mirabitur, illi
+Cur sic contigerint omnia laeta foris. 
+Nam quod scire decet hominis meminisseque cunctos,
+Hic quoque lectorem commoneam breviter. 
+Audiat hoc omnis rector, vel praemia gestis
+Pro laudabilibus quisquis habere cupit:
+Interius radix operum latet exteriorum,
+Mens moresque viri facta palam generant. 
+Qui solet esse domi constans prudensque decenter,
+Perficit is crebro facta decora foris. 
+Intra se vitiis dominans, rationeque pollens
+Exteriora sibi nulla nocere sinit,
+Fortiter in cunctis facienti seu pacienti
+
+-----------------------------[page 0728B]------------------------------
+Pro meritis animi gloria proveniet;
+At cui mens torpet, mores neque corrigit in se,
+Illum iure manet dedecus exterius
+Sic regnum terret cunctos extrinsecus hostes,
+In se quod pacem iusticiamque tenet;
+At contra si quod scelus et discordia foedat,
+Raptores avidos clade sua faciat. 
+Ergo domi Carolum rationis iura secutum
+Est comitata foris gloria magna satis. 
+Assuescens potuit virtutibus exuperare,
+Ferreque consilio cuncta pericla sua. 
+Et quia iusticia pacatum reddidit intus,
+Externis regnum cladibus eripuit. 
+Artibus ipse quidem cunctis instructus honestis,
+Harum doctores magnifice coluit. 
+
+-----------------------------[page 0728C]------------------------------
+A sene levita quodam cognomine Petro
+Curavit primo discere grammaticam. 
+Artis rethoricae, seu cui dialectica nomen,
+Sumpsit ab Alquini dogmate noticiam. 
+Hic etiam levita gradu multumque peritus,
+Ex Anglis veniens Saxo fuit genere. 
+A quo precipue studuit totam rationem
+Et legem cursus noscere siderei. 
+In causis iudex iustissimus, audiit ipsas
+Sepius, et finem litibus imposuit. 
+In sermone satis dulcis, facundus, abundans,
+Nec patrio tantum claruit eloquio,
+Sed solitus lingua sepe est orare latina,
+Nec graece prorsus nescius extiterat;
+
+-----------------------------[page 0728D]------------------------------
+Intellexit eam melius, quam proprietates
+Illius posset voce sonare sua. 
+Legerat assiduae Scripturae dicta sacrate,
+Quosque libros sancti composuere Patres;
+Quos Augustinus caeli de civibus almis
+Scripsit, amanter eos crebrius audierat. 
+Scribere temptabat: nam circumferre solebat
+Secum cum parvis codicibus tabulas,
+Ac ponens ipsas ad cervicalia lecti
+Regalis, numquam fecit abesse sibi:
+Inter tot curas, tantique negotia regni,
+Rex exercuerat his animum studiis. 
+
+-----------------------------[page 0729A]------------------------------
+Cuius ut ingenium multum resplenduit acre
+Sic omnis motus optima temperies. 
+Non umquam nimium laetus, non valde remissus,
+Non multum tristis atque severus erat;
+Non lenis hominum vitiis, non turbidus ira. 
+Plectebat iusta cum ratione reos. 
+Quod terrore magis fieri quam morte volebat,
+Ni cum dira rei cogeret impietas. 
+O qualis probitas, quam constantissimus ordo
+In cunctis eius moribus enituit! 
+Fortis in adversis rebus, cautusque secundis,
+Perpetuae tenuit sobrietatis iter. 
+Tantum cum natos sibi Pippinum Carolumque
+Mors auferret, ob hoc ipse nimis doluit. 
+Nec non Rhuottrudis, reliquis quae filia natu
+
+-----------------------------[page 0729B]------------------------------
+Maior erat, flevit valde gemens obitum. 
+Hanc et Grecorum luxerunt ditia regna,
+Quod non hac tali digna forent domina. 
+Sponsa fuit Constantini nam, sceptra regentis
+Illius semper nobilis imperii. 
+Inclita Constantinopolis de germine nostri
+Optabat Caroli nobilior fieri. 
+Tantum contigerant haec infortunia regi,
+In his quae genuit pignora clara satis. 
+Tum concertabat constantia cum pietate,
+In Carolo virtus utraque non modica. 
+Haec casus omnes iussit tolerare decenter,
+Illaque dilectae commonuit sobolis;
+Ista magnanimus fulsit virtute, sed illa
+
+-----------------------------[page 0729C]------------------------------
+Non minus ardebat plenus amore pio,
+Quorcica vicit pietas in morte suorum,
+Et regem largas compulit ad lacrimas. 
+Nec non Romani mortem sibi flevit amici
+Pontificis, nomen huic Adrianus erat. 
+Nam velut in reliquis rebus, sic optimus eius
+Laudatur merito mos in amicitiis;
+Admittebat eas caute, sed firmiter immo
+Ex se servavit foedere perpetuo. 
+Unde decus regni factis et nomen amicis
+Auxerat externis regibus et populis. 
+Ex quibus unus erat Hadefonsus nomine dictus,
+Qui rex Asturiae Galliciaeque fuit,
+Qui dum legatos et munera mitteret illi,
+Mandabat dici se proprium Caroli. 
+
+-----------------------------[page 0729D]------------------------------
+Scottorum reges ipsum dominum vocitabant,
+Ac se subiectos ipsius et famulos
+Hoc apices ab eis missi testantur ad illum,
+Quorum claret amor maximus alloquio. 
+Persarum princeps illi devinctus amore
+Precipuo fuerat, nomen habens Aaron. 
+Gratia cui Caroli prae cunctis regibus atque
+Illo principibus tempore cara fuit:
+Augustis cum Grecorum poscentibus ultro
+Dignatus pactum pacis inire fuit. 
+Unde suos ad eum legatos mittere crebro
+Curavere Leo, Niciforus, Michahel. 
+Transgredimur moetas, dum designamus amicos,
+Monstrandus magis est ipse stilo Carolus. 
+Hic se venatu nec non equitando frequentor
+
+-----------------------------[page 0730A]------------------------------
+Fecerat ignarum desidiae poenitus;
+Vix illi glatialis hiemps auferre valebat
+Usus castrenses gestaque militiae. 
+Praeterea solitus fuit exercere venatum,
+Qua tunc arte magis nemo peritus erat;
+Et naturali fontes fervore calentes
+Illi praestabant grata lavacra nimis. 
+Unde locum sedis sibimet delegit Aquensis,
+Plurima quo manat copia talis aquae,
+Balnea qua multo condens iucunda decore,
+Annis extremis mansit ibi iugiter. 
+Ac secum fecit natos proceresque lavari,
+Quodque sui custos corporis agmen erat. 
+Eiusdem nam commoditas spetiosa lavacri
+Centenos homines plusque valet capere. 
+
+-----------------------------[page 0730B]------------------------------
+Corpore robusto fuit ipse decenter et amplo,
+Incessu firmus, vividus atque agilis,
+Egregie procerus, et hoc moderamine iusto,
+Septem namque suis longus erat pedibus. 
+Ipse rotundus apex capitis, cervix et obesa,
+Naris plus paulo quam mediocris erat;
+Late fulgentes oculi, facies quoque laeta,
+Et vox clara satis, pulcraque canities. 
+Usus vestitu patrio, semper peregrinum
+Respuerat, quamvis pulcher et ipse foret. 
+Bis tantum Romae, summis rogitantibus ipsum
+Praesulibus, longa usus erat tunica;
+Tunc etiam clamidis speciosae sumpsit amictum,
+Moreque Romano tegmina facta pedum;
+Regalis habitus tantum gestabat honorem,
+
+-----------------------------[page 0730C]------------------------------
+Cum celebraretur valde sacrata dies,
+Aut quotiens aderant missi mandata ferentes
+Ex longe positis gentibus et ducibus. 
+Tunc auro textam nectebat fibula vestem
+Aurea, comebat gemma pedes varia,
+Distinctum viridi gessit diadema smaragdo,
+Stellatus radiis iaspidis ensis erat. 
+Distabatque parum reliquis in veste diebus
+A solito procerum vel populi habitu. 
+Felici semper valitudine laetus ad annos
+Supraemos vitae poene suae fuerat,
+Nam servavit eam victu sumens moderato,
+Solum quod sensit esse salubre sibi. 
+Si tamen adversum leviter quicquam pateretur,
+Quod iam crescenti contigerat senio,
+
+-----------------------------[page 0730D]------------------------------
+Non admittebat medicos, sibi nempe perosos,
+Plus arbitratu cuncta suo faciens. 
+Cum reliquis vitiis specialiter oderat illud,
+Quo vertunt mentis pocula multa statum;
+Hinc vinum parce potum quoque sumpserat omnem,
+Atque cibis paulo aegrius abstinuit. 
+Nam vix ferre suum poterat ieiunia corpus,
+Quae sibi nonnumquam noxia questus erat. 
+Cum numero solitus hominum convivia grandi,
+Sed tantum festis praecipuis, agere. 
+Porro quaterna iugem praebebant fercula caenam,
+Praeter venantum que labor attulerat,
+Assam qui verubus longis inferre solebant,
+Illi gratus erat plus aliis cibus hic. 
+
+-----------------------------[page 0731A]------------------------------
+Caenanti lector recitans non defuit umquam,
+Perque vices aliquod audiit acroama:
+Res antiquorum gestas regumque piorum
+Ipse legi sibimet fecerat assidue. 
+Indulgere parum somno permiserat illum
+Mens semper magnis dedita consiliis,
+Et res magnificas iugiter meditatio volvens
+Reddiderat curis multimodis vigilem. 
+Ob hoc nocte quater fertur vel sepius, omni
+Somno depulso, membra levasse toro. 
+O quantum curis respublica creverat illis,
+Quam conservatum floruit imperium! 
+Nam bene previdit, nec qua ratione pateret
+In regnum variis hostibus introitus. 
+Gallica praestruxit nec non Germanica classe
+
+-----------------------------[page 0731B]------------------------------
+Litora, qua fluvios suscipit oceanus,
+Atque quod Europam pelagus seiungit ab austris,
+Et dirimit terras gurgitibus media,
+Qua rapidos ex Gallorum regionibus amnes
+Aut capit ex magnae partibus Italiae,
+Hostia seu portus, positis stationibus, omnes
+Fecit inaccessos hostibus omnimodis. 
+Hinc nec eo Mauri quicquam vivente nocebant,
+Nec Northmannorum tunc metus ullus erat,
+Ni Centumcellae--sic urbs Hetrusca vocatur--
+Quod tunc a Mauris depopulata fuit,
+Et quod Northmannis vastantibus, insula quaedam
+Parvula Fresonum dampna tulit gravia. 
+Ve tibi, vae tali modo defensore carenti
+Frantia, quam variis cladibus opprimeris? 
+
+-----------------------------[page 0731C]------------------------------
+Gentibus ecce pates populantibus undique saevis,
+Et quondam felix nunc nimis es misera;
+Quippe tuis hilares exultant fletibus hostes,
+Ditanturque tuis assidue spoliis,
+Milia cesorum captivaque turba tuorum
+Amplior est numero, quam sit harena maris. 
+Nam Carolo moriente, tuum decus et honor omnis
+Ex illo sensim fugit et interiit. 
+Nunc tamen Arnulfo merito sub principe gaudes,
+Qui similis tanto moribus est abavo,
+Denique magnanimus, clemens, promptusque labore
+Pervigili lapsum corrigit imperium,
+Francorumque movet veteri virtute lacertos,
+Atque vocat resides rursus in arma viros. 
+
+-----------------------------[page 0731D]------------------------------
+Sed moles immensa, diu quae corruit ante,
+Non restaurari se subito patitur. 
+Illi det vitam, qui virtutem dedit amplam,
+Et magne nobis causa salutis erit. 
+Vos que de Carolo restant dicenda, Camenae,
+Strictim veloci carmine concinite. 
+Cum fuerit regno tam clarus in amplificando,
+Intentus bellis continuis animo,
+Ornatus operum varios tamen, et decus ingens
+Fecerat, et visu moenia pulcra nimis;
+Ex quibus inprimis merito laudatur Aquensis
+Sedis mirifice condita basilica,
+Quam pie Christe tibi sanctaeque tuae genetrici
+Ad laudem studuit perpetuam facere. 
+Ingylemhem dictus locus est, ubi condidit aulam,
+
+-----------------------------[page 0732A]------------------------------
+Aetas cui vidit nostra parem minime. 
+Quorum multiplicem si quis describere laudem
+Curabit, longum texet opus nimium. 
+Ad quae marmoreas praestabat Roma columnas,
+Quasdam praecipuas pulcra Ravenna dedit. 
+De tam longinqua potuit regione potestas
+Illius ornatum Francia ferre tibi. 
+Preterea Rheni constravit ponte fluenta,
+Commoda dans urbi tanta Mogontiace. 
+Est ibidem latus quingentis passibus amnis,
+Ut pondus tanti scire queas operis. 
+Quodque magis stupeas, firmaverat ordine recto
+Colles ingentes fluctibus in mediis;
+Supposuit basibus haec fundamenta locandis,
+Et supra celsam struxerat inde viam. 
+
+-----------------------------[page 0732B]------------------------------
+Hoc opus extremis illius poene sub annis
+Consumpsit subito flamma vorax poenitus. 
+Quod reparare volens, fieret quo saxeus illic
+Pons, ubi constructus ligneus ante fuit,
+Prô dolor est obitu praeventus, opusque remansit
+Hoc imperfectum, sic quoque semper erit. 
+Virtutis monimenta manent tamen eius in aevum,
+In vastis stantes gurgitibus tumuli. 
+Congestae saxis etenim tellureque moles
+Parent elatis flumine verticibus,
+Aggeribusque pari spacio distantibus ordo
+Metitur lati terga decens pelagi. 
+Condidit et Domino perplurima templa dicanda,
+Exornans eadem sumptibus ex propriis. 
+Neglectu dilapsa prius vel tempore longo
+
+-----------------------------[page 0732C]------------------------------
+In regno reparans cuncta suo noviter. 
+Religionis enim sanctae studiosus amator,
+Sectatorque fuit catholicae fidei. 
+Tempore namque suo hereses extinxerat ortas,
+Quod iam praemissis diximus ante libris. 
+Aecclesiam certis intraverat impiger horis,
+Fundens devotas nocte dieque preces,
+Eius et omne ministerium cum vestibus atque
+Vasis ornatu composuit nimio. 
+Verus quippe Dei cultor praeponere sancto
+Eius nil umquam servitio voluit. 
+Nam regnum terrestre tenens, caelestis amore
+Plus multo flagrans extitit et cupidus. 
+Quod sibi, prae cunctis clemens, et largus egenis,
+Curavit donis assiduis emere. 
+
+-----------------------------[page 0732D]------------------------------
+Nemo peregrinos illo plus fertur amasse,
+Nemo pari cura suscipiebat eos:
+In quo paene modum pietas excesserat eius,
+Si quid in hoc nimium quisque potest facere,
+Cum non regali solum foret advena turba
+Aulae, sed toto iam gravis imperio,
+Ipse pius compensabat dispendia rerum,
+Mercedis laeto perpetis intuitu. 
+Hac invitati fama cum partibus orbis
+De cunctis ad eum confluerent inopes,
+Non tamen in proprio satis exercere putabat
+Regno gratuite largitionis opus,
+Sed per legatos mittebat ad extera regna
+Christicolis crebro munera pauperibus;
+
+-----------------------------[page 0733A]------------------------------
+Quos Aegyptus Alexandrique ex nomine dicta
+Urbs inopes habuit, iuvit eos opibus. 
+Africa munificum Cartagoque senserat illum,
+Est experta satis largifluum Syria. 
+Ad Hierosolimam seu cetera quae loca Christi
+Gestis corporeis sanctificata manent,
+Saepius indiguis donanda fidelibus auri
+Misit et argenti pondera non modica. 
+Trans mare gentiles positos solum sibi reges
+Ad hoc firmata iunxit amicitia,
+Quatinus illorum, qui sub ditione fideles
+Essent, perciperent inde refrigerium. 
+Praeque locis sanctis aliis, specialiter eius
+Menti Romanae sedis inhaesit amor;
+Nam sanctum venerans Petrum, qui claviger extat
+
+-----------------------------[page 0733B]------------------------------
+Caeli, quique chori primus apostolici,
+Eius ad aecclesiam donaria maxima sepe
+Mittens, thesauros contulit innumeros,
+Atque sui magis in toto nil tempore regni
+Curavit, maius non habuit studium,
+Quam sedes Romana suo munimine fulta,
+Ut veteri pollens nobilitate foret. 
+Et tamen ipse quater tantum pervenerat illo,
+Vota precesque pia solvere mente volens,
+Ultimus adventus hac causa contigit eius,
+Quod turbatus erat tunc status ecclesiae,
+Scilicet eiecto simul et tormenta Leone
+Praesule perpesso civibus a propriis. 
+Hoc quasi naufragio suprema pericula passum
+Vexatumque loci sedicione statum,
+
+-----------------------------[page 0733C]------------------------------
+Ad portum placidae statuit revocare quietis,
+Illic per totam poene manens hiemem. 
+Tunc ibidem culmen susceperat imperiale,
+Ordine quo quarto diximus ante libro. 
+Quod tamen invitus papa cogente recepit,
+Et multis populi Romulei precibus. 
+Qui si consilium praescisset praesulis ante,
+Tunc se subtraheret prorsus ab aecclesia,
+Denique sic multis coram iuraverat ipse,
+Quamvis illa dies valde foret celebris. 
+Videris hoc illi tantum cur displicuisset,
+Quod mos est aliis regibus appetere. 
+Ipse decem posthaec et ternos circiter annos
+Augusto laetus vixit in imperio. 
+In quibus antiquas leges correxit, in ipsis
+
+-----------------------------[page 0733D]------------------------------
+Uniri mandans dissona que fuerant. 
+Addidit his etiam noviter quae congrua duxit,
+Pauca quidem numero valde sed utilia,
+Cunctorumque sui regni leges populorum
+Collegit, plures inde libros faciens. 
+Nec non quae veterum depromunt proelia regum,
+Barbara mandavit carmina litterulis. 
+Coepit et ingenii totis cum viribus acris
+In linguam propriam vertere grammaticam. 
+Ardua phylosophis etiam res haec foret, artem
+Ad hanc sermonem cogere barbaricum. 
+Talibus a studiis non regni maxima cura,
+Non aetas gravior tum revocavit eum. 
+Compotus annalis fuerat notissimus illi,
+
+-----------------------------[page 0734A]------------------------------
+Quem rimabatur mente satis vigili. 
+Sidereos ortus, cursus, obitusque notabat,
+Nullus eum punctus zodiaci latuit. 
+Et ventis bis sex totidem quoque mensibus ipse
+Francorum lingua nomina composuit. 
+Illi namque prius menses dixere latinis
+Et partim linguae nominibus propriae;
+Ventorum vero proferre vocabula tantum
+Norant eloquio quattuor ante suo. 
+Nonne videns quantum sudarit in artibus istis,
+Proelia vix ab eo quaelibet acta putes? 
+Rursus si numeres eiusdem bella, triumphos,
+Armis tot regna subdita, tot populos,
+Otia mireris, quando vel parva legendi,
+Vel quid discendi contigerit spacium? 
+
+-----------------------------[page 0734B]------------------------------
+Cum operis differs huius finire laborem,
+Dum Caroli trepidas dicere mens obitum,
+Sit licet hoc nobis mestum, sit triste, sed ordo
+Exigit, idque nihil nos reticere iuvat. 
+Quin potius dulces lacrimae lugentibus esse,
+Atque sui gemitus ipsa querela solet. 
+Ipsius ut regni Hludovicus filius heres
+Et consors factus, patre iubente, fuit--
+Namque hunc Augustum sumpto diademate dici,
+Ut regeret secum iusserat imperium--
+Ipse dehinc morbo pariter defessus et aevo,
+Alterius vitae tendit ad introitum. 
+Venatum tamen ex aula perrexit Aquensi,
+Autumni lapso tempore iam medio. 
+Hinc in praedictam rediens se contulit aulam,
+
+-----------------------------[page 0734C]------------------------------
+Disponens in eo tunc hiemare loco,
+At mensis veniens Iani de nomine dictus
+Acribus hunc subito febribus inplicuit. 
+Abstinuitque cibis, statim sic pellere morbos
+Vel saltim levius ferre suos solitus. 
+Sed dolor accedens lateris, iam tempus adesse
+Eius decessus fecerat haud dubium:
+Cumque dies senos decumberet, inde secutus
+Septimus huic vitae ultimus extiterat. 
+In quo percepto venerando corpore Christi,
+Adiungi meruit civibus aethereis. 
+In templo situs est, ibidem quod condidit ipse,
+Quali cum luctu nemo referre valet. 
+Post octingentos Christi nascentis ab ortu
+Hic annus quartus extitit et decimus;
+
+-----------------------------[page 0734D]------------------------------
+Ipse die quinta decesserat ante Kalendas
+Mensis, quo Numa rex Februa constituit. 
+Multa propinquantis fuerant praesagia finis,
+Atque rei tantae congrua prodigia. 
+Denique defectus solis luneque frequenter
+Annis continuis contigit ante tribus. 
+Septenis ater color est in sole diebus
+Visus lucigenam commaculans faciem;
+Porticus immensae molis collapsa, repente
+Aulae iam dictae omne decus minuit;
+Quemque decem Rheni pontem construxerat annis,
+Horis consumpsit flamma tribus poenitus:
+Nam nisi quae labens fluvius subtraxerat igni,
+Astula nec saltem parva superfuerat. 
+
+-----------------------------[page 0735A]------------------------------
+Ipseque Danorum contra regem Godefridum
+Ultima disponens bella senex agere
+Ibat per patriam cum milite nostram,
+Exiit et castris exoriente die. 
+Nam tum pallenti spargebat luce serenum
+Aëra sol superis partibus appropians. 
+Cernitur a cunctis subito delapsa ruisse
+De coelo species sideris ignivomi,
+Vibratamque facem longo traxisse volatu,
+Donec in laevam decidit ipsa plagam. 
+Hoc admirantem sonipes, quo vectus abibat,
+Elisit casu praecipiti graviter;
+Denique regalis clamidis hinc fibula rupta,
+Disruptusque simul balteus est gladii,
+Excussumque manu telum, quod forte gerebat,
+
+-----------------------------[page 0735B]------------------------------
+Invitus longum iecerat in spacium. 
+Preterea tremor hoc aulae praedixit Aquensis,
+Terrificans cunctos motibus insolitis,
+Idque domus regis crepitu laquearia crebro
+Tactaque signabat fulmine basilica,
+In qua per gyrum lucens epygramma canebat,
+Aedem quis tantam condiderit Domino,
+Idcirco Carolus princeps ibi commemoratus
+Extremi versus in serie fuerat;
+Sed quibus est scriptum, PRINCEPS, mirabile dictu,
+Sponte sua poenitus dispereunt apices,
+Deletique sui vestigia nulla relinquunt,
+Mensibus haud multis ipsius ante obitum. 
+Quod quia vis quaedam cunctis incognita fecit,
+Tristiciam multis omen hoc intulerat. 
+
+-----------------------------[page 0735C]------------------------------
+Iure more doluit signis exterritus orbis
+Hunc, cui post similem non habiturus erat. 
+Sed nec in antiquis ducibus seu regibus illo
+Omnimodis quisquam clarior enituit:
+Romani multis ducibus multisque sub annis
+Italiae populos vix sibi subdiderant,
+Unus hic in spacio perpauci temporis omnem
+Subiecit victor, disposuit dominus;
+Adde tot Europae populos, quos ipse subegit,
+Quorum Romani nomina nescierant:
+Ob hoc mirificos Caroli qui legeris actus,
+
+-----------------------------[page 0736A]------------------------------
+Desine mirari historias veterum. 
+Non Decii, non Scipiadae, non ipse Camillus,
+Non Cato, non Caesar maior eo fuerat;
+Non Pompeius huic merito, vel gens Fabiorum
+Praefertur, pariter mortua pro patria,
+Terrea forsan iis fuerit par gloria, sed nunc
+Caelestis Carolus culmen honoris habet. 
+Illic Daviticae pollet virtutis honore
+Cum Constantino atque Theodosio;
+Illic antiquum gaudet quod vicerit hostem
+Eripiens multos ipsius a laqueis,
+Illic congaudent illi salvata per ipsum
+Munere Christe tuo milia spirituum. 
+Quis numeret, quantas animas, dum credere fecit
+Saxonum populos, reddiderit Domino? 
+
+-----------------------------[page 0736B]------------------------------
+Quot nunc aecclesiae fulgent, ubi fana colebant
+Antiqui, quot sunt structa monasteria? 
+Quot laudes in eis, vel quot tibi vota fideles
+Reddunt, tot Carolo praemia, Christe, dabis;
+Iudiciique dies cum venerit ultima magni,
+Qua reddes omni quod meruit homini,
+O quam laetus erit, sibimet commissa talenta
+Praesentans grandi multiplicata lucro? 
+Nullus apostolicis tunc iure propinquior illo,
+Ut res ipsa docet, caetibus esse valet. 
+Nam cum ludaico processerit agmine Petrus
+Stipatus, cuius dogmate crediderat,
+Paulus totiusque, licet si dicere, mundi
+Gentes salvatas duxerit ore suo:
+Andreas populos post se producet Achivos,
+
+-----------------------------[page 0736C]------------------------------
+Iohannes Asiae proferet aecclesias:
+Matheus Aethiopes niveos baptismate factos,
+Indorum Thomas ducet ad astra greges:
+Tum Carolum gaudens Saxonum turma sequetur,
+Illi perpetuae gloria laeticiae. 
+O utinam vel cunctorum sequar ultimus horum,
+Qui nostri salvi de populo fuerint! 
+O si Christe velis hoedum transferre sinistrum,
+Me pius ut dextris consocies ovibus,
+Quo non mortalis psallam tibi carminis odas,
+Sed laudem valeam dicere perpetuam! Amen. 
+
+
+
+    
