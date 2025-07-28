@@ -165,14 +165,14 @@
         <PAGE PAGEXPOS="712.001" PAGEYPOS="17492.065" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="42" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.001" PAGEYPOS="18324.068" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="43" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.001" PAGEYPOS="18324.068" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="44" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="1628820169" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.001" gYpos="931186440919.14" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="1628820169" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.001" gYpos="931865292967.022" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="1629392665" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="14038009030.001" gYpos="931185882648.543" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="1629392665" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="14081430430.001" gYpos="931864734696.425" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -4198,17 +4198,25 @@
                 <para PARENT="Latin"/>
                 <ITEXT CH="Saxonēs, caedem nimiam fēcēre ferōcēs,"/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Dōnec discussō tandem torpōre sopōris,"/>
+                <ITEXT CH="Dōnec discussō"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=" tandem torpōre sopōris,"/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Quīdam correptīs obstāre virīliter armīs"/>
+                <ITEXT CH="Quīdam"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT CH=" correptīs obstāre virīliter armīs"/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Coepērunt, pugnāque dehinc utcunque remōtā,"/>
+                <ITEXT CH="Coepērunt, pugnāque dehinc"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT CH=" utcunque remōtā,"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Scīlicet ex pactō, quod tunc angustia tālis"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Dictābat, hostēs celerī rediēre recursū."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Hīs rēx audītīs illūc properāre satēgīt,"/>
+                <ITEXT CH="Hīs rēx audītīs illūc properāre satēgīt"/>
+                <ITEXT FEATURES="inherit superscript" CH="6"/>
+                <ITEXT CH=","/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Atque satis vēlōx fugientum terga secūtus,"/>
                 <para PARENT="Latin"/>
@@ -4218,16 +4226,39 @@
                 <para PARENT="Latin"/>
                 <ITEXT CH="Obsidibus, quōs trādiderant, abscesserat inde."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Ac suscēpit ovāns redeuntem Francia rēgem."/>
+                <ITEXT CH="Ac suscēpit ovāns"/>
+                <ITEXT FEATURES="inherit superscript" CH="7"/>
+                <ITEXT CH=" redeuntem Francia rēgem."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="17170.4998152866" OwnPage="39" ItemID="1697695737" PTYPE="4" WIDTH="522" HEIGHT="138.955414012737" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 138.955 L0 138.955 L0 0 Z" copath="M0 0 L522 0 L522 138.955 L0 138.955 L0 0 Z" gXpos="136.001" gYpos="17170.4998152866" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="17170.4998152866" OwnPage="39" ItemID="1697695737" PTYPE="4" WIDTH="522" HEIGHT="203.054324840792" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 203.054 L0 203.054 L0 0 Z" copath="M0 0 L522 0 L522 203.054 L0 203.054 L0 0 Z" gXpos="136.001" gYpos="17170.4998152866" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="1This is a quote for Virgil's Aeneid, Book 2, line 390."/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Trickery or virtus, who can ask (for these) in an enemy?"/>
+                <ITEXT CH=" This is a quote for Virgil's Aeneid, Book 2, line 390."/>
                 <para PARENT="footnotes"/>
-                <ITEXT CH="2The Saxons instantly attacked the Franks, suppressed with sleep and the ferocious (Saxons) made a very great slaughter."/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="The Saxons instantly attacked the Franks, suppressed with sleep and the ferocious (Saxons) made a very great slaughter."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Until the numbness of sleep was finally dissipated."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Certain (Frankish soldiers), having manfully taken hold of weapons, began to oppose (the Saxons)."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit" CH="And with the battle somehow withdraw, really by agreement, that then such a tight situation dictated, the (Saxon) enemies returned (to their villages) with rapid return. It appears that after the Franks woke up and started fighting back that the Saxons had to flee."/>
+                <ITEXT CH=" Perhaps the Franks and Saxons made a truce; however I think it likelier that "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="scīlicet ex pactō"/>
+                <ITEXT CH=" refers to the Saxon attacker noticing their now-dire situation and deciding together to flee rather than continue fighting."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="6"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Having heard these (things), the king hastened to hurry and speedily-enough followed the fleeing backs (of the Saxons), and struck down many perpetrators of this crime."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="7"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And the rejoicing Franks received their returning king."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
@@ -4276,7 +4307,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dictum: words, saying; singular neuter nominative perfect passive participle from dict.um"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="discussō: having been struck down; singular masculine dative perfect passive participle from discutiō, discutere, discussī, discussus"/>
+                <ITEXT CH="discussō: having been dissapated, shattered; singular masculine ablative perfect passive participle from discutiō, discutere, discussī, discussus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dolōsī: crafty, cunning; singular masculine genitive from dolōsus, dolōsa, dolōsum"/>
                 <para PARENT="Vocab"/>
@@ -4460,7 +4491,7 @@
                 <trail PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="16134.0828025478" OwnPage="37" ItemID="1700709337" PTYPE="4" WIDTH="522" HEIGHT="203.03821656051" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 203.038 L0 203.038 L0 0 Z" copath="M0 0 L522 0 L522 203.038 L0 203.038 L0 0 Z" gXpos="136.001" gYpos="16134.0828025478" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="16134.0828025478" OwnPage="37" ItemID="1700709337" PTYPE="4" WIDTH="522" HEIGHT="149.840764331184" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 149.841 L0 149.841 L0 0 Z" copath="M0 0 L522 0 L522 149.841 L0 149.841 L0 0 Z" gXpos="136.001" gYpos="16134.0828025478" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
