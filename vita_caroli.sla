@@ -175,14 +175,14 @@
         <PAGE PAGEXPOS="712.001" PAGEYPOS="21652.08" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="52" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.001" PAGEYPOS="22484.083" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="53" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.001" PAGEYPOS="22484.083" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="54" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="993865087" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.001" gYpos="934460314484.375" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="993865087" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.001" gYpos="935211648137.581" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="993895679" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="14232016090.001" gYpos="934459756213.778" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="993895679" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="14271491926.001" gYpos="935211089866.984" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -5300,6 +5300,292 @@
                 <ITEXT CH="vincere: to conquer; active infinitive from vincō, vincere, vīcī, victus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Wormacia: Worms, a city in Germany; singular feminine nominative from Wormacia, Wormaciae"/>
+                <trail PARENT="Vocab"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.001" YPOS="20024.074" OwnPage="47" ItemID="1166191199" PTYPE="4" WIDTH="522" HEIGHT="469.785872611457" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 469.786 L0 469.786 L0 0 Z" copath="M0 0 L522 0 L522 469.786 L0 469.786 L0 0 Z" gXpos="136.001" gYpos="20024.074" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Nam fontēs adiēns, ubi Lyppia nāscitur amnis,"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Repperit ex ipsā numerōsās gente catervās"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Illīc collēctās, humilēs veniamque precantēs,"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Quod nōn servāssent"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" annō prōmissa priōrī."/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Cum vērō Carolus clēmēns ignōsceret"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" illīs,"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Complūrēs"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=", dominō sē Chrīstō crēdere velle"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Spondentēs simulācrōrumque relinquere cultūs,"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Pūrgārī"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT CH=" iussit sacrī baptismatis undā,"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Servandaeque"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT CH=" iterum fideī prōmissa recēpit"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Obsidibus firmāta datīs, quibus ipse volēbat."/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Ēresburg iterum firmat mūnīmine fortī,"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Et iuxtā fluvium quem Lyppia dīximus ante"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Castellum condēns"/>
+                <ITEXT FEATURES="inherit superscript" CH="6"/>
+                <ITEXT CH=" aliud, complēvit utrumque"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Mīlitibus lectīs; tum Gallica rūrsus ad arva"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Regrediēns, hiemis tempus trānsēgit in aulā,"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Nōmen"/>
+                <ITEXT FEATURES="inherit superscript" CH="7"/>
+                <ITEXT CH=" Heristallī dederat cui barbara lingua."/>
+                <para PARENT="Latin"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.001" YPOS="20493.8598726115" OwnPage="47" ItemID="964697935" PTYPE="4" WIDTH="522" HEIGHT="250.214127388543" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 250.214 L0 250.214 L0 0 Z" copath="M0 0 L522 0 L522 250.214 L0 250.214 L0 0 Z" gXpos="136.001" gYpos="20493.8598726115" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Because they hadn't kept the promises of the prior year."/>
+                <ITEXT CH=" After Charlemagne put down some of the Saxon rebellions, a group of Saxons gathered to ask for clemency, which Charlemagne granted."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="When clement Charlemagne forgave them."/>
+                <ITEXT CH=" "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Ignōscere"/>
+                <ITEXT CH=" takes the dative instead of the accusative (hence "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="illīs"/>
+                <ITEXT CH="); the subjunctive is used because it is in a "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="cum"/>
+                <ITEXT CH=" circumstantial clause."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Many (persons), promising themselves to want to believe in the Lord Christ and to relinguish the cult/worship of idols."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="He (Charlemagne) ordered to be purged/cleansed by the wave/waters of sacred baptism."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="He received promises of keeping faith again, having been given hostages, which he (Charlemagne) himself had wanted."/>
+                <ITEXT CH=" In Jaffé's critical text "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="servandeque"/>
+                <ITEXT CH=", not "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="servandaeque"/>
+                <ITEXT CH=", is given. The dictionaries I consulted all listed "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="servande"/>
+                <ITEXT CH=" as being in the vocative, which doesn't fit the context. Additionally, the third syllable must be long for to fit the meter, thus leaving three possibilities: (1) "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="servandeque"/>
+                <ITEXT CH=" represents an uncommon spelling or convention of which I am unaware, (2) it should read "/>
+                <ITEXT FONT="DejaVu Serif Condensed Italic" CH="servandōque"/>
+                <ITEXT CH=", making it an ablative gerund, or (3) the "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="a"/>
+                <ITEXT CH=" was dropped due to a misprint."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="6"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And next to the river, which we above called Lyppia, building another castle, he filled both with chosen soldiers."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="7"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="To which the barbarian tongue had given the name Herstal."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="766.001" YPOS="20024.074" OwnPage="48" ItemID="1166131791" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="20024.074" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="ad: to, towards, at, according to"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="adiēns: approaching, visiting; singular nominative present participle from adeō, adīre, adivī(iī), aditus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="aliud: other; singular neuter nominative from alius, alia, aliud"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="amnis: river; singular masculine nominative from amnis, amnis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="annō: year; singular masculine dative from annus, annī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ante: before, in front, forwards"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="arva: field, country; plural neuter nominative from arvum, arvi"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="aula: court; singular feminine nominative from aula, aulae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="baptismatis: baptism; singular neuter genitive from baptisma, baptismatis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="barbara: barbarous; singular feminine nominative from barbarus, barbara -um, barbarior -or -us, barbarissimus -a -um"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="carolus: Charlemagne, AD 748-814, King of the Franks and Emperor of the Western Roman Empire, member of the Carolingian Dynasty"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="castellum: castle, stronghold; singular neuter nominative from castellum, castellī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="catervās: crowd; plural feminine accusative from caterva, catervae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Chrīstō: Christ"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="clēmēns: mild, gentle, lenient; singular  nominative from clēmēns, (gen.), clēmentis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="collectās: contributions; plural feminine accusative perfect passive participle from colligō, colligere, collēgī, collēctus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="complēvit: he completed, filled up; 3rd person singular perfect active from compleō, complēre, complēvī, complētus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="complūrēs: many, several persons; plural common nominative from complūs, (gen.), complūris"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="condēns: building, founding; singular nominative present participle from condō, condere, condidī, conditus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="crēdere: to believe;  person  present active from credo, credere, credidi, creditus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="cui: who; singular dative from quis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="cultus: cult, civilization; singular masculine nominative perfect passive participle from colō, colere, coluī, cultus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="cum: with"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="d.atis: do, dare, dedi, datus V (1st) TRANS [XXXAO]; infinitive"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dederat: he had given; 3rd person singular pluperfect active from do, dare, dedi, datus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dīximus: we said; 1st person plural perfect active from dīcō, dīcere, dīxī, dictus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dominō: lord; singular masculine dative from dominus, dominī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Ērēsburg: a Saxon refuge castle near modern-day Obermarsberg"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="et: and"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ex: out of, from"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="fideī: faith; singular feminine genitive from fidēs, fideī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="fīrmat: he confirms, hardens; 3rd person singular present active from fīrmō, fīrmāre, fīrmāvī, fīrmātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="fīrmāta: having been hardened, confirmed; singular feminine nominative perfect passive participle from fīrmō, fīrmāre, fīrmāvī, fīrmātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="fluvium: river; singular masculine accusative from fluvius, fluvi(i)"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="fontēs: fountains; plural masculine nominative from fōns, fontis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="fortī: strong; singular  dative from fortis, forte, fortior -or -us, fortissimus -a -um"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="gallica: Gallic; singular feminine nominative from Gallicus, Gallica, Gallicum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="gente: people, clan, nation; singular feminine  from gēns, gentis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="hiemis: of winter; singular feminine genitive from hiemps, hiemis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="humilēs: humble, small; plural common nominative from humilis, humile, humilior -or -us, humillimus -a -um"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="īgnōsceret: he was forgiving; 3rd person singular imperfect active subjunctive from īgnōscō, īgnōscere, īgnōvī, īgnōtus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="illīc: there"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="illīs: those; plural dative or ablative from ille, illa, illud"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="in: into (with accusative), in (with ablative)"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ipsa: itself; singular feminine nominative from ipse, ipsa, ipsum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ipse: itself; singular masculine nominative from ipse, ipsa, ipsum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="iterum: again"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="iussit: he commanded; infinitive"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="iuxtā: near, nearly"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="lectīs: beds, coaches; plural dative perfect passive participle from legō, legere, lēgī, lēctus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="linguā: tongue, language; singular feminine nominative from lingua, linguae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="mīlitibus: soldiers; plural masculine  from mīles, mīlitis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="mūnīmine: defence, fortification, rampart; singular neuter  from mūnīmen, mūnīminis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nam: yes, truly"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nāscitur: he is being born; infinitive"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nōmen: name; singular neuter nominative from nōmen, nōminis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nōn: not"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="numerōsās: numerous; plural feminine accusative from numerōsus, numerōsa -um, numerōsior -or -us, numerōsissimus -a -um"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="obsidibus: hostages; plural common  from obses, obsidis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="precantēs: praying; plural common nominative present participle from precor, precārī, precātus sum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="priōrī: prior, ahead, previous; singular  dative from prior, prior, prius"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="prōmissa: having been promised; singular feminine nominative perfect passive participle from prōmittō, prōmittere, prōmīsī, prōmissus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="pūrgārī: to be cleansed;  person  present passive from pūrgō, pūrgāre, pūrgāvī, pūrgātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quem: what, singular masculine accusative of qui"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quibus: what; plural dative or ablative of qui"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quod: what; singular neuter nom. or acc. of qui"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="recēpit: he received; 3rd person singular perfect active from recipiō, recipere, recēpī, receptus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="regrediēns: returning; singular nominative present participle from regredior, regredī, regressus sum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="relinquere: leave behind, abandon; (pass.) be left, remain; bequeath;  person  present active from relinquo, relinquere, reliqui, relictus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="repper.it: reperio, reperire, repperi, repertus V (4th) TRANS [XXXAO]; infinitive"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="rūrsus: backwards, on the flipside"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sacrī: sacred; singular masculine genitive from sacer, sacra, sacrum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="se: himself"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="servande: watch over; protect, store, keep, guard, preserve, save; singular masculine vocative future passive participle from servō, servāre, servāvī, servātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="servāvissent: they had watched over; 3rd person plural pluperfect active subjunctive from servō, servāre, servāvī, servātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="simulācrōrum: of images, likenesses; plural neuter genitive from simulācrum, simulācrī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="spondentēs: promising; plural common nominative present participle from spondeo, spondere, spepondi, sponsus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="tempus: time, period; singular neuter nominative from tempus, temporis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="trānsēgit: carried out; 3rd person singular perfect active from trānsigō, trānsigere, trānsēgī, trānsactus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="tum: then"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ubī: where, when if"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="unda: waves; singular feminine nominative from unda, undae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="UNKNOWN: {:word &quot;Heristalli&quot;, :part-of-speech :unknown}"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="UNKNOWN: {:word &quot;Lyppia&quot;, :part-of-speech :unknown}"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="utrum: whether"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="velle: to want; 2nd person singular present active imperative from vello, vellere, velli, vulsus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="veniam: indulgence, kindness; 1st person singular present active subjunctive from veniō, venīre, vēnī, ventus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="vērō: truly, even so, still"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="volēbat: he was wanting; 3rd person singular imperfect active from volō, velle, voluī, -"/>
+                <para PARENT="Vocab"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="(Heristalli Lyppia d.atis relinquere repper.it servande)"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="6"/>
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
