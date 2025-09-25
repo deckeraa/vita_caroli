@@ -175,14 +175,14 @@
         <PAGE PAGEXPOS="712.001" PAGEYPOS="21652.08" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="52" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.001" PAGEYPOS="22484.083" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="53" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.001" PAGEYPOS="22484.083" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="54" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="1152315728" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.001" gYpos="935580238778.668" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="1152315728" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.001" gYpos="936065507856.481" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="1152289872" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="14290858054.001" gYpos="935579680508.071" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="1152289872" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="14316354586.001" gYpos="936064949585.884" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -5587,23 +5587,31 @@
         <PAGEOBJECT XPOS="136.001" YPOS="20856.077" OwnPage="49" ItemID="1330551008" PTYPE="4" WIDTH="522" HEIGHT="349.528095541395" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 349.528 L0 349.528 L0 0 Z" copath="M0 0 L522 0 L522 349.528 L0 349.528 L0 0 Z" gXpos="136.001" gYpos="20856.077" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="Annō 777"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Annō 777"/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Aspīrante novī placidō cum tempore vēris"/>
+                <ITEXT CH="Aspīrante"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" novī placidō cum tempore vēris"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Horrida iam trānsīsset hiems, rēx Nōviomāgum"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Adveniēns, celebrāvit ibī sollempnia Paschae."/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Tum quia Saxonēs suspectōs semper habēbat,"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Haud dubitāns, illōs prō lībertāte tenenda"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Artibus āctūrōs variīs quodcumque valērent,"/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Et nisi continuī premerentur pondere bellī,"/>
+                <ITEXT CH="Et nisi continuī premerentur"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT CH=" pondere bellī,"/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Foedera ruptūrōs, sēcum condicta frequenter,"/>
+                <ITEXT CH="Foedera ruptūrōs"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT CH=", sēcum condicta frequenter,"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Rūrsus in illōrum patriam fortissima dūcit"/>
                 <para PARENT="Latin"/>
@@ -5613,10 +5621,157 @@
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="21211.1464968153" OwnPage="49" ItemID="1123814688" PTYPE="4" WIDTH="522" HEIGHT="217.337579617837" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 217.338 L0 217.338 L0 0 Z" copath="M0 0 L522 0 L522 217.338 L0 217.338 L0 0 Z" gXpos="136.001" gYpos="21211.1464968153" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="21212.1464968153" OwnPage="49" ItemID="1123814688" PTYPE="4" WIDTH="522" HEIGHT="217.337579617837" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 217.338 L0 217.338 L0 0 Z" copath="M0 0 L522 0 L522 217.338 L0 217.338 L0 0 Z" gXpos="136.001" gYpos="21212.1464968153" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <trail/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="When the calm season of new spring breathing."/>
+                <ITEXT CH=" A more idiomatic, though less strict, English translation might be: "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="With the new season breathing the pleasant springtime breezes."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="The king (Charlemagne) arriving at Nōviomāgus."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Not doubting, them for the holding of liberty to act with various arts, whatever they could."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And unless pressed down by the weight of continuous war."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Would break treaties."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="766.001" YPOS="20856.077" OwnPage="50" ItemID="1314185936" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="20856.077" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="āctūrōs: to be conducted; plural masculine accusative future participle from agō, agere, ēgī, āctus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="adveniēns: arriving; singular nominative present participle from adveniō, advenīre, advēnī, adventus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="agmina: marching armies; plural neuter nominative from agmen, agminis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="annō: year; singular masculine dative from annus, annī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="artibus: arts, skills; plural feminine  from ars, artis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="aspīrante: breathing, influencing; singular ablative present participle from aspīrō, aspīrāre, aspīrāvī, aspīrātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="bellī: battle, war; singular neuter genitive from bellum, bellī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="celebrāvit: he celebrated; 3rd person singular perfect active from celebrō, celebrāre, celebrāvī, celebrātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="condicta: agreements, appointments; singular feminine nominative perfect passive participle from condico, condicere, condixi, condictus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="continuī: continually; 1st person singular perfect active from contineō, continēre, continuī, contentus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="conventum: having come together; singular neuter nominative perfect passive participle from convent.um"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="cum: with"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="cumque: and with"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dubitāns: hesitating, doubting; singular nominative present participle from dubitō, dubitāre, dubitāvī, dubitātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ducibus: leaders; plural masculine  from dux, ducis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dūcit: he leads; 3rd person singular present active from dūcō, dūcere, dūxī, ductus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="et: and"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="foedera: treaties; plural neuter nominative from foedus, foederis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="fortissima: very strong; singular feminine nominative from fortis, forte, fortior -or -us, fortissimus -a -um"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="frequenter: frequently; 1st person singular present passive subjunctive from frequentō, frequentāre, frequentāvī, frequentātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="generālis: general; singular common nominative from generālis, generālis, generāle"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="habēbat: he had; 3rd person singular imperfect active from habeō, habēre, habuī, habitus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="habēre: to have;  person  present active from habeō, habēre, habuī, habitus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="haud: not, not at all"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="hiems: winter; singular feminine nominative from hiems, hiemis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="horrida: dreadful, horrid, rude; singular feminine nominative from horridus, horrida, horridum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="iam: already, now, soon"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ibī: there, then"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="illīc: there"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="illōrum: of those; plural masculine or neuter genitive from ille, illa, illud"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="illōs: that; plural masculine accusative from ille, illa, illud"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="in: into (with accusative), in (with ablative)"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="lībertāte: liberty; infinitive"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nisī: if not, unless"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="novī: new, inexperienced; 1st person singular perfect active from nōscō, nōscere, nōvī, nōtus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="noviomagum: city of the Treveri, now Nijmegen, city in Holland; singular feminine accusative from Noviomagus, Noviomagi"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nunciat: announce/report/bring word/give warning; convey/deliver/relate message/greeting; 3rd person singular present active from nuncio, nunciare, nunciavi, nunciatus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="paschae: Passover, Easter; singular feminine genitive from Pascha, Paschae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="patriam: father; singular feminine accusative from patria, patriae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="placidō: placid, gentle, quiet; singular masculine dative from placidus, placida, placidum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="placitī: pleasant; singular masculine genitive perfect passive participle from placeō, placēre, placuī, placitus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="pondere: weight, burden; singular neuter  from pondus, ponderis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="premerentur: they were pressed, overwhelmed; 3rd person plural imperfect passive subjunctive from premō, premere, pressī, pressus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="prō: for, in favor of, before, in place of"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quia: because"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="rēx: king; singular masculine nominative from rēx, rēgis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ruptūrōs: to be breaking, destroying; plural masculine accusative future participle from rumpō, rumpere, rūpī, ruptus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="rūrsus: backwards, on the flipside"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Saxonēs: The Saxons"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="se: himself"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sēcum: with oneself"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="semper: always"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sollempnia: solemn, sacred; plural neuter nominative from sollempnis, sollempne, sollempnior -or -us, sollempnissimus -a -um"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="suis: their; plural dative or ablative of suus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="suspectōs: having been suspected; plural masculine accusative from suspectus, suspecta -um, suspectior -or -us, suspectissimus -a -um"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="tempore: time, period; singular neuter  from tempus, temporis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="tenenda: holding; singular feminine nominative future passive participle from teneō, tenēre, tenuī, tentus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="trānsīvisset: he (might) have had crossed; 3rd person singular pluperfect active subjunctive from trānseō, trānsīre, trānsivi(iī), trānsitus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="tum: then"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="valērent: they were healthy, able, strong; 3rd person plural imperfect active subjunctive from valeo, valere, valui, valitus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="variīs: various, diverse; plural  dative from varius, varia, varium"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="velle: to want; 2nd person singular present active imperative from vello, vellere, velli, vulsus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="vēris: spring; singular genitive from vēr, vēris"/>
+                <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
     </DOCUMENT>
