@@ -6,9 +6,4 @@ Fontibus et nitidīs et plūribus, et trahit inde
 Barbaricae nōmen linguae sermōne vetustum.
 Tunc ibi vīlla fuit tantum, nunc pontificālis
 Ecclēsiae cōnstrūcta nitet clārissima sēdēs.
-Quō Carolus veniēns, collēctōs repperit omnēs
-Paene ducēs, populumque simul, tōtumque senātum
-Saxonum, nisi quod quīdam Widokindus abinde
-Aufugit, rēgem veritus; nam cōnscius īdem
-Audācis sibimet factī multīque reātūs,
-Sifridum petiit Dānōrum scēptra regentem.
+
