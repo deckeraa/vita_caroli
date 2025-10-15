@@ -200,14 +200,14 @@
         <PAGE PAGEXPOS="712.001" PAGEYPOS="31636.116" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="76" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.001" PAGEYPOS="32468.119" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="77" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.001" PAGEYPOS="32468.119" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="78" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="1058041690" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.001" gYpos="945736666632.619" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="1058041690" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.001" gYpos="946094244881.94" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="1058125658" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="14743738666.001" gYpos="945736108362.022" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="1058125658" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="14756889934.001" gYpos="946093686611.343" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -7979,6 +7979,154 @@
                 <ITEXT CH="ubī: where, when if"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vēnit: he came; 3rd person singular present active from veniō, venīre, vēnī, ventus"/>
+                <trail PARENT="Vocab"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.001" YPOS="31672.116" OwnPage="75" ItemID="1022265194" PTYPE="4" WIDTH="522" HEIGHT="239.934955413999" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 239.935 L0 239.935 L0 0 Z" copath="M0 0 L522 0 L522 239.935 L0 239.935 L0 0 Z" gXpos="136.001" gYpos="31672.116" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Indeque"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" festīnus pergēns, ibi castra locāvit,"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Albia quā grandis fluvius miscētur et Ora."/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Nam rēs Saxōnum voluit compōnere, nec nōn"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Sclāvōrum, medius quōs Albia dīvidit amnīs."/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Citrā"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=" Saxonēs dēgunt, in lītore vērō"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Sclāvōrum pāgāna manet gēns ulteriōrī."/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Dispositīs sānē rēbus prō tempore cūnctīs"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT CH=","/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Ad sēdēs tandem studuit remeāre paternās."/>
+                <trail PARENT="Latin"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.001" YPOS="31912.050955414" OwnPage="75" ItemID="1291237050" PTYPE="4" WIDTH="522" HEIGHT="162.802547770701" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 162.803 L0 162.803 L0 0 Z" copath="M0 0 L522 0 L522 162.803 L0 162.803 L0 0 Z" gXpos="136.001" gYpos="31912.050955414" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And from there continuing on quickly, he stationed a camp there, in the place where the grand river Elbe is mixed with the shore."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="For he wanted to arrange the things of the Saxons, and also of the Slavs, whom, with the shores of the Elbe, divides in the middle."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="On this side the Saxons live, and on beyond the shore dwell the pagan Slavs."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Having arranged everything well for (that) time."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="766.001" YPOS="31672.116" OwnPage="76" ItemID="1299550858" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="31672.116" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="ad: to, towards, at, according to"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="albia: white, pale, fair, hoary, gray; bright, clear; favorable, auspicious, fortunate; singular feminine nominative from albus, alba -um, albior -or -us, albissimus -a -um"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="amnis: river; singular masculine nominative from amnis, amnis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="castra: forts; plural neuter nominative from castrum, castrī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="citrā: on this side"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="compōnere: to put together;  person  present active from compōnō, compōnere, composuī, compositus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="cūnctīs: all, whole; plural  dative from cūnctus, cūncta, cūnctum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dēgunt: they spend; 3rd person plural present active from dēgō, dēgere, dēgī, -"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dispositīs: having been arranged, distributed; plural dative perfect passive participle from dispōnō, dispōnere, disposuī, dispositus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dīvidit: he divides; 3rd person singular present active from dīvidō, dīvidere, dīvīsī, dīvīsus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="et: and"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="festīnus: swift, fast, hastening; singular masculine nominative from festīnus, festīna, festīnum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="fluvius: river; singular masculine nominative from fluvius, fluvi(i)"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="gēns: people, clan, nation; singular feminine nominative from gēns, gentis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="grandis: great, grand, imposing; singular common nominative from grandis, grandis, grande"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ibī: there, then"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="in: into (with accusative), in (with ablative)"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="inde: from there, since"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="lītore: beach, shore; singular neuter  from lītus, lītoris"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="locāvit: he stationed; 3rd person singular perfect active from locō, locāre, locāvī, locātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="manet: he remains; 3rd person singular present active from maneō, manēre, mānsī, mānsus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="medius: middle; singular masculine nominative from medius, media, medium"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="miscētur: it is mixed; 3rd person singular present passive from misceō, miscēre, miscuī, mixtus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nam: yes, truly"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nec: nor, not either"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nōn: not"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ōrā: pray! singular imperative from ōrō, ōrāre, ōrāvī, ōrātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="pāgāna: peasant, villager, rustic; singular feminine nominative from paganus, pagana, paganum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="paternās: paternal; plural feminine accusative from paternus, paterna, paternum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="pergēns: continuing on; singular nominative present participle from pergō, pergere, perrēxī, perrēctus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="prō: for, in favor of, before, in place of"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quā: what; singular female ablative of qui"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quōs: who; plural masculine accusative of quis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="rēbus: things; plural feminine dative from rēs, reī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="remeāre: to come back, return;  person  present active from remeō, remeāre, remeāvī, remeātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="rēs: things; singular feminine nominative from rēs, reī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sānē: healthfully, soundly; singular masculine vocative from sānus, sāna, sānum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Saxonēs: The Saxons"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Saxōnum: of the Saxons"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sēdēs: seat; 2nd person singular present active from sedeō, sedēre, sēdī, sessus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="studuit: he studied, was eager for; 3rd person singular perfect active from studeō, studēre, studuī, -"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="tandem: finally"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="tempore: time, period; singular neuter  from tempus, temporis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ulteriōrī: farther, last; singular  dative from -, -, ulterior -or -us, ultimus -a -um"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="UNKNOWN: {:word &quot;Sclavorum&quot;, :part-of-speech :unknown}"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="vērō: truly, even so, still"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="voluit: he wanted; 3rd person singular perfect active from volō, velle, voluī, -"/>
+                <para PARENT="Vocab"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="(Sclavorum albia)"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="2"/>
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
