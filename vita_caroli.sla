@@ -200,14 +200,14 @@
         <PAGE PAGEXPOS="712.001" PAGEYPOS="31636.116" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="76" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.001" PAGEYPOS="32468.119" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="77" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.001" PAGEYPOS="32468.119" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="78" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="1562674439" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.001" gYpos="946897011296.478" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="1562674439" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.001" gYpos="948170275407.491" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="1562685927" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="14786414650.001" gYpos="946896453025.881" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="1562685927" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="14833243666.001" gYpos="948169717136.894" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -222,7 +222,7 @@
                 <para PARENT="Latin"/>
                 <ITEXT CH="Dignātus, nostrī sē corporis induit artūs,"/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Ēvolvit septingentōs rota temporis annōs. "/>
+                <ITEXT CH="Ēvolvit septingentōs rota temporis annōs "/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Et deciēs septem, sed et ūnus pēne"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
@@ -247,11 +247,15 @@
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="The Savior of the world, after having deigned to be born of the Virgin, dressed himself in the bodily nature of our flesh; the wheel of time turned 700 years."/>
-                <ITEXT CH=" This refers to Jesus Christ being born of the Virgin Mary. Dignātus is an active participle because it comes from the deponent verb dīgnor. This first phrase acts as a nominative absolute, a construction found in Medieval Latin that is similar to an ablative absolute. The wheel of time is a poetic construction used to convey the passing of time since the Incarnation; see next foonote."/>
+                <ITEXT CH=" This refers to Jesus Christ being born of the Virgin Mary. "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Dignātus"/>
+                <ITEXT CH=" is an active participle because it comes from the deponent verb "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="dīgnor"/>
+                <ITEXT CH=". This first phrase acts as a nominative absolute, a construction found in Medieval Latin that is similar to an ablative absolute. The wheel of time is a poetic construction used to convey the passing of time since the Incarnation; see next footnote."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="And 17, and one year almost carried out."/>
-                <ITEXT CH=" The date thus given is late AD 717."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And ten time seven, and one year almost carried out."/>
+                <ITEXT CH=" The date thus given is, using a date of 1 AD for the birth of Christ, late 771 AD."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit" CH="Furthermore, it was the year when, by divine right, the monarchy of the kingdom of the Franks was given to Charles the Great."/>
@@ -288,17 +292,17 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="corporis: body, flesh; singular neuter genitive from corpus, corporis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="cum: with"/>
+                <ITEXT CH="cum: when"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="data: data eset = was given; singular feminine nominative perfect passive participle from dō, dare, dedī, datus"/>
+                <ITEXT CH="data: data est = was given; singular feminine nominative perfect passive participle from dō, dare, dedī, datus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dē: of, from, away from, down from"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dēcesserat: he had died; 3rd person singular pluperfect active from dēcēdō, dēcēdere, dēcessī, dēcessus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="deciēs: ten"/>
+                <ITEXT CH="deciēs: ten times"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dīgnatus: he had deemed worthy, deigned; singular masculine nominative active perfect passive participle from dīgnor, dīgnārī, dīgnātus"/>
+                <ITEXT CH="dīgnatus: dīgnatus est = he had deemed worthy, deigned, the est is omitted for metrical reasons; singular masculine nominative active perfect passive participle from dīgnor, dīgnārī, dīgnātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="divinitus: divinely, of heaven (adverb)"/>
                 <para PARENT="Vocab"/>
@@ -340,11 +344,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="pēne: almost; alternate spelling of paene"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="perāctus: having been completed; singular masculine nominative perfect passive participle from peragō, peragere, perēgī, perāctus"/>
+                <ITEXT CH="perāctus: perāctus erat = had been carried out; singular masculine nominative perfect passive participle from peragō, peragere, perēgī, perāctus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="postquam: since, since then, after"/>
+                <ITEXT CH="postquam: after"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="presentis: present, at-hand, currently-mentioned; singuglar masculine genitive variant spelling from praesēns"/>
+                <ITEXT CH="presentis: present, at-hand, currently-mentioned; singular masculine genitive variant spelling from praesēns"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="prope: near, close"/>
                 <para PARENT="Vocab"/>
@@ -8178,7 +8182,7 @@
                 <ITEXT FONT="DejaVu Serif Italic" CH="querere"/>
                 <ITEXT CH=" is the singular imperative of "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="querī"/>
-                <ITEXT CH=" (to complain or grumble) which fits neither grammatically, nor contextually. Therefore I have corrected it to "/>
+                <ITEXT CH=" (to complain or grumble) which fits neither grammatically nor contextually. Therefore I have corrected it to "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="quaerere"/>
                 <ITEXT CH="."/>
                 <para PARENT="footnotes"/>
