@@ -200,14 +200,14 @@
         <PAGE PAGEXPOS="712.001" PAGEYPOS="31636.116" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="76" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.001" PAGEYPOS="32468.119" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="77" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.001" PAGEYPOS="32468.119" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="78" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="403975557" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.001" gYpos="958401815659.392" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="403975557" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.001" gYpos="958792490988.052" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="404002501" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="15209546554.001" gYpos="958401257388.795" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="404002501" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="15223915090.001" gYpos="958791932717.455" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -6308,13 +6308,15 @@
                 <para PARENT="Latin"/>
                 <ITEXT CH="Gallica rēgna petit"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
-                <ITEXT CH="; post haec Aquītānia rēgem"/>
+                <ITEXT CH="; post haec Aquitānia"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT CH=" rēgem"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Īnsignem Carolum tenet ad paschālia fēsta."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="23615.5414012739" OwnPage="55" ItemID="507489749" PTYPE="4" WIDTH="522" HEIGHT="151.337579617826" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 151.338 L0 151.338 L0 0 Z" copath="M0 0 L522 0 L522 151.338 L0 151.338 L0 0 Z" gXpos="136.001" gYpos="23615.5414012739" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="23615.5414012739" OwnPage="55" ItemID="507489749" PTYPE="4" WIDTH="522" HEIGHT="188.484076433109" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 188.484 L0 188.484 L0 0 Z" copath="M0 0 L522 0 L522 188.484 L0 188.484 L0 0 Z" gXpos="136.001" gYpos="23615.5414012739" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -6327,7 +6329,7 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Who was called with his ancestral name Ībinalarbī."/>
-                <ITEXT CH=" This is Sulayman ibn Yaqzan al-Kalbi al-Arabi, a muslim governor of Barcelona and Girona. Saluyman felt threatened by the Umayyad's and sought an alliance with Charlemagne, wich led to Charlegmagne's march across the Pyrenees the following year."/>
+                <ITEXT CH=" This is Sulayman ibn Yaqzan al-Kalbi al-Arabi, a muslim governor of Barcelona and Girona. Sulayman felt threatened by the Umayyad's and sought an alliance with Charlemagne, wich led to Charlegmagne's march across the Pyrenees the following year."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="This (man, the Saracene governor), with not a few of his allies and cities, who (plural) were allying with him, leaving the borders of the region of Spain, gave up to Charlemagne, and together the cities, which the Saracene king had formerly given to this one (the Saracene governor)."/>
@@ -6335,6 +6337,13 @@
                 <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit superscript" CH="4"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="On account of this finally having left the Saxon region, he sought for the Gallic land. After this Aquintania holds the distinguished King Charlemange for the Paschal (Easter) Feast."/>
                 <ITEXT CH=" Charlemagne needed to head west out of Saxony into Gallia in order to prepare for a march into Hispania."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT CH="Typically spelled "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Aquītānia"/>
+                <ITEXT CH=" (with a macron over the first "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="i"/>
+                <ITEXT CH="); I've omitted that macron so that it can fit the meter by being short-short-long-short-short."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
@@ -6448,22 +6457,22 @@
         <PAGEOBJECT XPOS="136.001" YPOS="24184.089" OwnPage="57" ItemID="511282613" PTYPE="4" WIDTH="522" HEIGHT="441.286796178338" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 441.287 L0 441.287 L0 0 Z" copath="M0 0 L522 0 L522 441.287 L0 441.287 L0 0 Z" gXpos="136.001" gYpos="24184.089" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="Hortātū Sarracēnī cum sē memorātī"/>
+                <ITEXT CH="Hortātū Sarrācēnī cum sē memorātī"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Hispānās urbēs quāsdam sibi subdere posse"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Haud frūstrā spērāret, eō sua maxima coepit"/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Agmina per celsōs Wasconum dūcere montēs."/>
+                <ITEXT CH="Agmina per celsōs Wascōnum dūcere montēs."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Quī cum prīmā Pyrenēī iuga iam superāsset,"/>
+                <ITEXT CH="Quī cum prīmā Pyreneī iuga iam superāsset,"/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Ad Pompelōnem, quod fertur nōbile castrum"/>
+                <ITEXT CH="Ad Pompēlōnem, quod fertur nōbile castrum"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Esse Navarrōrum, veniēns id coeperat armīs;"/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Trāiciēnsque vādō fāmōsum flūmen Hibērum,"/>
+                <ITEXT CH="Trāiciēnsque vadō fāmōsum flūmen Hibērum,"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Caesāris"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
@@ -6479,7 +6488,7 @@
                 <para PARENT="Latin"/>
                 <ITEXT CH="Illūstrēsque virī dederant, sīc inde recessit."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Ac Pompelōnem rediēns, dēiēcerat"/>
+                <ITEXT CH="Ac Pompēlōnem rediēns, dēiēcerat"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
                 <ITEXT CH=" eius"/>
                 <para PARENT="Latin"/>
@@ -6487,7 +6496,7 @@
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="24625.3757961783" OwnPage="57" ItemID="511840213" PTYPE="4" WIDTH="522" HEIGHT="124.738853503182" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 124.739 L0 124.739 L0 0 Z" copath="M0 0 L522 0 L522 124.739 L0 124.739 L0 0 Z" gXpos="136.001" gYpos="24625.3757961783" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="24625.3757961783" OwnPage="57" ItemID="511840213" PTYPE="4" WIDTH="522" HEIGHT="155.006369426796" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 155.006 L0 155.006 L0 0 Z" copath="M0 0 L522 0 L522 155.006 L0 155.006 L0 0 Z" gXpos="136.001" gYpos="24625.3757961783" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -6497,13 +6506,20 @@
                 <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit" CH="He entered in those lands a certain city named after Caesar Augustus."/>
                 <ITEXT CH=" The city is modern-day Zaragoza, which was called Caesaraugusta prior to the muslim invasion. The name Zaragoza derives from the second and following syllabes of Caesaraugusta. In the critical text the word is spelled "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Cesaris"/>
-                <ITEXT CH="."/>
+                <ITEXT CH=". The scansion on this line is difficult; my best solution is that "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Caesāris"/>
+                <ITEXT CH=" be scanned as a dactyl, which makes everything else fall into place."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="However having received hostages, which the already mentioned Sulayman, together with faithful and illustrious (men) from his own people, had given."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="And returning to Pamplona, he had thrown to the ground its walls, that there might not be rebellion."/>
+                <ITEXT FONT="DejaVu Serif Book" CH=" The "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="i"/>
+                <ITEXT FONT="DejaVu Serif Book" CH=" in "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="dēiēcerat"/>
+                <ITEXT FONT="DejaVu Serif Book" CH=" is consonantal, so its syllables are long-long-short-short."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
@@ -6616,7 +6632,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="per: through"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Pompelonem: Pamplona, a Spanish city"/>
+                <ITEXT CH="Pompēlonem: Pamplona, a Spanish city"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="posse: to be able; present active infinitive from possum, posse, potuī, -"/>
                 <para PARENT="Vocab"/>
@@ -6624,7 +6640,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="prīma: first; singular feminine nominative from prīmus, prīma, prīmum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Pyrēnēī: of the Pyrenee mountains"/>
+                <ITEXT CH="Pyrēneī: of the Pyrenee mountains"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quāsdam: certain; plural masculine accusative of quis"/>
                 <para PARENT="Vocab"/>
@@ -6640,7 +6656,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="rediēns: returning; singular nominative present participle from redeō, redīre, redivī(iī), reditus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Sarraceni: of the Saracen (muslim)"/>
+                <ITEXT CH="Sarrācēnī: of the Saracen (muslim)"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sē: himself"/>
                 <para PARENT="Vocab"/>
@@ -6668,7 +6684,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="urbēs: cities; plural feminine accusative from urbs, urbis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vādō: by means of the shallows; singular neuter ablative from vadum, vadī"/>
+                <ITEXT CH="vadō: by means of the shallows; singular neuter ablative from vadum, vadī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="veniēns: coming; singular nominative present participle from veniō, venīre, vēnī, ventus"/>
                 <para PARENT="Vocab"/>
