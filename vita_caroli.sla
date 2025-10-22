@@ -200,14 +200,14 @@
         <PAGE PAGEXPOS="712.001" PAGEYPOS="31636.116" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="76" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.001" PAGEYPOS="32468.119" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="77" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.001" PAGEYPOS="32468.119" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="78" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="403975557" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.001" gYpos="958792490988.052" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="403975557" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.001" gYpos="959394079077.2" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="404002501" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="15223915090.001" gYpos="958791932717.455" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="404002501" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="15246040726.001" gYpos="959393520806.603" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -6496,7 +6496,7 @@
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="24625.3757961783" OwnPage="57" ItemID="511840213" PTYPE="4" WIDTH="522" HEIGHT="155.006369426796" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 155.006 L0 155.006 L0 0 Z" copath="M0 0 L522 0 L522 155.006 L0 155.006 L0 0 Z" gXpos="136.001" gYpos="24625.3757961783" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="24625.3757961783" OwnPage="57" ItemID="511840213" PTYPE="4" WIDTH="522" HEIGHT="176.560509554187" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 176.561 L0 176.561 L0 0 Z" copath="M0 0 L522 0 L522 176.561 L0 176.561 L0 0 Z" gXpos="136.001" gYpos="24625.3757961783" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -6506,7 +6506,7 @@
                 <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit" CH="He entered in those lands a certain city named after Caesar Augustus."/>
                 <ITEXT CH=" The city is modern-day Zaragoza, which was called Caesaraugusta prior to the muslim invasion. The name Zaragoza derives from the second and following syllabes of Caesaraugusta. In the critical text the word is spelled "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Cesaris"/>
-                <ITEXT CH=". The scansion on this line is difficult; my best solution is that "/>
+                <ITEXT CH=". Zaragoza lies by the Ebro river. The scansion on this line is difficult; my best solution is that "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Caesāris"/>
                 <ITEXT CH=" be scanned as a dactyl, which makes everything else fall into place."/>
                 <para PARENT="footnotes"/>
@@ -6697,22 +6697,24 @@
         <PAGEOBJECT XPOS="136.001" YPOS="25016.092" OwnPage="59" ItemID="514198901" PTYPE="4" WIDTH="522" HEIGHT="380.188254777062" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 380.188 L0 380.188 L0 0 Z" copath="M0 0 L522 0 L522 380.188 L0 380.188 L0 0 Z" gXpos="136.001" gYpos="25016.092" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="Cumque Pyrēnēī regressus ad intima saltūs,"/>
+                <ITEXT CH="Cumque"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" Pyreneī regressus ad intima saltūs,"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Mīlite cum lassō"/>
-                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH=" callēs trānscenderet artōs"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Īnsidiās eius summō sub vertice montis"/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Tendēre Wascōnēs ausī, nova praelia temptant."/>
+                <ITEXT CH="Tendere Wascōnēs ausī, nova praelia temptant."/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Dēnique postrēmōs populī rēgālis adortī,"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Missilibus prīmō sternunt ex collibus altīs,"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Et Francōs, quamvīs"/>
-                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT CH=" armīs animīsque priōrēs,"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Impār fēcit et angustus locus īnferiōrēs."/>
@@ -6720,11 +6722,11 @@
                 <ITEXT CH="Rēx iam praecessit, tardumque remānserat agmen,"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Cūra vehendārum"/>
-                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
                 <ITEXT CH=" quod rērum praepediēbat."/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Fit"/>
-                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
                 <ITEXT CH=" pavor hinc exercitibus, subitōque tumultū"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Turbantur, victrīx latrōnum turba nefanda"/>
@@ -6733,24 +6735,27 @@
                 <trail PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="25396.2802547771" OwnPage="59" ItemID="514667669" PTYPE="4" WIDTH="522" HEIGHT="150.811745222938" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 150.812 L0 150.812 L0 0 Z" copath="M0 0 L522 0 L522 150.812 L0 150.812 L0 0 Z" gXpos="136.001" gYpos="25396.2802547771" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="25396.2802547771" OwnPage="59" ItemID="514667669" PTYPE="4" WIDTH="522" HEIGHT="160.509554140102" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 160.51 L0 160.51 L0 0 Z" copath="M0 0 L522 0 L522 160.51 L0 160.51 L0 0 Z" gXpos="136.001" gYpos="25396.2802547771" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH="It appears that the scansion of this line is SDSDDS."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit superscript" CH="2"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="(When) with his weary soldier(s) he (Charlemagne) crossed the narrow path, the Basques dared to stage an ambush under the highest peak of the mountain, trying to wage new battles. "/>
                 <ITEXT CH=" "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="mīlites"/>
                 <ITEXT CH=" is best translated as a collective singular: witih weary soldiers."/>
                 <para PARENT="footnotes"/>
-                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit superscript" CH="3"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="And the Franks who were below, although they were better (than the Basques) in arms and spirit, the narrow place made unequal (to the Basques)."/>
                 <para PARENT="footnotes"/>
-                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit superscript" CH="4"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Already the king had proceeded (through the mountain pass) and the slow army had remained, which the care of carrying the things had delayed."/>
                 <ITEXT CH=" The Basques attacked the baggage train at the rear of Charlemagne's army."/>
                 <para PARENT="footnotes"/>
-                <ITEXT FEATURES="inherit superscript" CH="4"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="From here there was a fear amongst the army, and they were thrown into confusion by the sudden tumult, and the victorious band of nefarious robbers seized great plunder and killed many."/>
+                <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit superscript" CH="5"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="From here there was a fear amongst the army, and they were thrown into confusion by the sudden tumult, and the victorious nefarious band of robbers seized great plunder and killed many."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
@@ -6845,7 +6850,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="praelia: battles; plural neuter accusative from praelium, praeliī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="praepediēbat: he was hindering, shackling, fettering; 3rd person singular imperfect active from praepediō, praepedīre, praepedīvī, praepedītus"/>
+                <ITEXT CH="praepediēbat: it was hindering, shackling, fettering; 3rd person singular imperfect active from praepediō, praepedīre, praepedīvī, praepedītus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="prīmō: first; singular masculine dative from prīmus, prīma, prīmum"/>
                 <para PARENT="Vocab"/>
@@ -6883,7 +6888,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="temptant: they tried; 3rd person plural present active from temptō, temptāre, temptāvī, temptātus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="tendere: to aim, plan, stretch, extend; present active infinitive from tendo, tendere, tetendi, tensus"/>
+                <ITEXT CH="tendere: to aim, plan, stretch, extend; present active infinitive from tendō, tendere, tetendī, tentus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="trānscenderet: he was crossing over; 3rd person singular imperfect active subjunctive from trānscendō, trānscendere, trānscendī, trānscēnsus"/>
                 <para PARENT="Vocab"/>
