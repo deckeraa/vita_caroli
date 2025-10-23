@@ -200,14 +200,14 @@
         <PAGE PAGEXPOS="712.001" PAGEYPOS="31636.116" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="76" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.001" PAGEYPOS="32468.119" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="77" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.001" PAGEYPOS="32468.119" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="78" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="403975557" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.001" gYpos="960856840191.483" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="403975557" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.001" gYpos="961228046649.943" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="404002501" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="15299839198.001" gYpos="960856281920.886" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="404002501" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="15313491694.001" gYpos="961227488379.347" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -8015,7 +8015,7 @@
                 <ITEXT FONT="DejaVu Serif Italic" CH="It is said he remained in the camp for many days."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="For here taking a trip eastward."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="From here taking a trip eastward."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
@@ -8161,7 +8161,8 @@
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="And from there continuing on quickly, he stationed a camp there, in the place where the grand river Elbe is mixed with the shore."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And from there continuing on quickly, he stationed a camp there, in the place where the grand river Elbe is mixed with the "/>
+                <ITEXT CH="Ohre river (alternatively, the shore)."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="For he wanted to arrange the things of the Saxons, and also of the Slavs, whom divides in the middle with the River Elbe."/>
@@ -8229,7 +8230,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nōn: see nec nōn"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ōra: border, mouth, shore; singular feminine nominative from ōra, ōrae"/>
+                <ITEXT CH="Ōra: likely means the Ohre river, a left tributary to Elbe; singular feminine nominative"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="pāgāna: pagan; singular feminine nominative from paganus, pagana, paganum"/>
                 <para PARENT="Vocab"/>
@@ -8286,29 +8287,31 @@
                 <para PARENT="Latin"/>
                 <ITEXT CH="Quaerere"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT CH=", vōta precēsque Deō persolvēre"/>
+                <ITEXT CH=", vōta precēsque Deō persolvere"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT CH=" cūrāns."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Atque citus properāns, assūmptā coniuge sēcum"/>
+                <ITEXT CH="Atque citus properāns, assūmptā coniuge"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT CH=" sēcum"/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Et natīs, urbem pervēnerat ad Tīcīnēnsem,"/>
+                <ITEXT CH="Et nātīs, urbem pervēnerat ad Ticinēnsem,"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="In quā nātālis Dominī fēstum celebrāvit."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Hīc igitur statuī prīmae cum fīne decadis"/>
+                <ITEXT CH="Hīc igitur statuī prīmae cum fīne decādis"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Annōrum Carolī, postquam rēx coeperat esse"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Francōrum sōlus, prīmum fīnīre libellum,"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Vīribus"/>
-                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
                 <ITEXT CH=" ut parvīs requiēs sōlātia praestet."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="32824.2038216561" OwnPage="77" ItemID="543001829" PTYPE="4" WIDTH="522" HEIGHT="100.433121019109" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 100.433 L0 100.433 L0 0 Z" copath="M0 0 L522 0 L522 100.433 L0 100.433 L0 0 Z" gXpos="136.001" gYpos="32824.2038216561" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="32830.2038216561" OwnPage="77" ItemID="543001829" PTYPE="4" WIDTH="522" HEIGHT="109.566878980848" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 109.567 L0 109.567 L0 0 Z" copath="M0 0 L522 0 L522 109.567 L0 109.567 L0 0 Z" gXpos="136.001" gYpos="32830.2038216561" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -8334,6 +8337,12 @@
                 <ITEXT FONT="DejaVu Serif Italic" CH="Taking care to perform vows and prayers to God."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Coniuge"/>
+                <ITEXT CH=" has a consonantal "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="i"/>
+                <ITEXT CH=" and its syllables are long-short-short."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit superscript" CH="5"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="So that rest might lend solace to my little strength."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
@@ -8367,7 +8376,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cūrāns: taking care; singular nominative present participle from cūrō, cūrāre, cūrāvī, cūrātus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="decadis: of the decade; singular feminine genitive from decas, decadis"/>
+                <ITEXT CH="decādis: of the decade; singular feminine genitive from decas, decādis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dēcrēvit: he decided; 3rd person singular perfect active from dēcernō, dēcernere, dēcrēvī, dēcrētus"/>
                 <para PARENT="Vocab"/>
@@ -8459,7 +8468,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="summe: exceedingly; adverb from summus, summa, summum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Tīcīnēnsem: Ticino, one of the cantons (regions) of Switzerland"/>
+                <ITEXT CH="Ticinēnsem: Ticino, one of the cantons (regions) of Switzerland"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tum: then"/>
                 <para PARENT="Vocab"/>
