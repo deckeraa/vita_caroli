@@ -218,14 +218,14 @@
         <PAGE PAGEXPOS="712.001" PAGEYPOS="39124.143" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="94" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.001" PAGEYPOS="39956.146" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="95" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.001" PAGEYPOS="39956.146" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="96" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="1628302174" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.001" gYpos="974576912445.842" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="1628302174" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.001" gYpos="975004488771.558" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="1628255406" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="15733828594.001" gYpos="974579353546.064" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="1628255406" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="15746665906.001" gYpos="975006929871.78" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -8520,7 +8520,7 @@
                 <ITEXT CH="Carolus collēgit procerēs ad concilium generāle in Wormaciā. Carolus dīxit: &quot;Volō pugnāre contrā Saxonēs in bellō.&quot; Cūr? Quia Saxonēs vīvēbant prope Francōs, et saepe invāsērunt fīnēs Francōrum."/>
                 <para PARENT="Latin"/>
                 <tab/>
-                <ITEXT CH="Erant caedēs, incendia, et praedae prope fīnēs. Quoque, nātūra Saxonum erat ferōx et Saxonēs colēbant nōn Chrīstum sed daemonēs."/>
+                <ITEXT CH="Erant caedēs, incendia, et praedae prope fīnēs. Quoque, nātūra Saxonum erat ferōx et Saxonēs colēbant nōn Chrīstum sed daemōnēs."/>
                 <para PARENT="Latin"/>
                 <tab/>
                 <ITEXT CH="Saxonēs nōn habēbant ūnum rēgem, sed habēbant multōs ducēs et multōs pāgōs. Ergō Saxonēs nōn potuērunt pugnāre pariter contrā Francōs."/>
@@ -8559,6 +8559,8 @@
                 <ITEXT CH="bellō: battle, war; singular neuter ablative from bellum, bellī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="caedēs: slaughter; plural feminine nominative from caedis, caedis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Carbōnāta: the name of a villa"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Carolō: Charlemagne, AD 748-814, King of the Franks and Emperor of the Western Roman Empire, member of the Carolingian Dynasty"/>
                 <para PARENT="Vocab"/>
@@ -8710,7 +8712,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="saepe: often"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Saxonēs: The Saxons"/>
+                <ITEXT CH="Saxonēs: the Saxons"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Saxōnum: of the Saxons"/>
                 <para PARENT="Vocab"/>
@@ -8752,7 +8754,7 @@
                 <tab/>
                 <ITEXT CH="Carolus statuit sibi"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH=" subdere gentem Saxonum. Vastāvit terrās Saxonum lātē cum ferrō et ignī."/>
+                <ITEXT CH=" subdere gentem Saxonum. Vāstāvit terrās Saxonum lātē cum ferrō et ignī."/>
                 <para PARENT="Latin"/>
                 <tab/>
                 <ITEXT CH="Erat castellum, nōmine Ērēsburg. Ērēsburg erat valdē forte. Prope Ērēsburg erat simulācrum quod vocitābant Irminsul. Hoc simulācrum erat columna magna et decōra. Rēx Carolus ēvertit hoc simulācrum."/>
@@ -8791,7 +8793,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="castellum: castle, stronghold; singular neuter nominative from castellum, castellī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="castra: camp, forts; plural neuter accusative from castrum, castrī"/>
+                <ITEXT CH="castra: camp(s), forts; plural neuter accusative from castrum, castrī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="columna: column; singular feminine nominative from columna, columnae"/>
                 <para PARENT="Vocab"/>
@@ -8801,7 +8803,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="decōra: elegance, beauty; singular feminine nominative from decus, decoris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Deus: god; singular masculine nominative from Deus, Dei"/>
+                <ITEXT CH="Deus: God; singular masculine nominative from Deus, Dei"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="diēbus: days; plural common ablative from diēs, diēī"/>
                 <para PARENT="Vocab"/>
@@ -8931,7 +8933,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vocitābant: they called; 3rd person plural imperfect active from vocitō, vocitāre, vocitāvī, vocitātus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Wisuram: The River Weser, the second longest river in Germany"/>
+                <ITEXT CH="Wisuram: the River Weser, the second longest river in Germany"/>
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
@@ -8939,12 +8941,12 @@
             <StoryText>
                 <DefaultStyle/>
                 <tab/>
-                <ITEXT CH="Papa Adrianus misit legatos ad regem Carolum. Adrianus deposcit auxilium Carolī magnī contrā Langobardos"/>
+                <ITEXT CH="Pāpa Adriānus mīsit lēgātōs ad rēgem Carolum. Adriānus dēposcit auxilium Carolī magnī contrā Langobardōs"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH=". In illō tempore Desiderius erat rex Langobardōrum. Sed legatī Adrianī nōn potuērunt ambulāre ad terras Francōrum quia terra Langobardorum erat inter Roma et terras Francōrum. Ergo, legatus nōmine Petrus conscendit navem et petiit Massiliam per longō circuitū mare. Deinde post longum iter terrēnum, Petrus adīvit in villā Theodōne vocātā. Petrus deposcit auxilium Carolī, et Carolus decrevit defendere Rōmānōs."/>
+                <ITEXT CH=". In illō tempore Dēsīderius erat rēx Langobardōrum. Sed lēgātī Adriānī nōn potuērunt ambulāre ad terrās Francōrum quia terra Langōbardorum erat inter Rōmam et terrās Francōrum. Ergo, lēgātus nōmine Petrus cōnscendit nāvem et petiit Massiliam per longō circuitū mare. Deinde post longum iter terrēnum, Petrus adīvit in vīllā Theodōne vocātā. Petrus dēposcit auxilium Carolī, et Carolus dēcrēvit dēfendere Rōmānōs."/>
                 <para PARENT="Latin"/>
                 <tab/>
-                <ITEXT CH="Atque Carolus collēgit agmen et pervēnit in urbem Genuam. Carolus dēcrēvit dīvīsit agmen suum et invādere Langōbardōs cum geminō bellō. Ūna pars iit per montem Iovis cum duce Bernhardō. Alia pars iit per Cīnisium. Duplex exercitus irruerat arva Italiae, lātē vastāns rēgnum opulentum."/>
+                <ITEXT CH="Atque Carolus collēgit agmen et pervēnit in urbem Genuam. Carolus dēcrēvit dīvīsit agmen suum et invādere Langōbardōs cum geminō bellō. Ūna pars iit per montem Iovis cum duce Bernhardō. Alia pars iit per Cīnisium. Duplex exercitus irruerat arva Ītaliae, lātē vastāns rēgnum opulentum."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
