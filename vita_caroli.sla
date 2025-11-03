@@ -228,14 +228,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="41620.1616" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="100" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="42452.1648" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="101" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="42452.1648" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="102" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="1481145463" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.0008" gYpos="981760766230.882" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="1481145463" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.0008" gYpos="982475663316.611" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1475546983" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="15941552410.0008" gYpos="981763207331.104" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1475546983" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="15961777786.0008" gYpos="982478104416.833" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -2573,7 +2573,7 @@
                 <para PARENT="Latin"/>
                 <ITEXT CH="Hīc hūmānārum"/>
                 <ITEXT FEATURES="inherit superscript" CH="11"/>
-                <ITEXT CH=" videās lūdibria rērum,"/>
+                <ITEXT CH=" videās lūdībria rērum,"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Quam variō cursū vītae rota volvitur huius."/>
                 <para PARENT="Latin"/>
@@ -2931,7 +2931,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="longō: long, far; singular masculine ablative from longus, longa -um, longior -or -us, longissimus -a -um"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="lūdibria: mockeries, wantonness; plural neuter accusative from lūdibrium, lūdibriī"/>
+                <ITEXT CH="lūdībria: mockeries, wantonness; plural neuter accusative from lūdībrium, lūdībriī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="memorātum: the aforementioned (from context), having been remembered; singular neuter nominative perfect passive participle from memorō, memorāre, memorāvī, memorātus"/>
                 <para PARENT="Vocab"/>
@@ -3122,7 +3122,7 @@
                 <para PARENT="Latin"/>
                 <ITEXT CH="Inprīmīs hoc cōnsilium perhibētur inīsse,"/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Ut iūgiter bellum Saxonibus ingererētur"/>
+                <ITEXT CH="Ut iugiter bellum Saxonibus ingererētur"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
                 <ITEXT CH=","/>
                 <para PARENT="Latin"/>
@@ -3323,7 +3323,7 @@
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.0008" YPOS="22222.5600929936" OwnPage="51" ItemID="1529128951" PTYPE="4" WIDTH="522" HEIGHT="166.012738853535" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 166.013 L0 166.013 L0 0 Z" copath="M0 0 L522 0 L522 166.013 L0 166.013 L0 0 Z" gXpos="136.0008" gYpos="22222.5600929936" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.0008" YPOS="22222.5600929936" OwnPage="51" ItemID="1529128951" PTYPE="4" WIDTH="522" HEIGHT="179.437359235719" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 179.437 L0 179.437 L0 0 Z" copath="M0 0 L522 0 L522 179.437 L0 179.437 L0 0 Z" gXpos="136.0008" gYpos="22222.5600929936" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -3339,7 +3339,11 @@
                 <ITEXT FONT="DejaVu Serif Italic" CH="That continuosly war with the Saxons might be waged."/>
                 <ITEXT CH=" The subjunctive is used because this is a purpose clause; the imperfect tense of "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="ingererētur"/>
-                <ITEXT CH=" doesn't really matter for translation."/>
+                <ITEXT CH=" doesn't really matter for translation. There must be a short "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="u"/>
+                <ITEXT CH=" on "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="iūgiter"/>
+                <ITEXT CH=" to fit the meter."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="(Charlegmagne) had experienced them (the Saxons) (to be) unmindful of faith or every treaty."/>
@@ -5499,7 +5503,7 @@
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.0008" YPOS="29645.8994726115" OwnPage="69" ItemID="1567078839" PTYPE="4" WIDTH="522" HEIGHT="250.214127388543" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 250.214 L0 250.214 L0 0 Z" copath="M0 0 L522 0 L522 250.214 L0 250.214 L0 0 Z" gXpos="136.0008" gYpos="29645.8994726115" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.0008" YPOS="29650.8994726115" OwnPage="69" ItemID="1567078839" PTYPE="4" WIDTH="522" HEIGHT="228.32218343949" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 228.322 L0 228.322 L0 0 Z" copath="M0 0 L522 0 L522 228.322 L0 228.322 L0 0 Z" gXpos="136.0008" gYpos="29650.8994726115" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
