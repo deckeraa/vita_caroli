@@ -450,7 +450,7 @@
                 <para PARENT="Latin"/>
                 <ITEXT CH="Assiduē fierī cēdēs, incendia, praede."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Saxonum nātūra ferōx et pectora dūra,"/>
+                <ITEXT CH="Saxōnum nātūra ferōx et pectora dūra,"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Ferre iugum Chrīstī necdum dīgnāta"/>
                 <ITEXT FEATURES="inherit superscript" CH="6"/>
@@ -1070,7 +1070,7 @@
         <PAGEOBJECT XPOS="136.0008" YPOS="13368.0528" OwnPage="31" ItemID="947081434" PTYPE="4" WIDTH="522" HEIGHT="291.091280254777" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 291.091 L0 291.091 L0 0 Z" copath="M0 0 L522 0 L522 291.091 L0 291.091 L0 0 Z" gXpos="136.0008" gYpos="13368.0528" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="Dēnique Westfalos vocitant in parte manentēs"/>
+                <ITEXT CH="Dēnique Westfālōs vocitant in parte manentēs"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Occiduā, quōrum nōn longē terminus amne"/>
                 <para PARENT="Latin"/>
@@ -1078,7 +1078,7 @@
                 <para PARENT="Latin"/>
                 <ITEXT CH="Inhabitābant Osterliudī, quōs nōmine quīdam"/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Ostvalos aliō vocitant, cōnfīnia"/>
+                <ITEXT CH="Ostvālōs aliō vocitant, cōnfīnia"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH=" quōrum"/>
                 <para PARENT="Latin"/>
@@ -1088,7 +1088,7 @@
                 <para PARENT="Latin"/>
                 <ITEXT CH="Inter praedictōs mediā regiōne morantur"/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Angariī, populus Saxonum tertius; hōrum"/>
+                <ITEXT CH="Angariī, populus Saxōnum tertius; hōrum"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Patria Francōrum terrīs sotiātur ab austrō,"/>
                 <para PARENT="Latin"/>
@@ -1192,7 +1192,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Osterliudī: Another name of the Eastphalians"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Ostvalōs: Eastphalians, members of a Saxon tribe"/>
+                <ITEXT CH="Ostvālōs: Eastphalians, members of a Saxon tribe"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="parte: part; singular feminine ablative from pars, partis"/>
                 <para PARENT="Vocab"/>
@@ -1234,7 +1234,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vocitant: they call; 3rd person plural present active from vocitō, vocitāre, vocitāvī, vocitātus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Westfalōs: Westphalians, members of a Saxon tribe"/>
+                <ITEXT CH="Westfālōs: Westphalians, members of a Saxon tribe"/>
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
@@ -4200,7 +4200,7 @@
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT CH=" erat in castrīs cautēla remissior illīs,"/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Ut possent nimiā Saxonum fraude nocērī."/>
+                <ITEXT CH="Ut possent nimiā Saxōnum fraude nocērī."/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Sōl summō coelī prōnus vergēbat"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
@@ -4638,7 +4638,7 @@
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH=" ēgressī pariter rediērunt."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Hīs sē Saxonum quoddam"/>
+                <ITEXT CH="Hīs sē Saxōnum quoddam"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT CH=" permiscuit agmen,"/>
                 <para PARENT="Latin"/>
@@ -6100,7 +6100,7 @@
                 <para PARENT="Latin"/>
                 <ITEXT CH="Paene ducēs, populumque simul, tōtumque senātum"/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Saxonum, nisi quod quīdam Widokindus"/>
+                <ITEXT CH="Saxōnum, nisi quod quīdam Widokindus"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" abinde"/>
                 <para PARENT="Latin"/>
@@ -6362,7 +6362,7 @@
                 <para PARENT="Latin"/>
                 <ITEXT CH="Rēx Sarrācēnūs quibus hunc praefēcerat ōlim."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Ob hōc Saxonum tandem regiōne relictā,"/>
+                <ITEXT CH="Ob hōc Saxōnum tandem regiōne relictā,"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Gallica rēgna petit"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
@@ -8019,7 +8019,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="venientēs: coming; plural common nominative present participle from veniō, venīre, vēnī, ventus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Westfalōs: Westphalians, members of a Saxon tribe"/>
+                <ITEXT CH="Westfālōs: Westphalians, members of a Saxon tribe"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Wisuram: the River Weser, the second longest river in Germany"/>
                 <para PARENT="Vocab"/>
@@ -8564,13 +8564,13 @@
                 <ITEXT CH="Carolus collēgit procerēs ad concilium generāle in Wormaciā. Carolus dīxit: &quot;Volō pugnāre contrā Saxonēs in bellō.&quot; Cūr? Quia Saxonēs vīvēbant prope Francōs, et saepe invāsērunt fīnēs Francōrum."/>
                 <para PARENT="Latin"/>
                 <tab/>
-                <ITEXT CH="Erant caedēs, incendia, et praedae prope fīnēs. Quoque, nātūra Saxonum erat ferōx et Saxonēs colēbant nōn Chrīstum sed daemōnēs."/>
+                <ITEXT CH="Erant caedēs, incendia, et praedae prope fīnēs. Quoque, nātūra Saxōnum erat ferōx et Saxonēs colēbant nōn Chrīstum sed daemōnēs."/>
                 <para PARENT="Latin"/>
                 <tab/>
                 <ITEXT CH="Saxonēs nōn habēbant ūnum rēgem, sed habēbant multōs ducēs et multōs pāgōs. Ergō Saxonēs nōn potuērunt pugnāre pariter contrā Francōs."/>
                 <para PARENT="Latin"/>
                 <tab/>
-                <ITEXT CH="Erant trēs partēs Saxonum: Westfalos in occiduā, Ostvalos in oriente, et Angariī inter Westfalos et Ostvalos."/>
+                <ITEXT CH="Erant trēs partēs Saxōnum: Westfālōs in occiduā, Ostvālōs in oriente, et Angariī inter Westfālōs et Ostvālōs."/>
                 <para PARENT="Latin"/>
             </StoryText>
             <PageItemAttributes>
@@ -8713,7 +8713,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="oriente: daybreak, dawn, East; singular ablative from oriēns, orientis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Ostvalōs: Eastphalians, members of a Saxon tribe"/>
+                <ITEXT CH="Ostvālōs: Eastphalians, members of a Saxon tribe"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="pāgōs: district, region; plural masculine accusative from pāgus, pāgī"/>
                 <para PARENT="Vocab"/>
@@ -8789,7 +8789,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="volō: I want; 1st person singular present active from volō, velle, voluī, -"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Westfalōs: Westphalians, members of a Saxon tribe"/>
+                <ITEXT CH="Westfālōs: Westphalians, members of a Saxon tribe"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Wormaciā: in Worms, a city in Germany; singular feminine ablative from Wormacia, Wormaciae"/>
                 <trail PARENT="Vocab"/>
@@ -8801,7 +8801,7 @@
                 <tab/>
                 <ITEXT CH="Carolus statuit sibi"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH=" subdere gentem Saxonum. Vāstāvit terrās Saxonum lātē cum ferrō et ignī."/>
+                <ITEXT CH=" subdere gentem Saxōnum. Vāstāvit terrās Saxōnum lātē cum ferrō et ignī."/>
                 <para PARENT="Latin"/>
                 <tab/>
                 <ITEXT CH="Erat castellum, nōmine Ērēsburg. Ērēsburg erat valdē forte. Prope Ērēsburg erat simulācrum quod vocitābant Irminsul. Hoc simulācrum erat columna magna et decōra. Rēx Carolus ēvertit hoc simulācrum."/>
@@ -9399,7 +9399,7 @@
                 <ITEXT CH="Rēx dūxit tempus hiemis in vīllā nōmine Carisiacō. Carolus convocāvit omnēs procerēs ad cōnsilium. Et dīxit: &quot;Saxonēs colunt daemonēs, et nōn colunt Chrīstum. Saxonēs nōn volunt vīvere in pāce, sed saepe volunt invādere fīnēs Francōrum. Ergō, dēbēmus pugnāre in bellō contrā Saxonēs et dēbēmus ēvertere simulacra eōrum.&quot; Carolus trānsīvit flūmen Rhēnum cum agmine suō et pugnāvit contrā castellum in Sigiburg. Tunc petiit Eresburg. Saxonēs dēstrūxerant castellum in Eresburg, ergō Carolus mūnīvit rūrsus. Tunc Carolus pervēnit ad amnem Wisūram. Erat turba magna prope amnem. Turba voluit obsistere agminī Carōlī. Sed turba fūgit in certāmine. Carolus prōstrāverat innumerōs dē turbā."/>
                 <para PARENT="Latin"/>
                 <tab/>
-                <ITEXT CH="Inde Carolus iit in regiōnēs Osterliudī. Vir, nōmine Hessī, occurrit Carolō. Hessī voluit facere pācem inter gentem suam et Carolum. Ergō Ostvalos spospondērunt iūrāmenta et dedērunt obsidēs Carōlō, et erat pāx."/>
+                <ITEXT CH="Inde Carolus iit in regiōnēs Osterliudī. Vir, nōmine Hessī, occurrit Carolō. Hessī voluit facere pācem inter gentem suam et Carolum. Ergō Ostvālōs spospondērunt iūrāmenta et dedērunt obsidēs Carōlō, et erat pāx."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -9518,7 +9518,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Osterliudī: another name of the Eastphalians"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Ostvalōs: Eastphalians, members of a Saxon tribe"/>
+                <ITEXT CH="Ostvālōs: Eastphalians, members of a Saxon tribe"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="pāce: peace; singular feminine ablative from pāx, pācis"/>
                 <para PARENT="Vocab"/>
@@ -9590,7 +9590,7 @@
             <StoryText>
                 <DefaultStyle/>
                 <tab/>
-                <ITEXT CH="Carolus posuit partem exercituum iuxtā amnem Wisuram. Hī mīlitēs erat sēcūrī et nōn habēbant cautēlam. Ergō Saxonēs fēcērunt fraudem: quīdam mīlitēs Francōrum ferēbant pābula equīs ad castra, et agmen Saxonum permiscuit cum Francīs. Saxonēs fīnxērunt esse amīcōs et quoque ferēbunt pābula. Itaque Saxonēs intrāvērunt castrum Francōrum. Dum Francī dormiēbant, Saxonēs fēcērunt caedem magnam et necāvērunt multōs Francōs. Tunc Francī nōn dormiēbant, et coepērunt pugnāre contrā Saxonēs. Saxonēs fugāvērunt ā castrīs. Posteā Carolus vēnit ad castrum et pugnābat contrā Saxonēs, necāvit multōs, et rediit ad terrās Francōrum."/>
+                <ITEXT CH="Carolus posuit partem exercituum iuxtā amnem Wisuram. Hī mīlitēs erat sēcūrī et nōn habēbant cautēlam. Ergō Saxonēs fēcērunt fraudem: quīdam mīlitēs Francōrum ferēbant pābula equīs ad castra, et agmen Saxōnum permiscuit cum Francīs. Saxonēs fīnxērunt esse amīcōs et quoque ferēbunt pābula. Itaque Saxonēs intrāvērunt castrum Francōrum. Dum Francī dormiēbant, Saxonēs fēcērunt caedem magnam et necāvērunt multōs Francōs. Tunc Francī nōn dormiēbant, et coepērunt pugnāre contrā Saxonēs. Saxonēs fugāvērunt ā castrīs. Posteā Carolus vēnit ad castrum et pugnābat contrā Saxonēs, necāvit multōs, et rediit ad terrās Francōrum."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -9728,7 +9728,7 @@
                 <ITEXT CH="Carolus audīvit quod in Ītaliā erat tirannum nōmine Hrodgaudum. Hrodgaūdum erat ducem Foroiulensibus sub Rēge Carolō, sed rebellāvit contrā Carolum. Hrodgaudum voluit sibi subdere tōtam Ītaliam. Ergō Carolus iussit agmen suum trānsīre iuga Alpīnārum. Tunc Carolus interfēcit Hrodgaudum."/>
                 <para PARENT="Latin"/>
                 <tab/>
-                <ITEXT CH="Carolus revertit ad terrās Francōrum. Erat rebelliō Saxonum. Saxonēs pugnābant contrā castrum Sigiburg, sed nōn potuērunt id vincere. Carolus conventum prōcērum fēcit in urbe Wormacīā et collēgit agmen. Exercitus pugnāvit fortiter contrā Saxonēs et fēcit caedem magnam. Carolus vēnit ad fontēs amnis Lyppiae et invēnit catervam Saxonum. Hominēs in catervā dīxērunt: &quot;Ō Rēx, īgnōsce scelera nostra. Volumus crēdere in Chrīstō!&quot; Ergō Carolus nōn pugnābat contrā istōs Saxonēs et multī hominēs suscēpērunt baptismum."/>
+                <ITEXT CH="Carolus revertit ad terrās Francōrum. Erat rebelliō Saxōnum. Saxonēs pugnābant contrā castrum Sigiburg, sed nōn potuērunt id vincere. Carolus conventum prōcērum fēcit in urbe Wormacīā et collēgit agmen. Exercitus pugnāvit fortiter contrā Saxonēs et fēcit caedem magnam. Carolus vēnit ad fontēs amnis Lyppiae et invēnit catervam Saxōnum. Hominēs in catervā dīxērunt: &quot;Ō Rēx, īgnōsce scelera nostra. Volumus crēdere in Chrīstō!&quot; Ergō Carolus nōn pugnābat contrā istōs Saxonēs et multī hominēs suscēpērunt baptismum."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -9916,7 +9916,7 @@
                 <ITEXT CH=" rebellīs. Sed virī in urbe erant valdē īrātī. Itaque sē occultābant in iuga Pyrenēī. Quandō exercitus Carolī trānsībat per saltūs, subitō virī pugnābant contrā Francōs, necāvērunt multōs hominēs, cēpērunt praedam, et fugāvērunt iterum in montēs."/>
                 <para PARENT="Latin"/>
                 <tab/>
-                <ITEXT CH="Quoque in orientālī, Saxonēs iterum pugnābant contrā Francōs et necāverunt multōs virōs, fēminās, et līberōs, et trādiderunt ecclēsiās flammīs. Carolus revertit ab Hispāniā, iit ad terrās Saxonum, et necāvit tōtam exercitum Saxonum."/>
+                <ITEXT CH="Quoque in orientālī, Saxonēs iterum pugnābant contrā Francōs et necāverunt multōs virōs, fēminās, et līberōs, et trādiderunt ecclēsiās flammīs. Carolus revertit ab Hispāniā, iit ad terrās Saxōnum, et necāvit tōtam exercitum Saxōnum."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -10172,7 +10172,7 @@
                 <ITEXT FONT="DejaVu Serif Italic" CH="Annō 780"/>
                 <para PARENT="Latin"/>
                 <tab/>
-                <ITEXT CH="Carolus vēnit ad flūmen Ovaccrum, et ibi invēnit magnam turbam Saxonum quī voluērunt crēdere Chrīstō. Et multī hominēs Saxonum suscēpērunt baptismam."/>
+                <ITEXT CH="Carolus vēnit ad flūmen Ovaccrum, et ibi invēnit magnam turbam Saxōnum quī voluērunt crēdere Chrīstō. Et multī hominēs Saxōnum suscēpērunt baptismam."/>
                 <para PARENT="Latin"/>
                 <tab/>
                 <ITEXT CH="Posteā, Carolus iit ad Rōmam et ōrāvit. Pervēnit ad Ticinēnsem, et ibi celebrāvit Nātālem Dominī."/>
